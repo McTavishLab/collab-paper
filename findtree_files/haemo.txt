@@ -1,0 +1,97 @@
+Members of None present in the following studies in the OpenTree Phylesystem
+Only returning studies with TreeBase links
+
+Study pg_305 tree(s) tree5973, tree5972, tree5970, tree5971, tree5968, tree5969
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_305
+Reference: Parfrey, L.W., Grant J.R., Tekle Y.I., Lasek-nesselquist E., Patterson D.J., Morrison H.G., Sogin M., and Katz L.A. 2010. Broadly sampled multigene analyses yield a well-resolved eukaryotic tree of life. Systematic Biology 59 (5): 518-33.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10562
+
+Study pg_309 tree(s) tree256, tree257, tree255, tree254
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_309
+Reference: Leigh J., Susko E., Baumgartner M., & Roger A. 2007. Testing Phylogenetic Congruence in Phylogenomic Analysis. Systematic Biology, 57(1): 104-115.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1881
+
+Study ot_548 tree(s) Tr90878
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_548
+Reference: Restrepo S., Enciso J., Tabima J.F., & Riano-pachon D. 2015. Phylogenomics of the Kingdom Protista. Academia, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18190
+
+Study ot_564 tree(s) Tr85317
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_564
+Reference: Grant D Jones, Ernest P Williams, Allen R Place, Rosemary Jagus, Tsvetan R Bachvaroff, 2015, 'The alveolate translation initiation factor 4E family reveals a custom toolkit for translational control in core dinoflagellates', BMC Evolutionary Biology, vol. 15, no. 1, p. 14
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S16938
+
+Study ot_540 tree(s) Tr90878
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_540
+Reference: Restrepo S., Enciso J., Tabima J.F., & Riano-pachon D. 2015. Phylogenomics of the Kingdom Protista. Academia, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18190
+
+Study ot_87 tree(s) Tr64119
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_87
+Reference: Tsvetan R. Bachvaroff, Sebastian G. Gornik, Gregory T. Concepcion, Ross F. Waller, Gregory S. Mendez, J. Casey Lippmeier, Charles F. Delwiche, 2014, 'Dinoflagellate phylogeny revisited: Using ribosomal proteins to resolve deep branching dinoflagellate clades', Molecular Phylogenetics and Evolution, vol. 70, pp. 314-322
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13997
+
+Study pg_2759 tree(s) tree6374, tree6372, tree6373, tree6371
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2759
+Reference: David A. Morrison, 2006, 'Phylogenetic Analyses of Parasites in the New Millennium', Advances in Parasitology, pp. 1-124
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1465
+
+Study pg_2555 tree(s) tree5583
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2555
+Reference: Martinez de la puente J., Martinez J., Rivero de aguilar J., Herrero J., & Merino S. 2011. On the specificity of avian blood parasites: revealing specific and generalist relationships between haemosporidians and biting midges. Molecular Ecology , .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11439
+
+Study pg_310 tree(s) tree259, tree261, tree260
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_310
+Reference: Katz, L.A., Grant J.R., Parfrey L.W., Gant A., O'kelly C., Anderson O.R., Molestina R.E., and Nerad T. 2011. Subulatomonas tetraspora nov. gen. nov. sp. is a member of a previously unrecognized major clade of eukaryotes. Protist 162 (5): 762-773.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11336
+
+Study pg_312 tree(s) tree263
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_312
+Reference: Takishita, K., Martin K., Komatsuzaki H., Yabuki A., Inagaki Y., Cepicka I., Smejkalova P., Silberman J.D., Hashimoto T., Roger A.J., and Simpson A.G. 2011. Multigene phylogenies of diverse Carpediemonas-like organisms identify the closest relatives of 'amitochondriate' diplomonads and retortamonads. Protist 163 (3): 344-355.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11689
+
+Study pg_425 tree(s) tree5976, tree5978, tree5979, tree5977
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_425
+Reference: L. A. Katz, J. R. Grant, L. W. Parfrey, J. G. Burleigh, 2012, 'Turning the Crown Upside Down: Gene Tree Parsimony Roots the Eukaryotic Tree of Life', Systematic Biology, vol. 61, no. 4, pp. 653-660
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12157
+
+Study pg_239 tree(s) tree112, tree111
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_239
+Reference: Parfrey, L.W., Grant J.R., Tekle Y.I., Lasek-nesselquist E., Patterson D.J., Morrison H.G., Sogin M., and Katz L.A. 2010. Broadly sampled multigene analyses yield a well-resolved eukaryotic tree of life. Systematic Biology 59 (5): 518-33.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10562
+
+Study ot_1838 tree(s) Tr112238, Tr112229, Tr112240, Tr112233, Tr112234, Tr112243, Tr112239, Tr112226, Tr112236, Tr112245, Tr112232, Tr112242, Tr112228, Tr112235, Tr112244, Tr112224, Tr112230, Tr112225, Tr112231, Tr112247, Tr112227, Tr112237, Tr112241
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1838
+Reference: Salunke R., Mourier T., Banerjee M., Pain A., & Shanmuga D. 2018. Highly diverged novel subunit composition of apicomplexan F-type ATP synthase identified from Toxoplasma gondii. PLoS Biology, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S22877
+
+Study pg_1135 tree(s) tree2283, tree2282
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1135
+Reference: Yoo, M. J., Albert, V. A., Soltis, P. S., & Soltis, D. E. (2006). Phylogenetic diversification of glycogen synthase kinase 3/SHAGGY-like kinase genes in plants. BMC plant biology, 6(1), 3.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1515
+
+Study pg_2847 tree(s) tree6609, tree6610, tree6611
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2847
+Reference: Ding He, Omar Fiz-Palacios, Cheng-Jie Fu, Johanna Fehling, Chun-Chieh Tsai, Sandra L. Baldauf, 2014, 'An Alternative Root for the Eukaryote Tree of Life', Current Biology, vol. 24, no. 4, pp. 465-470
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14693
+
+Study pg_1639 tree(s) tree3313
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1639
+Reference: Voigt, K., & Wstemeyer J. 2000. Reliable amplification of actin genes facilitates deep-level phylogeny. Microbiological Research 155 (3): 179-195.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S667
+
+Study pg_2760 tree(s) tree6375
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2760
+Reference: Tsvetan R. Bachvaroff, Sebastian G. Gornik, Gregory T. Concepcion, Ross F. Waller, Gregory S. Mendez, J. Casey Lippmeier, Charles F. Delwiche, 2014, 'Dinoflagellate phylogeny revisited: Using ribosomal proteins to resolve deep branching dinoflagellate clades', Molecular Phylogenetics and Evolution, vol. 70, pp. 314-322
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13997
+
+Study pg_2925 tree(s) tree6756
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2925
+Reference: Grant, J.R., and L.A. Katz. 2014. Building a phylogenomic pipeline for the eukaryotic tree of life? Addressing deep phylogenies with genome-scale data. PLOS Currents Tree of Life, April 2(1).
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14480
+
+Study ot_766 tree(s) Tr85440
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_766
+Reference: Romain Derelle, Guifré Torruella, Vladimír Klimeš, Henner Brinkmann, Eunsoo Kim, Čestmír Vlček, B. Franz Lang, Marek Eliáš, 2015, 'Bacterial proteins pinpoint a single eukaryotic root', Proceedings of the National Academy of Sciences, vol. 112, no. 7, pp. E693-E699
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S16424
