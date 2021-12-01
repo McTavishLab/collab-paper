@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_22551</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>712</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_22551</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>712</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2113515068|ref|XM_044274635.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo gargarizans siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_044274635</Hit_accession>
+  <Hit_len>2491</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.828</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>5.03164e-93</Hsp_evalue>
+      <Hsp_query-from>316</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>290</Hsp_hit-from>
+      <Hsp_hit-to>685</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>396</Hsp_align-len>
+      <Hsp_qseq>TGTCTTACCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>TGTTTTGCCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGATCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGTGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCATCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>||| || || || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  |||| || || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| ||||||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2113515066|ref|XM_044274634.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo gargarizans siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_044274634</Hit_accession>
+  <Hit_len>2733</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.828</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>5.03164e-93</Hsp_evalue>
+      <Hsp_query-from>316</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>532</Hsp_hit-from>
+      <Hsp_hit-to>927</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>396</Hsp_align-len>
+      <Hsp_qseq>TGTCTTACCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>TGTTTTGCCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGATCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGTGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCATCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>||| || || || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  |||| || || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| ||||||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2113515064|ref|XM_044274633.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo gargarizans siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_044274633</Hit_accession>
+  <Hit_len>3842</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.828</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>5.03164e-93</Hsp_evalue>
+      <Hsp_query-from>316</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>1641</Hsp_hit-from>
+      <Hsp_hit-to>2036</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>396</Hsp_align-len>
+      <Hsp_qseq>TGTCTTACCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>TGTTTTGCCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGATCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGTGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCATCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>||| || || || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  |||| || || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| ||||||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|91178818|gb|DQ282763.1|</Hit_id>
+  <Hit_def>Bufo gargarizans andrewsi voucher CAS 214911 seventh in absentia gene, partial cds</Hit_def>
+  <Hit_accession>DQ282763</Hit_accession>
+  <Hit_len>397</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.828</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>5.03164e-93</Hsp_evalue>
+      <Hsp_query-from>316</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>396</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>396</Hsp_align-len>
+      <Hsp_qseq>TGTCTTACCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>TGTTTTGCCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGATCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGTGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCATCCTGCAAATGGCAGGGTTCCTTGGATGCTGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>||| || || || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  |||| || || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| ||||||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2019489866|ref|XM_040409553.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_040409553</Hit_accession>
+  <Hit_len>2504</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.221</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>6.12979e-92</Hsp_evalue>
+      <Hsp_query-from>323</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>292</Hsp_hit-from>
+      <Hsp_hit-to>680</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>CCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>CCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGCTCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGCGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCGTCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  ||||||| || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| || |||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2019489864|ref|XM_040409552.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_040409552</Hit_accession>
+  <Hit_len>2621</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.221</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>6.12979e-92</Hsp_evalue>
+      <Hsp_query-from>323</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>409</Hsp_hit-from>
+      <Hsp_hit-to>797</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>CCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>CCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGCTCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGCGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCGTCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  ||||||| || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| || |||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2019489862|ref|XM_040409550.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_040409550</Hit_accession>
+  <Hit_len>2753</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.221</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>6.12979e-92</Hsp_evalue>
+      <Hsp_query-from>323</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>541</Hsp_hit-from>
+      <Hsp_hit-to>929</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>CCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>CCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGCTCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGCGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCGTCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  ||||||| || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| || |||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2019489860|ref|XM_040409549.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo siah E3 ubiquitin protein ligase 1 (SIAH1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_040409549</Hit_accession>
+  <Hit_len>3026</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.221</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>6.12979e-92</Hsp_evalue>
+      <Hsp_query-from>323</Hsp_query-from>
+      <Hsp_query-to>711</Hsp_query-to>
+      <Hsp_hit-from>814</Hsp_hit-from>
+      <Hsp_hit-to>1202</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>CCTCCCATTCTTCAGTGCCAGAGTGGTCATTTGGTTTGTAGCAACTGTCGACCAAAACTTACATGTTGTCCGACTTGCAGGGGCCCACTGGGCTCTATTCGTAACTTGGCTATGGAGAAGGTTGCCAATTCGGTGTTATTTCCATGCAAATATGCCTCTTCTGGATGTGAAATAACCTTGCCACATACAGAAAAAGCGGATCATGAAGAGCTCTGTGAATTCAGGCCTTATTCGTGTCCTTRCCCTGGTGCTTCCTGCAAGTGGCAGGGTTCCCTGGATGCAGTAATGCCACAYCWTATGCATCAACATAASTCCATTACAACATTMCARGGAGAGGATATTGTTTTTCTTGCTACAGACATTAACCTTCCWGGKGCAGTTGACKGGGT</Hsp_qseq>
+      <Hsp_hseq>CCACCTATTCTTCAATGTCAGAGCGGACACCTCGTGTGCAGCAACTGTCGGCCCAAGCTCACATGTTGCCCAACCTGCAGAGGGCCCTTGGGCTCCATCCGCAACCTGGCAATGGAAAAAGTTGCCAACTCTGTCCTCTTCCCCTGCAAATACGCCTCGTCAGGTTGCGAGGTAACCTTGCCGCACACGGAGAAAGCCGACCACGAAGAGCTGTGCGAATTTCGACCGTACTCGTGCCCCTGCCCCGGCGCGTCCTGCAAATGGCAGGGTTCCTTGGATGCCGTCATGCCACATCTTATGCATCAGCATAAATCCATCACGACGTTACAAGGAGAGGATATTGTGTTTCTTGCCACAGACATTAACCTTCCCGGGGCTGTGGACTGGGT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| || ||||| || ||  | || || ||||||||||| || || || |||||||| || || ||||| || ||  ||||||| || || ||| |||| ||||| || |||||||| || ||  | || || |||||||| ||||| || || || ||  |||||||||| || || || ||||| || || |||||||| || |||||  | || || ||||| || | ||| || || |||||||| |||||||||||| ||||||| || |||||||| | ||||||||| ||||| ||||| || || || || |||||||||||||| |||||||| ||||||||||||||||| || || || ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|2019555910|ref|XM_040408378.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo rhodopsin (RHO), mRNA</Hit_def>
+  <Hit_accession>XM_040408378</Hit_accession>
+  <Hit_len>2308</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>274.497</Hsp_bit-score>
+      <Hsp_score>303</Hsp_score>
+      <Hsp_evalue>7.47421e-72</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>296</Hsp_query-to>
+      <Hsp_hit-from>103</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>CCCTTCTCCAACAAGTCTGGAGTGGTGCGGAGCCCCTTTGAATACCCCCAGTACTATCTGGCGGAGCCATGGCAGTACTCCGTACTAGCGGCCTACATGTTCTTGCTGATCCTGCTGGGTTTCCCCGTCAACTTCCTGACCCTGTATGTCACGATCCAGCACAAGAAACTCCGAACCCCCCTGAACTATATCCTTCTGAACCTGGCATTCGCCAACCACTTCATGGTCTTCGGTGGCTTCCCCGTGACCATGTACTCTTCGATGCACGGGTACTTCGTCTTCGG</Hsp_qseq>
+      <Hsp_hseq>CCCATGTCCAACAAGACTGGGGTGGTGCGAAGCCCCTTTGAATACCCTCAGTATTACCTGGCAGAGCCATGGCAATATTCCATTCTGTGCGCGTACATGTTCCTGCTCATTCTACTTGGGTTCCCAATCAACTTCATGACCTTGTACGTCACCATCCAGCACAAGAAGCTCCGGACACCCTTAAACTATATCCTGCTGAATTTGGCCTTTGCCAACCACTTCATGGTCCTGTGTGGATTCACGGTGACAATGTACTCCTCAATGAACGGATACTTCATCCTCGG</Hsp_hseq>
+      <Hsp_midline>||| | ||||||||| |||| |||||||| ||||||||||||||||| ||||| || ||||| ||||||||||| || ||| | ||    || ||||||||| |||| || || || || |||||  |||||||| ||||| |||| ||||| |||||||||||||| ||||| || ||| | ||||||||||| |||||  |||| || |||||||||||||||||| |  |||| ||| | ||||| |||||||| || ||| |||| |||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|2734705|gb|U59921.1|BBU59921</Hit_id>
+  <Hit_def>Bufo bufo rhodopsin mRNA, complete cds</Hit_def>
+  <Hit_accession>U59921</Hit_accession>
+  <Hit_len>1574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>274.497</Hsp_bit-score>
+      <Hsp_score>303</Hsp_score>
+      <Hsp_evalue>7.47421e-72</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>296</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>358</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>CCCTTCTCCAACAAGTCTGGAGTGGTGCGGAGCCCCTTTGAATACCCCCAGTACTATCTGGCGGAGCCATGGCAGTACTCCGTACTAGCGGCCTACATGTTCTTGCTGATCCTGCTGGGTTTCCCCGTCAACTTCCTGACCCTGTATGTCACGATCCAGCACAAGAAACTCCGAACCCCCCTGAACTATATCCTTCTGAACCTGGCATTCGCCAACCACTTCATGGTCTTCGGTGGCTTCCCCGTGACCATGTACTCTTCGATGCACGGGTACTTCGTCTTCGG</Hsp_qseq>
+      <Hsp_hseq>CCCATGTCCAACAAGACTGGGGTGGTGCGAAGCCCCTTTGAATACCCTCAGTATTACCTGGCAGAGCCATGGCAATATTCCATTCTGTGCGCGTACATGTTCCTGCTCATTCTACTTGGGTTCCCAATCAACTTCATGACCTTGTACGTCACCATCCAGCACAAGAAGCTCCGGACACCCTTAAACTATATCCTGCTGAATTTGGCCTTTGCCAACCACTTCATGGTCCTGTGTGGATTCACGGTGACAATGTACTCCTCAATGAACGGATACTTCATCCTCGG</Hsp_hseq>
+      <Hsp_midline>||| | ||||||||| |||| |||||||| ||||||||||||||||| ||||| || ||||| ||||||||||| || ||| | ||    || ||||||||| |||| || || || || |||||  |||||||| ||||| |||| ||||| |||||||||||||| ||||| || ||| | ||||||||||| |||||  |||| || |||||||||||||||||| |  |||| ||| | ||||| |||||||| || ||| |||| |||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>91932</Statistics_db-num>
+      <Statistics_db-len>250868561</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

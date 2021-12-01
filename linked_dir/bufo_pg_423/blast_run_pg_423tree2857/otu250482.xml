@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_340997</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>510</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_340997</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>510</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2019518167|ref|XM_040427121.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo proopiomelanocortin (POMC), mRNA</Hit_def>
+  <Hit_accession>XM_040427121</Hit_accession>
+  <Hit_len>783</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>671.238</Hsp_bit-score>
+      <Hsp_score>743</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>178</Hsp_hit-from>
+      <Hsp_hit-to>681</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>451</Hsp_identity>
+      <Hsp_positive>451</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAAGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAAATCTACCCAACAGAGTACAGAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||  ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| |||||||||||||| || ||||||||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1778433202|gb|MK031630.1|</Hit_id>
+  <Hit_def>Bufo stejnegeri voucher MMS5630 proopiomelanocortin (POMC) gene, partial cds.</Hit_def>
+  <Hit_accession>MK031630</Hit_accession>
+  <Hit_len>630</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>671.238</Hsp_bit-score>
+      <Hsp_score>743</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>451</Hsp_identity>
+      <Hsp_positive>451</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCAGAAATCTACCCAACAGAGTACAAAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||| || |||| |||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2113598105|ref|XM_044292435.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo gargarizans proopiomelanocortin (POMC), mRNA</Hit_def>
+  <Hit_accession>XM_044292435</Hit_accession>
+  <Hit_len>783</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>178</Hsp_hit-from>
+      <Hsp_hit-to>681</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAGATCTACCCAACAGAGTACAGAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| || ||||||||||| || ||||||||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1778433208|gb|MK031633.1|</Hit_id>
+  <Hit_def>Bufo gargarizans voucher BG107 proopiomelanocortin (POMC) gene, partial cds.</Hit_def>
+  <Hit_accession>MK031633</Hit_accession>
+  <Hit_len>630</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAAATCTACCCAACAGAGTACAAAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| |||||||||||||| || |||| |||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1778433206|gb|MK031632.1|</Hit_id>
+  <Hit_def>Bufo stejnegeri voucher SNU003 proopiomelanocortin (POMC) gene, partial cds.</Hit_def>
+  <Hit_accession>MK031632</Hit_accession>
+  <Hit_len>630</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAAATCTACCCAACAGAGTACAAAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| |||||||||||||| || |||| |||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1778433200|gb|MK031629.1|</Hit_id>
+  <Hit_def>Bufo stejnegeri voucher BS014 proopiomelanocortin (POMC) gene, partial cds.</Hit_def>
+  <Hit_accession>MK031629</Hit_accession>
+  <Hit_len>630</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAAATCTACCCAACAGAGTACAAAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| |||||||||||||| || |||| |||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1778433198|gb|MK031628.1|</Hit_id>
+  <Hit_def>Bufo stejnegeri voucher BS013 proopiomelanocortin (POMC) gene, partial cds.</Hit_def>
+  <Hit_accession>MK031628</Hit_accession>
+  <Hit_len>630</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAAATCTACCCAACAGAGTACAAAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| |||||||||||||| || |||| |||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|78364947|gb|DQ158269.1|</Hit_id>
+  <Hit_def>Bufo gargarizans andrewsi voucher CAS 214911 proopiomelanocortin A (POMC) gene, partial cds &gt;gi|78364949|gb|DQ158270.1| Bufo gargarizans andrewsi voucher USNM 292081 proopiomelanocortin A (POMC) gene, partial cds</Hit_def>
+  <Hit_accession>DQ158269</Hit_accession>
+  <Hit_len>549</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>506</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCGGAGATCTACCCAACAGAGTACAGAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || || ||||||||||||||||| |||||||| |||||||||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||||||||| || ||||||||||| || ||||||||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|954683851|gb|KU183135.1|</Hit_id>
+  <Hit_def>Bufo pageoti voucher CAS233299 proopiomelanocortin (POMC) gene, partial cds</Hit_def>
+  <Hit_accession>KU183135</Hit_accession>
+  <Hit_len>547</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>664.024</Hsp_bit-score>
+      <Hsp_score>735</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>445</Hsp_identity>
+      <Hsp_positive>445</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>498</Hsp_align-len>
+      <Hsp_qseq>GGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>GGGAATGGACACATGCAACCACTCTCTGAAAACATCAGGAAGTATGTCATGAGCCACTTCCGCTGGAATAAGTTTGGCAGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAAMATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGYGATGCTGAGGAAGAATCATCAGAAATCTACCCAACAGAGTACAGAAGAGAGTTGGCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGATATGGACGACAGCATGTACATGGAAAGCCCAAATAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||| || || ||||||||||||||||| |||||||| ||||||||||||||||||||||| |||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||  |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  ||||||||| |||||||||||||||||||| || ||||||||||||||| ||||||| || || |||||||| |||| ||||||||||||  | |||||||||  |   ||||| |||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1778433204|gb|MK031631.1|</Hit_id>
+  <Hit_def>Bufo stejnegeri voucher MMS5631 proopiomelanocortin (POMC) gene, partial cds.</Hit_def>
+  <Hit_accession>MK031631</Hit_accession>
+  <Hit_len>630</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>662.221</Hsp_bit-score>
+      <Hsp_score>733</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>510</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>449</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>504</Hsp_align-len>
+      <Hsp_qseq>TTTCCCGGGAACGGACACATGCAACCCCTTTCGGAAAACATCAGGAAGTACGTCATGAGTCACTTCCGCTGGAATAAGTTTGGTAGAAGGAACAGCACCAACAGTGATAGCAACAAGGCAGGTGACAAACGAGAAGATATAGCCAACTATCCCGTATTCAACCTCTTCCCCGCTAATGACAACCAAAACGCCCAAGACGGCAACTTGGAAGAAGACGCTATGGACAGACAAGACAATAAGAGGTCATATTCTATGGAGCACTTCCGATGGGGCAAACCAGTCGGCAAGAAAAGGAGACCTATTAAGGTTTTCCCAAGTGATCTTGAGGAAGAGTCATCAGAAATCTACCCAACGGAATACAGAAGAGAGTTGTCTGTAGAATTCGATTACCCCGAAACCAGCTCCGAAGAAGACCTAGACGACAGCGAGACAATGGAGAGCCCAAGCAAAAAAGATCGGAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_qseq>
+      <Hsp_hseq>TTTCCTGGGAATGGACACATGCAACCACTCTCTAAAAACATCAGGAAGTATGTCATGAGCCACTTCGGCTGGAATAAGTTTGGCCGAAGGAATAGCACCGGTAGCGATAGCAACAATGCAGGTTACAAACGGGAAGATATAGCCAACTACCCCATATTTAACCTGTTCCCCACTAATGACAACCAAAACACACAAGATGGCAACATGGAAGAAGAAGCTATGGACAGGCAAGACAATAAGAGGTCATATTCTATGGAACACTTCCGATGGGGTAAACCAGTCGGCAAAAAAAGGAGACCTATTAAGGTTTTCCCAAGCGATGCTGAGGAAGAGTCATCAGAAATCTACCCAACAGAGTACAAAAGAGAGTTGTCTGTAGAGTTTGACTACCCCGATACCAACTCCGAAGAAGACATGGACGACAGCATGTTGATGGAAAGCCCAAATAAAAAAGATCGAAAGTATAAAATGCATCATTTTCGATGGGAAGGTCCACCCAAAGAC</Hsp_hseq>
+      <Hsp_midline>||||| ||||| |||||||||||||| || ||  |||||||||||||||| |||||||| |||||| ||||||||||||||||  ||||||| ||||||   || ||||||||||| |||||| ||||||| ||||||||||||||||| ||| |||| ||||| |||||| ||||||||||||||||| | ||||| |||||| |||||||||| ||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||| || |||| |||||||||||||||||| || || |||||||| |||| ||||||||||||| | |||||||||  |   ||||| |||||||  ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>91932</Statistics_db-num>
+      <Statistics_db-len>250868570</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

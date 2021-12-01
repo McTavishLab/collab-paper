@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_37885</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>749</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_37885</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>749</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|50957083|gb|AY583336.1|</Hit_id>
+  <Hit_def>Bufo bufo recombination activating protein 1 (RAG-1) gene, partial cds</Hit_def>
+  <Hit_accession>AY583336</Hit_accession>
+  <Hit_len>1512</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>589.185</Hsp_bit-score>
+      <Hsp_score>652</Hsp_score>
+      <Hsp_evalue>7.83352e-167</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>1004</Hsp_hit-from>
+      <Hsp_hit-to>1430</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>385</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>CCAAAGCCACCAATGAAGAACGAAAGAAATGGCAGGCAACGCTTGACAAACATCTTAGAAAGAAGATGAATCTAAAGCCTATTATGAGAATGAATGGAAATTTTGCTCGAAAACTCATGAGCAAAGAAACCGTTGAGGCCGTTTGCGAGCTAATACATTCAGAAGAGCGGCAAGTGGCCCTCAAAGAACTTATGGACTTGTATCTCAAAATGAAACCGGTGTGGCGCTCTTCATGCCCGGCTAAAGAGTGCCCAGAATTGCTCTGCCAGTACAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCTACCAAGTTCAAGTATCGCTATSAAGGCAAGATMACCAATTACTTYCATAAGACCCTGGCCCATGTCCCAGAGATYATTGAACGTGATGGTTCTATTGGAGCTTGGGCCAGTGAAGGCAA</Hsp_qseq>
+      <Hsp_hseq>CCAAAGCCACCACAGAAGAACGAAAGAAATGGCAGGCAACACTTGACAAACACCTTAGGAAGAGGATGAACTTAAAACCTATAATGAGAATGAATGGAAACTTTGCTCGAAAACTCATGACCAAAGAAACAGTTGAGGCCATTTGCGAGCTAATACATTCCGAGGAGAGAAAAATGGCCCTCACAGAACTTATGGAATTGTATCTCAAAATGAAACCAGTGTGGCGTTCTTCATGCCCAGCTAAAGAGTGCCCAGAGTTGCTCTGCCAGTATAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCCACCAAGTTCAAGTATAGATATGAGGGCAAGATCACCAATTACTTCCACAAAACCCTAGCCCACGTCCCAGAGATCATTGAACGTGACGGTTCGATCGGAGCTTGGGCCAGTGAAGGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||  |||||||||||||||||||||||||| ||||||||||| ||||| |||| ||||||  |||| ||||| ||||||||||||||||| ||||||||||||||||||| ||||||||| ||||||||| ||||||||||||||||||| || ||| |  || ||||||||| |||||||||||| |||||||||||||||||||| |||||||| ||||||||||| ||||||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||| | ||| | |||||||| ||||||||||| || || ||||| ||||| ||||||||||| ||||||||||| ||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1304830687|gb|KX208727.1|</Hit_id>
+  <Hit_def>Bufo gargarizans voucher ZP-AM41 recombination activating protein 1 (RAG1) gene, partial cds</Hit_def>
+  <Hit_accession>KX208727</Hit_accession>
+  <Hit_len>1422</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>584.676</Hsp_bit-score>
+      <Hsp_score>647</Hsp_score>
+      <Hsp_evalue>3.3309e-165</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>962</Hsp_hit-from>
+      <Hsp_hit-to>1388</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>CCAAAGCCACCAATGAAGAACGAAAGAAATGGCAGGCAACGCTTGACAAACATCTTAGAAAGAAGATGAATCTAAAGCCTATTATGAGAATGAATGGAAATTTTGCTCGAAAACTCATGAGCAAAGAAACCGTTGAGGCCGTTTGCGAGCTAATACATTCAGAAGAGCGGCAAGTGGCCCTCAAAGAACTTATGGACTTGTATCTCAAAATGAAACCGGTGTGGCGCTCTTCATGCCCGGCTAAAGAGTGCCCAGAATTGCTCTGCCAGTACAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCTACCAAGTTCAAGTATCGCTATSAAGGCAAGATMACCAATTACTTYCATAAGACCCTGGCCCATGTCCCAGAGATYATTGAACGTGATGGTTCTATTGGAGCTTGGGCCAGTGAAGGCAA</Hsp_qseq>
+      <Hsp_hseq>CCAAAGCCACCACAGAAGAACGAAAGAAATGGCACGCAACACTTGACAAACACCTTAGGAAGAGGATGAACTTAAAACCTATAATGAGAATGAATGGAAACTTTGCTCGAAAACTCATGACCAAGGAAACAGTTGAGGCCATTTGCGAGCTAATACATTCCGAGGAGAGAAAAATGGCCCTCACAGAACTTATGGACTTGTATCTCAAAATGAAACCAGTGTGGCGTTCTTCATGCCCAGCTAAAGAGTGTCCAGAGTTGCTCTGCCAGTATAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCCACCAAGTTCAAGTATAGATATGAGGGCAAGATCACCAATTACTTCCACAAAACCCTAGCCCACGTCCCAGAGATCATTGAACGTGACGGTTCTATCGGAGCTTGGGCCAGTGAAGGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||  |||||||||||||||||||| ||||| ||||||||||| ||||| |||| ||||||  |||| ||||| ||||||||||||||||| ||||||||||||||||||| ||| ||||| ||||||||| ||||||||||||||||||| || ||| |  || ||||||||| ||||||||||||||||||||||||||||||||| |||||||| ||||||||||| ||||||||||| ||||| |||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||| | ||| | |||||||| ||||||||||| || || ||||| ||||| ||||||||||| ||||||||||| |||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2113536207|ref|XM_044270501.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo gargarizans recombination activating 1 (RAG1), mRNA</Hit_def>
+  <Hit_accession>XM_044270501</Hit_accession>
+  <Hit_len>3240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>584.676</Hsp_bit-score>
+      <Hsp_score>647</Hsp_score>
+      <Hsp_evalue>3.3309e-165</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>2573</Hsp_hit-from>
+      <Hsp_hit-to>2999</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>CCAAAGCCACCAATGAAGAACGAAAGAAATGGCAGGCAACGCTTGACAAACATCTTAGAAAGAAGATGAATCTAAAGCCTATTATGAGAATGAATGGAAATTTTGCTCGAAAACTCATGAGCAAAGAAACCGTTGAGGCCGTTTGCGAGCTAATACATTCAGAAGAGCGGCAAGTGGCCCTCAAAGAACTTATGGACTTGTATCTCAAAATGAAACCGGTGTGGCGCTCTTCATGCCCGGCTAAAGAGTGCCCAGAATTGCTCTGCCAGTACAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCTACCAAGTTCAAGTATCGCTATSAAGGCAAGATMACCAATTACTTYCATAAGACCCTGGCCCATGTCCCAGAGATYATTGAACGTGATGGTTCTATTGGAGCTTGGGCCAGTGAAGGCAA</Hsp_qseq>
+      <Hsp_hseq>CCAAAGCCACCACAGAAGAACGAAAGAAATGGCACGCAACACTTGACAAACACCTTAGGAAGAGGATGAACTTAAAACCTATAATGAGAATGAATGGAAACTTTGCTCGAAAACTCATGACCAAGGAAACAGTTGAGGCCATTTGCGAGCTAATACATTCCGAGGAGAGAAAAATGGCCCTCACAGAACTTATGGACTTGTATCTCAAAATGAAACCAGTGTGGCGTTCTTCATGCCCAGCTAAAGAGTGTCCAGAGTTGCTCTGCCAGTATAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCCACCAAGTTCAAGTATAGATATGAGGGCAAGATCACCAATTACTTCCACAAAACCCTAGCCCACGTCCCAGAGATCATTGAACGTGACGGTTCTATCGGAGCTTGGGCCAGTGAAGGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||  |||||||||||||||||||| ||||| ||||||||||| ||||| |||| ||||||  |||| ||||| ||||||||||||||||| ||||||||||||||||||| ||| ||||| ||||||||| ||||||||||||||||||| || ||| |  || ||||||||| ||||||||||||||||||||||||||||||||| |||||||| ||||||||||| ||||||||||| ||||| |||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||| | ||| | |||||||| ||||||||||| || || ||||| ||||| ||||||||||| ||||||||||| |||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|2019491468|ref|XM_040410397.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo recombination activating 1 (RAG1), mRNA</Hit_def>
+  <Hit_accession>XM_040410397</Hit_accession>
+  <Hit_len>3228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>584.676</Hsp_bit-score>
+      <Hsp_score>647</Hsp_score>
+      <Hsp_evalue>3.3309e-165</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>2573</Hsp_hit-from>
+      <Hsp_hit-to>2999</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>CCAAAGCCACCAATGAAGAACGAAAGAAATGGCAGGCAACGCTTGACAAACATCTTAGAAAGAAGATGAATCTAAAGCCTATTATGAGAATGAATGGAAATTTTGCTCGAAAACTCATGAGCAAAGAAACCGTTGAGGCCGTTTGCGAGCTAATACATTCAGAAGAGCGGCAAGTGGCCCTCAAAGAACTTATGGACTTGTATCTCAAAATGAAACCGGTGTGGCGCTCTTCATGCCCGGCTAAAGAGTGCCCAGAATTGCTCTGCCAGTACAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCTACCAAGTTCAAGTATCGCTATSAAGGCAAGATMACCAATTACTTYCATAAGACCCTGGCCCATGTCCCAGAGATYATTGAACGTGATGGTTCTATTGGAGCTTGGGCCAGTGAAGGCAA</Hsp_qseq>
+      <Hsp_hseq>CCAAAGCCACCACAGAAGAACGAAAGAAATGGCAGGCAACACTTGACAAACACCTTAGGAAGAGGATGAACTTAAAACCTATAATGAGAATGAATGGAAACTTTGCTCGAAAACTCATGACCAAGGAAACAGTTGAGGCCATTTGCGAGCTAATACATTCCGAGGAGAGAAAAATGGCCCTCACAGAACTTATGGAATTGTATCTCAAAATGAAACCAGTGTGGCGTTCTTCATGCCCAGCGAAAGAGTGCCCAGAGTTGCTCTGCCAGTATAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCCACCAAGTTCAAGTATAGATATGAGGGCAAGATCACCAATTACTTCCACAAAACCCTAGCCCACGTCCCAGAGATCATTGAACGTGACGGTTCTATCGGAGCTTGGGCCAGTGAAGGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||  |||||||||||||||||||||||||| ||||||||||| ||||| |||| ||||||  |||| ||||| ||||||||||||||||| ||||||||||||||||||| ||| ||||| ||||||||| ||||||||||||||||||| || ||| |  || ||||||||| |||||||||||| |||||||||||||||||||| |||||||| ||||||||||| || |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||| | ||| | |||||||| ||||||||||| || || ||||| ||||| ||||||||||| ||||||||||| |||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|38372055|gb|AY323762.1|</Hit_id>
+  <Hit_def>Bufo bufo Rag-1 gene, partial cds</Hit_def>
+  <Hit_accession>AY323762</Hit_accession>
+  <Hit_len>1509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>584.676</Hsp_bit-score>
+      <Hsp_score>647</Hsp_score>
+      <Hsp_evalue>3.3309e-165</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>1022</Hsp_hit-from>
+      <Hsp_hit-to>1448</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>CCAAAGCCACCAATGAAGAACGAAAGAAATGGCAGGCAACGCTTGACAAACATCTTAGAAAGAAGATGAATCTAAAGCCTATTATGAGAATGAATGGAAATTTTGCTCGAAAACTCATGAGCAAAGAAACCGTTGAGGCCGTTTGCGAGCTAATACATTCAGAAGAGCGGCAAGTGGCCCTCAAAGAACTTATGGACTTGTATCTCAAAATGAAACCGGTGTGGCGCTCTTCATGCCCGGCTAAAGAGTGCCCAGAATTGCTCTGCCAGTACAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCTACCAAGTTCAAGTATCGCTATSAAGGCAAGATMACCAATTACTTYCATAAGACCCTGGCCCATGTCCCAGAGATYATTGAACGTGATGGTTCTATTGGAGCTTGGGCCAGTGAAGGCAA</Hsp_qseq>
+      <Hsp_hseq>CCAAAGCCACCACAGAAGAACGAAAGAAATGGCAGGCAACACTTGACAAACACCTTAGGAAGAGGATGAACTTAAAACCTATAATGAGAATGAATGGAAACTTTGCTCGAAAACTCATGACCAAGGAAACAGTTGAGGCCATTTGCGAGCTAATACATTCCGAGGAGAGAAAAATGGCCCTCACAGAACTTATGGAATTGTATCTCAAAATGAAACCAGTGTGGCGTTCTTCATGCCCAGCGAAAGAGTGCCCAGAGTTGCTCTGCCAGTATAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCCACCAAGTTCAAGTATAGATATGAGGGCAAGATCACCAATTACTTCCACAAAACCCTAGCCCACGTCCCAGAGATCATTGAACGTGACGGTTCTATCGGAGCTTGGGCCAGTGAAGGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||  |||||||||||||||||||||||||| ||||||||||| ||||| |||| ||||||  |||| ||||| ||||||||||||||||| ||||||||||||||||||| ||| ||||| ||||||||| ||||||||||||||||||| || ||| |  || ||||||||| |||||||||||| |||||||||||||||||||| |||||||| ||||||||||| || |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||| | ||| | |||||||| ||||||||||| || || ||||| ||||| ||||||||||| ||||||||||| |||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|338746982|dbj|AB612057.1|</Hit_id>
+  <Hit_def>Bufo japonicus RAG1 gene for recombination-activating protein 1, partial cds, specimen_voucher: IABHU&lt;JPN&gt;:4001</Hit_def>
+  <Hit_accession>AB612057</Hit_accession>
+  <Hit_len>1596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>575.659</Hsp_bit-score>
+      <Hsp_score>637</Hsp_score>
+      <Hsp_evalue>1.72545e-162</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>1082</Hsp_hit-from>
+      <Hsp_hit-to>1508</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>382</Hsp_identity>
+      <Hsp_positive>382</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>CCAAAGCCACCAATGAAGAACGAAAGAAATGGCAGGCAACGCTTGACAAACATCTTAGAAAGAAGATGAATCTAAAGCCTATTATGAGAATGAATGGAAATTTTGCTCGAAAACTCATGAGCAAAGAAACCGTTGAGGCCGTTTGCGAGCTAATACATTCAGAAGAGCGGCAAGTGGCCCTCAAAGAACTTATGGACTTGTATCTCAAAATGAAACCGGTGTGGCGCTCTTCATGCCCGGCTAAAGAGTGCCCAGAATTGCTCTGCCAGTACAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCTACCAAGTTCAAGTATCGCTATSAAGGCAAGATMACCAATTACTTYCATAAGACCCTGGCCCATGTCCCAGAGATYATTGAACGTGATGGTTCTATTGGAGCTTGGGCCAGTGAAGGCAA</Hsp_qseq>
+      <Hsp_hseq>CCAAAGCCACCACAGAAGAACGAAAGAAATGGCAGGCAACACTTGACAAACACCTTAGGAAGAGGATGAACTTAAAACCTATAATGAGAATGAATGGAAACTTTGCTCGAAAACTCATGACCAAGGAAACAGTTGAGGCCATTTGCGAACTAATACATTCCGAGGAGAGAAAAATGGCCCTCACAGAACTTATGGACTTGTATCTTAAAATGAAACCAGTGTGGCGTTCTTCATGCCCAGCTAAAGAGTGCCCAGAGTTGATCTGCCAGTATAGTTACCACTCTCAGAGATTTGCAGAGCTCTTGTCCACCAAGTTCAAGTATAGATATGAGGGCAAGATCACCAATTACTTCCACAAAACCCTAGCCCACGTCCCAGAGATCATTGAACGGGACGGTTCTATCGGAGCTTGGGCCAGTGAAGGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||  |||||||||||||||||||||||||| ||||||||||| ||||| |||| ||||||  |||| ||||| ||||||||||||||||| ||||||||||||||||||| ||| ||||| ||||||||| ||||||| ||||||||||| || ||| |  || ||||||||| ||||||||||||||||||||| ||||||||||| |||||||| ||||||||||| ||||||||||||||||| ||| |||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||| | ||| | |||||||| ||||||||||| || || ||||| ||||| ||||||||||| |||||||| || |||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2019555910|ref|XM_040408378.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo bufo rhodopsin (RHO), mRNA</Hit_def>
+  <Hit_accession>XM_040408378</Hit_accession>
+  <Hit_len>2308</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>405.241</Hsp_bit-score>
+      <Hsp_score>448</Hsp_score>
+      <Hsp_evalue>1.84715e-111</Hsp_evalue>
+      <Hsp_query-from>427</Hsp_query-from>
+      <Hsp_query-to>745</Hsp_query-to>
+      <Hsp_hit-from>82</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>320</Hsp_align-len>
+      <Hsp_qseq>GAAGGCA-AAATTTYTACGTACCCATGTCCAACAAGACTGGGGTGGTACGAAGCCCCTTTGATTACCCTCAGTATTACCTGGCGGAGCCATGGAAGTATTCCGCTTTGTCCGCGTACATGTTCTTGCTCATTCTTCTTGGGCTCCCCATCAATTTCATGACCTTGTACGTCACCATCCAGCACAAGAAACTCCGAACACCCCTAAACTACATCCTGCTGAATCTGGCGTTTGCCAATCACTTCATGATCCTGTGTGGATTCACCGTCACCATGTACACCTCAATGCACGGATACTTCATCTTCGGGCAAACCGGGTGCTA</Hsp_qseq>
+      <Hsp_hseq>GAAGGCCCAAACTTTTACATACCCATGTCCAACAAGACTGGGGTGGTGCGAAGCCCCTTTGAATACCCTCAGTATTACCTGGCAGAGCCATGGCAATATTCCATTCTGTGCGCGTACATGTTCCTGCTCATTCTACTTGGGTTCCCAATCAACTTCATGACCTTGTACGTCACCATCCAGCACAAGAAGCTCCGGACACCCTTAAACTATATCCTGCTGAATTTGGCCTTTGCCAACCACTTCATGGTCCTGTGTGGATTCACGGTGACAATGTACTCCTCAATGAACGGATACTTCATCCTCGGAGCCACCGGTTGCTA</Hsp_hseq>
+      <Hsp_midline>||||||  ||| || ||| |||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| ||||||||| | ||||||  | ||| ||||||||||||| |||||||||| |||||| |||| ||||| ||||||||||||||||||||||||||||||||||| ||||| |||||| ||||||| |||||||||||| |||| |||||||| ||||||||| |||||||||||||||| || || |||||| |||||||| |||||||||||||| ||||    ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2734705|gb|U59921.1|BBU59921</Hit_id>
+  <Hit_def>Bufo bufo rhodopsin mRNA, complete cds</Hit_def>
+  <Hit_accession>U59921</Hit_accession>
+  <Hit_len>1574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>405.241</Hsp_bit-score>
+      <Hsp_score>448</Hsp_score>
+      <Hsp_evalue>1.84715e-111</Hsp_evalue>
+      <Hsp_query-from>427</Hsp_query-from>
+      <Hsp_query-to>745</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>373</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>320</Hsp_align-len>
+      <Hsp_qseq>GAAGGCA-AAATTTYTACGTACCCATGTCCAACAAGACTGGGGTGGTACGAAGCCCCTTTGATTACCCTCAGTATTACCTGGCGGAGCCATGGAAGTATTCCGCTTTGTCCGCGTACATGTTCTTGCTCATTCTTCTTGGGCTCCCCATCAATTTCATGACCTTGTACGTCACCATCCAGCACAAGAAACTCCGAACACCCCTAAACTACATCCTGCTGAATCTGGCGTTTGCCAATCACTTCATGATCCTGTGTGGATTCACCGTCACCATGTACACCTCAATGCACGGATACTTCATCTTCGGGCAAACCGGGTGCTA</Hsp_qseq>
+      <Hsp_hseq>GAAGGCCCAAACTTTTACATACCCATGTCCAACAAGACTGGGGTGGTGCGAAGCCCCTTTGAATACCCTCAGTATTACCTGGCAGAGCCATGGCAATATTCCATTCTGTGCGCGTACATGTTCCTGCTCATTCTACTTGGGTTCCCAATCAACTTCATGACCTTGTACGTCACCATCCAGCACAAGAAGCTCCGGACACCCTTAAACTATATCCTGCTGAATTTGGCCTTTGCCAACCACTTCATGGTCCTGTGTGGATTCACGGTGACAATGTACTCCTCAATGAACGGATACTTCATCCTCGGAGCCACCGGTTGCTA</Hsp_hseq>
+      <Hsp_midline>||||||  ||| || ||| |||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| ||||||||| | ||||||  | ||| ||||||||||||| |||||||||| |||||| |||| ||||| ||||||||||||||||||||||||||||||||||| ||||| |||||| ||||||| |||||||||||| |||| |||||||| ||||||||| |||||||||||||||| || || |||||| |||||||| |||||||||||||| ||||    ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|2113633412|ref|XM_044301513.1|</Hit_id>
+  <Hit_def>PREDICTED: Bufo gargarizans rhodopsin (RHO), mRNA</Hit_def>
+  <Hit_accession>XM_044301513</Hit_accession>
+  <Hit_len>2358</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.732</Hsp_bit-score>
+      <Hsp_score>443</Hsp_score>
+      <Hsp_evalue>7.8543e-110</Hsp_evalue>
+      <Hsp_query-from>427</Hsp_query-from>
+      <Hsp_query-to>745</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>320</Hsp_align-len>
+      <Hsp_qseq>GAAGGCA-AAATTTYTACGTACCCATGTCCAACAAGACTGGGGTGGTACGAAGCCCCTTTGATTACCCTCAGTATTACCTGGCGGAGCCATGGAAGTATTCCGCTTTGTCCGCGTACATGTTCTTGCTCATTCTTCTTGGGCTCCCCATCAATTTCATGACCTTGTACGTCACCATCCAGCACAAGAAACTCCGAACACCCCTAAACTACATCCTGCTGAATCTGGCGTTTGCCAATCACTTCATGATCCTGTGTGGATTCACCGTCACCATGTACACCTCAATGCACGGATACTTCATCTTCGGGCAAACCGGGTGCTA</Hsp_qseq>
+      <Hsp_hseq>GAAGGCCCAAACTTTTACATACCCATGTCCAACAAGACTGGGGTGGTGCGAAGCCCATTTGAATACCCTCAGTATTACCTGGCAGAGCCATGGCAATATTCCATTTTGTGCGCGTACATGTTCCTGCTCATTCTACTTGGGTTCCCAATCAACTTCATGACCTTGTACGTCACCATCCAGCACAAGAAGCTCCGGACACCCTTAAACTATATCCTGCTGAATTTGGCCTTTGCCAACCACTTCATGGTCCTGTGTGGATTCACGGTGACAATGTACTCCTCCATGAACGGATACTTCATCCTCGGAGCCACCGGTTGCTA</Hsp_hseq>
+      <Hsp_midline>||||||  ||| || ||| |||||||||||||||||||||||||||| |||||||| ||||| |||||||||||||||||||| ||||||||| | ||||||  ||||| ||||||||||||| |||||||||| |||||| |||| ||||| ||||||||||||||||||||||||||||||||||| ||||| |||||| ||||||| |||||||||||| |||| |||||||| ||||||||| |||||||||||||||| || || |||||| |||| ||| |||||||||||||| ||||    ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|90184051|gb|DQ283905.1|</Hit_id>
+  <Hit_def>Bufo gargarizans andrewsi voucher CAS 214911 rhodopsin gene, exon 1 and partial cds</Hit_def>
+  <Hit_accession>DQ283905</Hit_accession>
+  <Hit_len>316</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>398.929</Hsp_bit-score>
+      <Hsp_score>441</Hsp_score>
+      <Hsp_evalue>2.74142e-109</Hsp_evalue>
+      <Hsp_query-from>434</Hsp_query-from>
+      <Hsp_query-to>745</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>312</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>275</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AAATTTYTACGTACCCATGTCCAACAAGACTGGGGTGGTACGAAGCCCCTTTGATTACCCTCAGTATTACCTGGCGGAGCCATGGAAGTATTCCGCTTTGTCCGCGTACATGTTCTTGCTCATTCTTCTTGGGCTCCCCATCAATTTCATGACCTTGTACGTCACCATCCAGCACAAGAAACTCCGAACACCCCTAAACTACATCCTGCTGAATCTGGCGTTTGCCAATCACTTCATGATCCTGTGTGGATTCACCGTCACCATGTACACCTCAATGCACGGATACTTCATCTTCGGGCAAACCGGGTGCTA</Hsp_qseq>
+      <Hsp_hseq>AAACTTTTACATACCCATGTCCAACAAGACTGGGGTGGTGCGAAGCCCATTTGAATACCCTCAGTATTACCTGGCAGAGCCATGGCAATATTCCATTTTGTGCGCGTACATGTTCCTGCTCATTCTACTTGGGTTCCCAATCAACTTCATGACCTTGTACGTCACCATCCAGCACAAGAAGCTCCGGACACCCTTAAACTATATCCTGCTGAATTTGGCCTTTGCCAACCACTTCATGGTCCTGTGTGGATTCACGGTGACAATGTACTCCTCCATGAACGGATACTTCATCCTCGGAGCCACCGGTTGCTA</Hsp_hseq>
+      <Hsp_midline>||| || ||| |||||||||||||||||||||||||||| |||||||| ||||| |||||||||||||||||||| ||||||||| | ||||||  ||||| ||||||||||||| |||||||||| |||||| |||| ||||| ||||||||||||||||||||||||||||||||||| ||||| |||||| ||||||| |||||||||||| |||| |||||||| ||||||||| |||||||||||||||| || || |||||| |||| ||| |||||||||||||| ||||    ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>91932</Statistics_db-num>
+      <Statistics_db-len>250868561</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
