@@ -8,19 +8,20 @@
 #SBATCH --partition mctavish.q
 #SBATCH --time=0-10:200:00     # 2days 0 minutes
 #
-#SBATCH --output=physcraper_local_%j.stdout
-#SBATCH --error=physcraper_local_%j.stderr
+#SBATCH --output=luna_test_%j.stdout
+#SBATCH --error=luna_test_%j.stderr
 #
 
 #SBATCH --export=ALL
 
 # This submission file will run a simple set of commands. All stdout will be
-# captured in mmyjob_XXXX.stdout (as specified in the Slurm command above).
+# captured in physcraper_local_XXXX.stdout (as specified in the Slurm command above).
 # This job file uses a shared-memory parallel environment and requests 1 cores
-# on a single node.This script loads PGI compiler module named "pgi"
+# on a single node. This script loads PGI compiler module named "pgi"
 
-export PATH=/branchinecta/shared/bin:$PATH
-source /branchinecta/shared/venv-physcraper/bin/activate
+pwd
 cd /branchinecta/shared
-
-physcraper_run.py -tf tests/data/tiny_test_example/test.tre -tfs newick -a tests/data/tiny_test_example/test.fas --taxon_info tests/data/tiny_test_example/main.json -as fasta -db /branchinecta/shared/local_blast_db_OLD/ -o luna_test
+module load anaconda3
+source activate physcraper_env
+echo "Starting Physcraper test run"
+physcraper_run.py -tf physcraper/tests/data/tiny_test_example/test.tre -tfs newick -a physcraper/tests/data/tiny_test_example/test.fas --taxon_info physcraper/tests/data/tiny_test_example/main.json -as fasta -db local_blast_db_OLD/ -o luna_test
