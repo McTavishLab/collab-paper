@@ -24,4 +24,4 @@ cd /branchinecta/shared
 module load anaconda3
 source activate physcraper_env
 echo "Starting Physcraper test run"
-physcraper_run.py -tf physcraper/tests/data/tiny_test_example/test.tre -tfs newick -a physcraper/tests/data/tiny_test_example/test.fas --taxon_info physcraper/tests/data/tiny_test_example/main.json -as fasta -db local_blast_db_OLD/ -o luna_test
+physcraper_run.py -study_id pg_1586 -tree_id tree3207-db local_blast_db_OLD/ -o luna_timaliidae
