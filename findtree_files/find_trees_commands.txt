@@ -1,4 +1,5 @@
 haemosporidia:
 find_trees.py -ott 5248772 -tb -o haemo.txt
 
-
+aves:
+find_trees.py -ott 5248772 -tb -o aves.txt
