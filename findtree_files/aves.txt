@@ -1,0 +1,393 @@
+Members of None present in the following studies in the OpenTree Phylesystem
+Only returning studies with TreeBase links
+
+Study pg_1217 tree(s) tree2455
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1217
+Reference: Delsuc, Frédéric, Georgia Tsagkogeorga, Nicolas Lartillot, andHervé Philippe. 2008. Additional molecular
+support for the new chordate phylogeny. Genesis 46 (11): 592-604.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12329
+
+Study pg_1764 tree(s) tree6299
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1764
+Reference: Kennedy, M.,  S.A. Taylor, P. Nádvorník, H. Spencer. 2013. The phylogenetic relationships of the extant pelicans inferred from DNA sequence data. Molecular Phylogenetics and Evolution 66 (1): 215-222.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13616
+
+Study pg_305 tree(s) tree5968, tree5969, tree5970, tree5971, tree5972, tree5973
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_305
+Reference: Parfrey, L.W., Grant J.R., Tekle Y.I., Lasek-nesselquist E., Patterson D.J., Morrison H.G., Sogin M., and Katz L.A. 2010. Broadly sampled multigene analyses yield a well-resolved eukaryotic tree of life. Systematic Biology 59 (5): 518-33.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10562
+
+Study pg_2913 tree(s) tree6741, tree6742
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2913
+Reference: Price, Trevor D., Daniel M. Hooper, Caitlyn D. Buchanan, Ulf S. Johansson, D. Thomas Tietze, Per Alström, Urban Olsson, Mousumi Ghosh-Harihar, Farah Ishtiaq, Sandeep K. Gupta, Jochen Martens, Bettina Harr, Pratap Singh, Dhananjai Mohan. 2014. Niche filling slows the diversification of Himalayan songbirds. Nature 509: 222-225.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S15660
+
+Study ot_757 tree(s) Tr70438
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_757
+Reference: Ericson, Per GP, Seraina Klopfstein, Martin Irestedt, Jacqueline MT Nguyen and Johan AA Nylander. 2014. Dating the diversification of the major lineages of Passeriformes (Aves). BMC Evolutionary Biology, 14(8).
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S15185
+
+Study pg_1887 tree(s) tree3833, tree3834, tree3835, tree3836, tree3837, tree6629
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1887
+Reference: Lerner, H., M. Klaver, D. Mindell. 2008. Molecular phylogenetics of the Buteonine birds of prey (Accipitridae). The Auk 125 (2): 304-315.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2009
+
+Study pg_1966 tree(s) tree4019
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1966
+Reference: Lee, J.Y., Joseph L., & Edwards S. 2011. A species tree for the Australo-Papuan fairy-wrens and allies (Aves: Maluridae). Systematic Biology 61 (2): 253-271.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11849
+
+Study ot_1366 tree(s) Tr98763
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1366
+Reference: Mark S. Springer, Christopher A. Emerling, Robert W. Meredith, Jan E. Janečka, Eduardo Eizirik, William J. Murphy, 2017, 'Waking the undead: Implications of a soft explosive model for the timing of placental mammal diversification', Molecular Phylogenetics and Evolution, vol. 106, pp. 86-102
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S19854
+
+Study pg_1586 tree(s) tree3207, tree3208
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1586
+Reference: Moyle, R.G., Andersen M.J., Oliveros C., Steinheimer F.D., and Reddy S. 2012. Phylogeny and biogeography of the core babblers (Aves: Timaliidae). Systematic Biology 61 (4): 631-651.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11986
+
+Study ot_1449 tree(s) Tr55330
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1449
+Reference: Shu-an J., Atterholt J., O'connor J.K., Lamanna M.C., Harris J.D., Da-qing L., Hai-lu Y., & Dodson P. 2011. A new, three-dimensionally preserved enantiornithine bird (Aves: Ornithothoraces) from Gansu Province, north-western China. Zoological Journal of the Linnean Society, 162(1): 201-219.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13055
+
+Study ot_1789 tree(s) Tr113965, Tr113966, Tr113967, Tr113969, Tr113962, Tr113963, Tr113968, Tr113964
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1789
+Reference: Phillips A.G., Töpfer T., Boehning-gaese K., & Fritz S.A. 2018. Evidence for distinct evolutionary optima in the morphology of migratory and resident birds. Journal of Avian Biology, e01807: 1-12.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S23275
+
+Study pg_2125 tree(s) tree4410, tree4414
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2125
+Reference: Hughes, Joseph, Martyn Kennedy, Kevin P. Johnson, Ricardo L. Palma, Roderic D. M. Page. 2007. Multiple cophylogenetic analyses reveal frequent cospeciation between pelecaniform birds and pectinopygus lice. Systematic Biology 56 (2): 1-20.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1788
+
+Study ot_592 tree(s) Tr93845, Tr93846
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_592
+Reference: Aurelie Moya, Kazuhiro Sakamaki, Benjamin M. Mason, Lotte Huisman, Sylvain Forêt, Yvonne Weiss, Tara E. Bull, Kentaro Tomii, Kenichiro Imai, David C. Hayward, Eldon E. Ball, David J. Miller, 2016, 'Functional conservation of the apoptotic machinery from coral to man: the diverse and complex Bcl-2 and caspase repertoires of Acropora millepora', BMC Genomics, vol. 17, no. 1
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18551
+
+Study ot_792 tree(s) Tr93584, Tr93580, Tr93559, Tr93561, Tr93570, Tr93563, Tr93574, Tr93578, Tr93569, Tr93568
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_792
+Reference: Yaoyao Cui, Chaochao Yan, Tianlin Sun, Jing Li, Bisong Yue, Xiuyue Zhang, Jing Li, 2016, 'Identification of CR1 retroposons inArborophila rufipectusand their application to Phasianidae phylogeny', Molecular Ecology Resources, vol. 16, no. 4, pp. 1037-1049
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18808
+
+Study ot_791 tree(s) Tr3192, Tr3193
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_791
+Reference: Daniel T. Ksepka, 2009, ' Broken gears in the avian molecular clock: new phylogenetic analyses support stem galliform status for Gallinuloides wyomingensis and rallid affinities for Amitabha urbsinterdictensis ', Cladistics, vol. 25, no. 2, pp. 173-197
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2219
+
+Study pg_2058 tree(s) tree4241
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2058
+Reference: Harshman J., Huddleston C., Bollback J., Parsons T., and Braun M. 2003. True and false gavials: a nuclear gene phylogeny of Crocodylia. Systematic Biology 52 (3): 386-402.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S994
+
+Study pg_2579 tree(s) tree5984
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2579
+Reference: Faircloth, B.C., McCormack J.E., Crawford N.G., Harvey M.G., Brumfield R., & Glenn T.C. 2012. Ultraconserved elements anchor thousands of genetic markers spanning multiple evolutionary timescales. Systematic Biology 61 (5): 717-726.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12156
+
+Study pg_2573 tree(s) tree5959
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2573
+Reference: Crawford, N. G., B. C. Faircloth, J. E. McCormack, R. T. Brumfield, K. Winker, T. C. Glenn. 2012. More than 1000 ultraconserved elements provide evidence that turtles are the sister group of archosaurs. Biology Letters 8 (5): 783-786.
+Data Deposit URL: https://treebase.org/treebase-web/search/study/summary.html?id=12742
+
+Study pg_239 tree(s) tree111, tree112
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_239
+Reference: Parfrey, L.W., Grant J.R., Tekle Y.I., Lasek-nesselquist E., Patterson D.J., Morrison H.G., Sogin M., and Katz L.A. 2010. Broadly sampled multigene analyses yield a well-resolved eukaryotic tree of life. Systematic Biology 59 (5): 518-33.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10562
+
+Study pg_2586 tree(s) tree5996, tree5997
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2586
+Reference: Lemmon, A.R., E. Lemmon, and S. Emme. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61 (5): 727-744.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12669
+
+Study pg_2583 tree(s) tree5989
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2583
+Reference: Eo, Soo Hyung, Olaf R. P Bininda-Emonds, John P Carroll. 2009. A phylogenetic supertree of the fowls (Galloanserae, Aves). Zoologica Scripta 38 (5): 465-481.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2235
+
+Study pg_2580 tree(s) tree5985, tree5986
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2580
+Reference: Smith, JordanV., Edward L. Braun, Rebecca T. Kimball. 2013. Ratite non-monophyly: independent evidence from 40 novel loci. Systematic Biology 62 (1): 35-49.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12891
+
+Study pg_2371 tree(s) tree4985
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2371
+Reference: Corl, Ammon, Hans Ellegren. 2013. Sampling strategies for species trees: The effects on phylogenetic inference of the number of genes, number of individuals, and whether loci are mitochondrial, sex-linked, or autosomal. Molecular Phylogenetics and Evolution 67 (2): 358-366
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13356
+
+Study pg_2407 tree(s) tree5076, tree6390
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2407
+Reference: Anderson F., Cordoba A., and Thollesson M. 2004. Bilaterian phylogeny based on analyses of a region of the sodium-potassium ATPase alpha subunit gene. Journal of Molecular Evolution 58 (3): 252-268.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1013
+
+Study pg_2406 tree(s) tree5072, tree5073, tree5074, tree6389
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2406
+Reference: Townsend T., Larson A., Louis E., & Macey J. 2004. Molecular phylogentics of Squamata: The position of snakes, amphisbaenians, and dibamids, and the root of the squamate tree. Systematic Biology 53 (5): 1-23.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1252
+
+Study pg_2404 tree(s) tree5068, tree6388
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2404
+Reference: Barker, F. Keith, Alice Cibois, Peter Schikler, Julie Feinstein, Joel Cracraft. 2004. Phylogeny and diversification of the largest avian radiation. Proceedings of the National Academy of Sciences of the United States of America 101 (30): 11040-11045.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11939
+
+Study ot_1431 tree(s) Tr55921
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1431
+Reference: Dongyu H., Lianhai H., Lijun Z., & Xing X. 2010. A pre-Archaeopteryx troodontid theropod from China with long feathers on the metatarsus. Nature, 461: 640-643.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13216
+
+Study ot_412 tree(s) Tr77157
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_412
+Reference: Barker, F.K. 2014. Mitogenomic data resolve basal relationships among passeriform and passeridan birds. Molecular Phylogenetics and Evolution 79: 313-324.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S15907
+
+Study pg_413 tree(s) tree524
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_413
+Reference: Dunn, C., Hejnol A., Matus D., Pang K., Browne W., Smith S., Seaver E., Rouse G., Obst M., Edgecombe G., Sørensen M., Haddock S., Schmidt-rhaesa A., Okusu A., Kristensen R., Wheeler W., Martindale M., and Giribet G. 2008. Broad phylogenomic sampling improves resolution of the animal tree of life. Nature 452 (7188): 745-749.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2020
+
+Study pg_2158 tree(s) tree4551
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2158
+Reference: Parra, Juan Luis, J.V. Remsen Jr., Mauricio Alvarez-Rebolledo, Jimmy A. McGuire. 2009. Molecular phylogenetics of the hummingbird genus Coeligena. Molecular Phylogenetics and Evolution 53 (2): 425-434.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10139
+
+Study pg_2152 tree(s) tree4545
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2152
+Reference: Kennedy, Martyn, Carlos A. Valle, Hamish G. Spencer. 2009. The phylogenetic position of the Galapagos Cormorant. Molecular Phylogenetics and Evolution 53 (1): 94-98.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10223
+
+Study pg_2332 tree(s) tree4912
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2332
+Reference: Voelker, G., & Light J.E. 2011. Palaeoclimatic events, dispersal and migratory losses along the Afro-European axis as drivers of biogeographic distribution in Sylvia warblers. BMC Evolutionary Biology 11: 163.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11505
+
+Study pg_1979 tree(s) tree4046, tree4047, tree6300
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1979
+Reference: Tavares, E.S., Baker A., Pereira S., & Miyaki C. 2006. Phylogenetic relationships and historical biogeography of neotropical parrots (Psittaciformes: Psittacidae: Arini) inferred from mitochondrial and nuclear DNA Sequences. Systematic Biology 55 (3): 454-470.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1577
+
+Study pg_1872 tree(s) tree3780, tree6664
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1872
+Reference: Fain, M., Krajewski C., & Houde P. 2007. Phylogeny of "core Gruiformes" (Aves: Grues) and resolution of the Limpkin-Sungrebe problem. Molecular Phylogenetics and Evolution 43 (2): 515-529.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1728
+
+Study pg_2528 tree(s) tree5445, tree5446
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2528
+Reference: Kennedy, Martyn, Roderic D. M. Page. 2002. Seabird supertrees: combining partial estimates of procellariiform phylogeny. The Auk 119 (1): 88-108.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S853
+
+Study pg_2444 tree(s) tree5198, tree5200, tree5201, tree5202, tree5203, tree5204, tree6526
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2444
+Reference: Pereira, S., Johnson K., Clayton D., and Baker A. 2007. Mitochondrial and nuclear DNA sequences support a Cretaceous origin of Columbiformes and a dispersal-driven radiation in the Paleogene. Systematic Biology 56 (4): 656-672.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1833
+
+Study ot_1790 tree(s) Tr114130, Tr114131
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1790
+Reference: Forcina G., Guerrini M., Khaliq I., Khan A.A., & Barbanera F. 2018. Human-Modified Biogeographic Patterns and Conservation in Game Birds: The Dilemma of the Black Francolin (Francolinus francolinus, Phasianidae) in Pakistan. PLoS ONE, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S22601
+
+Study ot_999 tree(s) Tr6436
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_999
+Reference: Phillips, Matthew J., Gillian C. Gibb, Elizabeth A. Crimp, David Penny. 2010. Tinamous and moa flock together: mitochondrial genome sequence analysis reveals independent losses of flight among ratites. Systematic Biology 59 (1): 90-107.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10184
+
+Study pg_420 tree(s) tree522
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_420
+Reference: Hackett, S. J., R. T. Kimball, S. Reddy, R. C. K. Bowie, E. L. Braun, M. J. Braun, J. L. Chojnowski, W. A. Cox, K.-L. Han, J. Harshman, C. J. Huddleston, B. D. Marks, K. J. Miglia, W. S. Moore, F. H. Sheldon, D. W. Steadman, C. C. Witt, T. Yuri. 2008. A Phylogenomic Study of Birds Reveals Their Evolutionary History. Science 320 (5884): 1763-1768.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2108
+
+Study pg_2447 tree(s) tree5221, tree6406
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2447
+Reference: Barley, Anthony J., Phillip Q. Spinks, Robert C. Thomson, H. Bradley Shaffer. 2010. Fourteen nuclear genes provide phylogenetic resolution for difficult nodes in the turtle tree of life. Molecular Phylogenetics and Evolution 55 (3): 1189-1194.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10164
+
+Study pg_425 tree(s) tree5976, tree5977, tree5978, tree5979
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_425
+Reference: L. A. Katz, J. R. Grant, L. W. Parfrey, J. G. Burleigh, 2012, 'Turning the Crown Upside Down: Gene Tree Parsimony Roots the Eukaryotic Tree of Life', Systematic Biology, vol. 61, no. 4, pp. 653-660
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12157
+
+Study ot_784 tree(s) Tr25484, Tr25486
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_784
+Reference: K.-L. Han, E. L. Braun, R. T. Kimball, S. Reddy, R. C. K. Bowie, M. J. Braun, J. L. Chojnowski, S. J. Hackett, J. Harshman, C. J. Huddleston, B. D. Marks, K. J. Miglia, W. S. Moore, F. H. Sheldon, D. W. Steadman, C. C. Witt, T. Yuri, 2011, 'Are Transposable Element Insertions Homoplasy Free?: An Examination Using the Avian Tree of Life', Systematic Biology, vol. 60, no. 3, pp. 375-386
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10968
+
+Study ot_787 tree(s) Tr64310
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_787
+Reference: Alcaide M., Liu M., & Edwards S. 2013. Major Histocompatibility Complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3. PeerJ, 1: e86.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14291
+
+Study ot_786 tree(s) Tr53559
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_786
+Reference: Ksepka D., Fordyce R., Ando Y., & Jones C.M. 2012. New fossil penguins (Aves, Sphenisciformes) from the Oligocene of New Zealand reveal the skeletal plan of stem penguins. Journal of Vertebrate Paleontology, 32(2): 235-254.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12832
+
+Study ot_781 tree(s) Tr48743, Tr48744
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_781
+Reference: Barker, F. Keith, Scott M. Lanyon. 2000. The Impact of Parsimony Weighting Schemes on Inferred Relationships among Toucans and Neotropical Barbets (Aves: Piciformes). Molecular Phylogenetics and Evolution 15 (2): 215-234.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11941
+
+Study ot_780 tree(s) Tr3788
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_780
+Reference: Kennedy, Martyn, Hamish G. Spencer. 2000. Phylogeny, biogeography, and taxonomy of Australasian Teals. The Auk 117 (1): 154-163.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S723
+
+Study ot_782 tree(s) Tr48736
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_782
+Reference: Beresford, P., F.K. Barker, P.G. Ryan, T.M. Crowe. 2005. African endemics span the tree of songbirds (Passeri): molecular systematics of several evolutionary 'enigmas'. Proceedings of the Royal Society B: Biological Sciences 272 (1565): 849-858
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11938
+
+Study pg_1428 tree(s) tree2855, tree2856
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1428
+Reference: Meredith, R.W., Janecka J., Gatesy J., Ryder O.A., Fisher C., Teeling E., Goodbla A., Eizirik E., Simao T., Stadler T., Rabosky D., Honeycutt R., Flynn J., Ingram C., Steiner C., Williams T., Robinson T., Herrick A., Westerman M., Ayoub N., Springer M., & Murphy W. 2011. Impacts of the Cretaceous Terrestrial Revolution and KPg Extinction on Mammal Diversification. Science 334 (6055): 521-524.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11872
+
+Study pg_2415 tree(s) tree5096
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2415
+Reference: Guillon, J., Guery L., Hulin V., & Girondot M. 2012. A large phylogeny of turtles (Testudines) using molecular data. Contributions to Zoology 81 (3): 147-158.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14093
+
+Study pg_2416 tree(s) tree3
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2416
+Reference: Nunn, Gary B., Scott E. Stanley. 1998. Body size effects and rates of cytochrome b evolution in tube-nosed seabirds. Molecular Biology and Evolution 15 (10): 1360-1371.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S401
+
+Study ot_1345 tree(s) Tr109614
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1345
+Reference: Worthy T., Mitri M., Handley W.D., Lee M.S., Anderson A., & Sand C. 2016. Osteology Supports a Stem-Galliform Affinity for the Giant Extinct Flightless Bird Sylviornis neocaledoniae (Sylviornithidae, Galloanseres). PLoS ONE, 11(3): e0150871.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S22168
+
+Study pg_2418 tree(s) tree5104, tree5105, tree6152
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2418
+Reference: Evans, N.M., & Cartwright P. 2010. The phylogenetic position of Myxozoa: exploring conflicting signals in phylogenomic and ribosomal  datasets. Molecular Biology and Evolution 27 (12): 2733-2746.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10454
+
+Study pg_2419 tree(s) tree6023
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2419
+Reference: Thuiller, Wilfried, Sébastien Lavergne, Cristina Roquet, Isabelle Boulangeat, Bruno Lafourcade, Miguel. B. Araujo. 2011. Consequences of climate change on the tree of life in Europe. Nature 470 (7335): 531-534.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10770
+
+Study ot_1513 tree(s) Tr55903
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1513
+Reference: Zanno L.E. 2010. A taxonomic and phylogenetic re-evaluation of Therizinosauria (Dinosauria: Maniraptora). Journal of Systematic Palaeontology, 8(4): 37-41.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13202
+
+Study ot_1516 tree(s) Tr55113
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1516
+Reference: Hu D., Xu X., Hou L., & Sullivan C. 2012. A new enantiornithine bird from the Lower Cretaceous of Western Liaoning, China, and its implications for early avian evolution. Journal of Vertebrate Paleontology, 32(3): 639-645.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12997
+
+Study ot_775 tree(s) Tr289, Tr220, Tr221
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_775
+Reference: Kennedy, Martyn, Hamish G. Spencer. 2004. Phylogenies of the Frigatebirds (Fregatidae) and Tropicbirds (Phaethonidae), two divergent groups of the traditional order Pelecaniformes, inferred from mitochondrial DNA sequences. Molecular Phylogenetics and Evolution 31 (1): 31-38.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1144
+
+Study ot_776 tree(s) Tr6847, Tr6803
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_776
+Reference: Holland, Barbara R., Hamish G. Spencer, Trevor H. Worthy, Martyn Kennedy. 2010. Identifying Cliques of Convergent Characters: Concerted Evolution in the Cormorants and Shags. Systematic Biology 59 (4): 433-445
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10249
+
+Study ot_777 tree(s) Tr77888
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_777
+Reference: Kennedy, Martyn, Hamish G. Spencer. 2014. Classification of the cormorants of the world. Molecular Phylogenetics and Evolution 79: 249-257.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S16420
+
+Study ot_778 tree(s) Tr2093, Tr2092, Tr2091
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_778
+Reference: Kennedy, Martyn, Barbara B. Holland, Russell D. Gray, Hamish G. Spencer. 2005. Untangling long branches: Identifying conflicting phylogenetic signals using spectral analysis, Neighbor-Net, and consensus networks. Systematic Biology 54(4): 620-633.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1332
+
+Study ot_779 tree(s) Tr403, Tr3789, Tr3790
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_779
+Reference: Kennedy, Martyn, Russell D. Gray, Hammish G. Spencer. 2000. The phylogenetic relationships of the shags and cormorants: Can sequence data resolve a disagreement between behaviour and morphology?. Molecular Phylogenetics and Evolution 17 (3): 345-359.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S724
+
+Study pg_2459 tree(s) tree5278, tree5279, tree5280, tree5282, tree6437
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2459
+Reference: Peters, Jeffrey L., Kevin G. McCracken, Yuri N. Zhuravlev, Yi Lu, Robert E. Wilson, Kevin P. Johnson, Kevin E. Omland. 2005. Phylogenetics of wigeons and allies (Anatidae: Anas): the importance of sampling multiple loci and multiple individuals. Molecular Phylogenetics and Evolution 35 (1): 209-224.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1309
+
+Study pg_2454 tree(s) tree5242, tree5243, tree5244, tree5245, tree5246, tree5247
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2454
+Reference: Brumfield, R., & Edwards S. 2007. Evolution into and out of the Andes: a Bayesian analysis of historical diversification in Thamnophilus antshrikes. Evolution 61 (2): 346-367.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1759
+
+Study pg_2800 tree(s) tree6502, tree6501
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2800
+Reference: Harshman, J., E. L. Braun, M. J. Braun, C. J. Huddleston, R. C. K. Bowie, J. L. Chojnowski, S. J. Hackett, K.-L. Han, R. T. Kimball, B. D. Marks, K. J. Miglia, W. S. Moore, S. Reddy, F. H. Sheldon, D. W. Steadman, S. J. Steppan, C. C. Witt, T. Yuri. 2008. Phylogenomic evidence for multiple losses of flight in ratite birds. Proceedings of the National Academy of Sciences 105 (36): 13462-13467.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2134
+
+Study ot_1410 tree(s) Tr97099
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1410
+Reference: White N.D., Barrowclough G.F., Groth J.G., & Braun M. 2016. A Multi-Gene Estimate of Higher-Level Phylogenetic Relationships Among Nightjars (Aves: Caprimulgidae). Ornitologia Neotropical, 27: 223-236.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S19469
+
+Study pg_2105 tree(s) tree4360
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2105
+Reference: Lecroy, Mary, F. Keith Barker. 2006. New species of bush-warbler from Bougainville Island and a monophyletic origin for southwest Pacific Cettia. American Museum Novitates 3511: 1-20.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11933
+
+Study pg_310 tree(s) tree259, tree260, tree261
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_310
+Reference: Katz, L.A., Grant J.R., Parfrey L.W., Gant A., O'kelly C., Anderson O.R., Molestina R.E., and Nerad T. 2011. Subulatomonas tetraspora nov. gen. nov. sp. is a member of a previously unrecognized major clade of eukaryotes. Protist 162 (5): 762-773.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11336
+
+Study pg_312 tree(s) tree263
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_312
+Reference: Takishita, K., Martin K., Komatsuzaki H., Yabuki A., Inagaki Y., Cepicka I., Smejkalova P., Silberman J.D., Hashimoto T., Roger A.J., and Simpson A.G. 2011. Multigene phylogenies of diverse Carpediemonas-like organisms identify the closest relatives of 'amitochondriate' diplomonads and retortamonads. Protist 163 (3): 344-355.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11689
+
+Study pg_2925 tree(s) tree6756
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2925
+Reference: Grant, J.R., and L.A. Katz. 2014. Building a phylogenomic pipeline for the eukaryotic tree of life? Addressing deep phylogenies with genome-scale data. PLOS Currents Tree of Life, April 2(1).
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14480
+
+Study pg_1953 tree(s) tree3977
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1953
+Reference: Derryberry, E.P., Claramunt S., Derryberry G.E., Chesser R.T., Cracraft J., Aleixo A., Perez-eman J., Remsen J., and Brumfield R. 2011. Lineage diversification and morphological evolution in a large-scale continental radiation: the Neotropical ovenbirds and woodcreepers (Aves: Furnariidae). Evolution 65 (10): 2973-2986.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11550
+
+Study pg_2858 tree(s) tree6642
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2858
+Reference: Nylander, Johan A. A., Urban Olsson, Per Alström, Isabel Sanmartín. 2008. Accounting for phylogenetic uncertainty in biogeography: a Bayesian approach to dispersal-vicariance analysis of the thrushes (Aves: Turdus). Systematic Biology 57 (2): 257-268.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1993
+
+Study pg_1639 tree(s) tree3313
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1639
+Reference: Voigt, K., & Wstemeyer J. 2000. Reliable amplification of actin genes facilitates deep-level phylogeny. Microbiological Research 155 (3): 179-195.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S667
+
+Study pg_1854 tree(s) tree3743
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1854
+Reference: Mann, Nigel I., F. Keith Barker, Jeff A. Graves, Kimberly A. Dingess-Mann, Peter J.B. Slater. 2006. Molecular data delineate four genera of “Thryothorus” wrens. Molecular Phylogenetics and Evolution 40 (3): 750-759
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11932
+
+Study pg_224 tree(s) tree40
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_224
+Reference: Moore, M. J., Hassan, N, Gitzendanner, M. A., Bruenn, R. A., Croley, M., Vandeventer, A., Horn, J. W., Dhingra, A., Brockington, S. F., Latvis, M., Ramdial, J., Alexandre, R., Piedrahita, A., Xi, Z., Davis, C. C., Soltis, P. S., & Soltis, D. E. 2011. Phylogenetic analysis of the plastid inverted repeat for 244 species: Insights into deeper-level angiosperm relationships from a long, slowly evolving sequence region. Int. J. Plant Sci. 172: 541-558.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10503
+
+Study pg_2616 tree(s) tree6486, tree6487
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2616
+Reference: Gibb, Gillian C., Martyn Kennedy, David Penny. 2013. Beyond phylogeny: pelecaniform and ciconiiform birds, and long-term niche stability. Molecular Phylogentics and Evolution 68 (2): 229-238.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14121
+
+Study pg_1766 tree(s) tree3561, tree3562, tree3563
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1766
+Reference: Claramunt, S., Derryberry E.P., Brumfield R., and Remsen J. 2012. Ecological opportunity and diversification in a continental radiation of birds: climbing adaptations and cladogenesis in the Furnariidae. American Naturalist 179 (5): 649-666.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12262
+
+Study ot_579 tree(s) Tr60046
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_579
+Reference: Sascha Krenek, Martin Schlegel, Thomas U Berendonk, 2013, 'Convergent evolution of heat-inducibility during subfunctionalization of the Hsp70 gene family', BMC Evolutionary Biology, vol. 13, no. 1, p. 49
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13746
+
+Study pg_2015 tree(s) tree4152
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2015
+Reference: Odeen, A., Hastad O., & Alstrom P. 2011. Evolution of ultraviolet vision in the largest avian radiation - the passerines. BMC Evolutionary Biology 11 (313): 1-8.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12179
+
+Study pg_1079 tree(s) tree2101, tree2102
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1079
+Reference: Voigt, K., & Wostemeyer J. 2001. Phylogeny and origin of 82 zygomycetes from all 54 genera of the Mucorales and Mortierellales based on combined analysis of actin and translation elongation factor EF-1 alpha genes. Gene 270 (1-2): 113-120.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S754
