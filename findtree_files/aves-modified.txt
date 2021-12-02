@@ -3,13 +3,15 @@ Only returning studies with TreeBase links
 
 Study pg_1217 tree(s) tree2455
 OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1217
-Reference: Delsuc, Frédéric, Georgia Tsagkogeorga, Nicolas Lartillot, andHervé Philippe. 2008. Additional molecular
+Reference: Delsuc, Frédéric, Georgia Tsagkogeorga, Nicolas Lartillot, andHervé Philippe.
+2008. Additional molecular
 support for the new chordate phylogeny. Genesis 46 (11): 592-604.
 Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12329
 
 Study pg_1764 tree(s) tree6299
 OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1764
-Reference: Kennedy, M.,  S.A. Taylor, P. Nádvorník, H. Spencer. 2013. The phylogenetic relationships of the extant pelicans inferred from DNA sequence data. Molecular Phylogenetics and Evolution 66 (1): 215-222.
+Reference: Kennedy, M.,  S.A. Taylor, P. Nádvorník, H. Spencer.
+2013. The phylogenetic relationships of the extant pelicans inferred from DNA sequence data. Molecular Phylogenetics and Evolution 66 (1): 215-222.
 Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13616
 
 Study pg_305 tree(s) tree5968, tree5969, tree5970, tree5971, tree5972, tree5973
@@ -50,6 +52,10 @@ Reference: Mark S. Springer, Christopher A. Emerling, Robert W. Meredith, Jan E.
 2017, 'Waking the undead: Implications of a soft explosive model for the timing of placental mammal diversification', Molecular Phylogenetics and Evolution, vol. 106, pp. 86-102
 Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S19854
 
+MAYBE
+Notes: Only one concatenated alignment of 6 markers
+Timaliidae is broken in OT synthetic tree
+OTT id 565811
 Study pg_1586 tree(s) tree3207, tree3208
 OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1586
 Reference: Moyle, R.G., Andersen M.J., Oliveros C., Steinheimer F.D., and Reddy S.
@@ -64,6 +70,7 @@ Reference: Shu-an J., Atterholt J., O'connor J.K., Lamanna M.C., Harris J.D., Da
 Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13055
 
 MAYBE
+Notes: alignments are separated by clades
 Study ot_1789 tree(s) Tr113965, Tr113966, Tr113967, Tr113969, Tr113962, Tr113963, Tr113968, Tr113964
 OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1789
 Reference: Phillips A.G., Töpfer T., Boehning-gaese K., & Fritz S.A.
