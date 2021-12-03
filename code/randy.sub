@@ -1,0 +1,6 @@
+pwd 
+cd /branchinecta/shared
+module load anaconda3
+source activate physcraper_env
+echo "Starting Physcraper Timaliidae run"
+time physcraper_run.py --study_id pg_1586 --tree_id tree3207 --treebase -db local_blast_db_OLD/ --search_taxon ott:565811 -o luna_timaliida
