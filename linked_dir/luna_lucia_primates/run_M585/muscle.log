@@ -1,0 +1,22 @@
+
+MUSCLE v3.8.1551 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+new_seqs_UNaligned_2021-12-09_M 1 seqs, lengths min 2308, max 2308, avg 2308
+
+MUSCLE v3.8.1551 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+00:00:00     15 MB(1%)  Reading /project/linked_dir/luna_lucia_primates/run_M585/original_cleaned.fas
+00:00:00     16 MB(1%)  63 seqs 3009 cols
+00:00:00     16 MB(1%)  Reading /project/linked_dir/luna_lucia_primates/run_M585/new_seqs_aligned_2021-12-09_M585.fas
+00:00:00     16 MB(1%)  1 seqs 2308 cols
+00:00:00     17 MB(1%)  Aligning profiles
+00:00:00     32 MB(2%)  Building output
+00:00:00     32 MB(2%)  Writing output

@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_42373</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>956</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_42373</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>956</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|376322334|gb|JN826740.1|</Hit_id>
+  <Hit_def>Moupinia poecilotis voucher FMNH 68881 NADH dehydrogenase subunit 3 (ND3) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826740</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>634.269</Hsp_bit-score>
+      <Hsp_score>702</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>280</Hsp_query-from>
+      <Hsp_query-to>630</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>351</Hsp_identity>
+      <Hsp_positive>351</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATAAACATAGTCGTATTTATAATACTCTTGTCCACAATCCTAAGCATCGCCCTCACAGCCTTAAACTTCTGACTAGCCCAAATAAACCCCGAGTCAGAAAAACTATCCCCATACGAATGTGGATTCGACCCTCTAGGGTCCGCCCGCCTACCATTTTCAATCCGATTCTTCCTAGTAGCCATTCTTTTCCTACTATTCGACCTAGAAATTGCCCTTTTACTTCCCCTTCCATGAGCCATCCAACTCGAAACCCCTACAACCACTTTAACCTGAGCCTCCACCCTCATCCTCCTCCTCACTTTAGGCCTAATTTACGAATGAACCCAAGGAGGACTAGAATGAGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATAAACATAGTCGTATTTATAATACTCTTGTCCACAATCCTAAGCATCGCCCTCACAGCCTTAAACTTCTGACTAGCCCAAATAAACCCCGAGTCAGAAAAACTATCCCCATACGAATGTGGATTCGACCCTCTAGGGTCCGCCCGCCTACCATTTTCAATCCGATTCTTCCTAGTAGCCATTCTTTTCCTACTATTCGACCTAGAAATTGCCCTTTTACTTCCCCTTCCATGAGCCATCCAACTCGAAACCCCTACAACCACTTTAACCTGAGCCTCCACCCTCATCCTCCTCCTCACTTTAGGCCTAATTTACGAATGAACCCAAGGAGGACTAGAATGAGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|376321335|gb|JN826237.1|</Hit_id>
+  <Hit_def>Moupinia poecilotis voucher FMNH 68881 transforming growth factor beta 2 (TGFB2) gene, exon 5 and partial cds</Hit_def>
+  <Hit_accession>JN826237</Hit_accession>
+  <Hit_len>326</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>589.185</Hsp_bit-score>
+      <Hsp_score>652</Hsp_score>
+      <Hsp_evalue>2.43118e-168</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>326</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>326</Hsp_identity>
+      <Hsp_positive>326</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>326</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGTGAGCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGTGAGCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1389387930|gb|MH265378.1|</Hit_id>
+  <Hit_def>Yuhina flavicollis rouxi voucher NRM 20046752 transforming growth factor beta 2 (TGFB2) gene, exon 6 and partial cds</Hit_def>
+  <Hit_accession>MH265378</Hit_accession>
+  <Hit_len>584</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>511.64</Hsp_bit-score>
+      <Hsp_score>566</Hsp_score>
+      <Hsp_evalue>5.35977e-145</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>330</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGTGA----GCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCGCACCCAATACTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGCAGTTGTTTACCATGTTTCTTTACAGTTGGCATTTATACAGAATGCACACCCTCATTGTCAGACCCAGGGTCTGTGYGCAGCAGGTCTCTGCCCGGCAGTCTCCAGTCCCACAGAGACAGGGGTAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGGTGATTCCCACATGCATTAGCCCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||| | |    | |||||||||||||||||||||||||||||||||| ||||||||||||||||  |||||||||||||||||||||||| | | |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|376321760|gb|JN826453.1|</Hit_id>
+  <Hit_def>Yuhina flavicollis voucher KUNHM 15170 transforming growth factor beta 2 (TGFB2) gene, exons 5, 6 and partial cds</Hit_def>
+  <Hit_accession>JN826453</Hit_accession>
+  <Hit_len>584</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>511.64</Hsp_bit-score>
+      <Hsp_score>566</Hsp_score>
+      <Hsp_evalue>5.35977e-145</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>330</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGTGA----GCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCGCACCCAATACTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGCAGTTGTTTACCATGTTTCTTTACAGTTGGCATTTATACAGAATGCACACCCTCATTGTCAGACCCAGGGTCTGTGYGCAGCAGGTCTCTGCCCGGCAGTCTCCAGTCCCACAGAGACAGGGGTAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGGTGATTCCCACATGCATTAGCCCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||| | |    | |||||||||||||||||||||||||||||||||| ||||||||||||||||  |||||||||||||||||||||||| | | |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|376321325|gb|JN826232.1|</Hit_id>
+  <Hit_def>Alcippe poioicephala voucher USNM 5606 transforming growth factor beta 2 (TGFB2) gene, exons 5, 6 and partial cds</Hit_def>
+  <Hit_accession>JN826232</Hit_accession>
+  <Hit_len>584</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>507.131</Hsp_bit-score>
+      <Hsp_score>561</Hsp_score>
+      <Hsp_evalue>2.27903e-143</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>330</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGT----GAGCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCCATATTCTTACACAGTCCTACCAGCCTAGGAGGTGTCATGCAGTTGTTTATTGTGTTTCTTTACAGTTGGCATTTATAGAGAATGCACACTCTCATTGCCAGACCCAGGGTCTGTGTGCACCAGGTCACTGCCCRGCAGTCTCCAGTCCCACAGAGACATGGGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAAATGTCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||| ||||||||||  ||||||||||||||||||| |    ||| |||||||| ||||||| ||||||||||||||||||||| |||||| |||||  |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|376321327|gb|JN826233.1|</Hit_id>
+  <Hit_def>Alcippe poioicephala voucher USNM 6060 transforming growth factor beta 2 (TGFB2) gene, exons 5, 6 and partial cds &gt;gi|1389387894|gb|MH265358.1| Alcippe poioicephala alearis voucher MNHN 6-74 transforming growth factor beta 2 (TGFB2) gene, exon 6 and partial cds</Hit_def>
+  <Hit_accession>JN826233</Hit_accession>
+  <Hit_len>584</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>505.328</Hsp_bit-score>
+      <Hsp_score>559</Hsp_score>
+      <Hsp_evalue>7.9546e-143</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>330</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGT----GAGCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCCATATTCTTACACAGTCCTACCAGCCTAGGAGGTGTCATGCAGTTGTTTATTGTGTTTCTTTACAGTTGGCATTTATAGAGAATGCACACTCTCATTGCCAGACCCAGGGTCTGTGTGCACCAGGTCACTGCCCGGCAGTCTCCAGTCCCACAGAGACATGGGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTTAGAGCCAAAATGTCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||| ||||||||||  ||||||||||||||||||| |    ||| |||||||| ||||||| ||||||||||||||||||||| |||||| |||||  |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|376321816|gb|JN826481.1|</Hit_id>
+  <Hit_def>Moupinia poecilotis voucher FMNH 68881 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826481</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>504.426</Hsp_bit-score>
+      <Hsp_score>558</Hsp_score>
+      <Hsp_evalue>7.9546e-143</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>279</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>279</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>AGACACAAACTCGAAAAATCATAGCCTTTTCCTCCATCTCCCACATAGGCTGAATAACCATCATCATCTCTTTCTCTCCCAAACTAACCCTATTAAACTTCTACTTATACATTCTAATAACTACAGCCGTATTCCTCACCTTAAACACAAACAAAATTTTAAAACTATCAACCCTAATAACTACATGAGCAAAAAACCCCTCACTAAACGCAATACTACTACTAACCCTACTTTCCATAGCAGGCCTCCCCCCACTTACAGGATTCCTCCCAAAATGAC</Hsp_qseq>
+      <Hsp_hseq>AGACACAAACTCGAAAAATCATAGCCTTTTCCTCCATCTCCCACATAGGCTGAATAACCATCATCATCTCTTTCTCTCCCAAACTAACCCTATTAAACTTCTACTTATACATTCTAATAACTACAGCCGTATTCCTCACCTTAAACACAAACAAAATTTTAAAACTATCAACCCTAATAACTACATGAGCAAAAAACCCCTCACTAAACGCAATACTACTACTAACCCTACTTTCCATAGCAGGCCTCCCCCCACTTACAGGATTCCTCCCAAAATGAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|220900523|gb|FJ460924.1|</Hit_id>
+  <Hit_def>Stachyris plateni voucher CMNH 37768 transforming growth factor beta 2 (TGFB2) gene, partial cds</Hit_def>
+  <Hit_accession>FJ460924</Hit_accession>
+  <Hit_len>582</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.525</Hsp_bit-score>
+      <Hsp_score>557</Hsp_score>
+      <Hsp_evalue>2.77643e-142</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>312</Hsp_identity>
+      <Hsp_positive>312</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCA-GTG---AGCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTT-AGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGCAGTTGTTTACCATGTTTCTTTACAGTTGGCCTGTATACAGAATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCCAGCAGTCTCCAGTCCTACAGAGACAAGGGCAGATTGTTGTGACCGTAGACAGCAGAAGTTCAGTTCCATCTGGGGTGATTCCCACATGCATTAACCCCATAGTTAAGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||  ||    || ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||| ||||||||| | |||||||||||||||| ||||||||||||| ||||||||||||||| ||||||||||||||||||  ||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|220900517|gb|FJ460921.1|</Hit_id>
+  <Hit_def>Yuhina nigrimenta voucher AMNH DOT12297 transforming growth factor beta 2 (TGFB2) gene, partial cds</Hit_def>
+  <Hit_accession>FJ460921</Hit_accession>
+  <Hit_len>582</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.525</Hsp_bit-score>
+      <Hsp_score>557</Hsp_score>
+      <Hsp_evalue>2.77643e-142</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGTGA----GCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTT-AGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATACTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGCAATTGTTTACCATGTTTCTTTACAGTTGGCATTTATACAGAATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTGGCAGTCTCCAGTCCTACAGAGACAGGGGCAGATTATTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGGTGATTCCCACATGCATTAGCCCCATAGTTAAGAGCCAAATTATCACTTTGTTTACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| | |    | |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||||||| | ||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||||||||| |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|220900521|gb|FJ460923.1|</Hit_id>
+  <Hit_def>Stachyris dennistouni voucher CMNH 38201 transforming growth factor beta 2 (TGFB2) gene, partial cds</Hit_def>
+  <Hit_accession>FJ460923</Hit_accession>
+  <Hit_len>582</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.918</Hsp_bit-score>
+      <Hsp_score>553</Hsp_score>
+      <Hsp_evalue>3.38238e-141</Hsp_evalue>
+      <Hsp_query-from>631</Hsp_query-from>
+      <Hsp_query-to>956</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGGAGTTGTTTATCATGTTTCTTTACAGTTGGCAGTGA----GCATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCTAGCAGTCTCCAGTCCCACAGAGACATGAGCAGATTGTTGTGACCTTAGACAGCAGAAGCTCAGTTCCATCTGGGATGATTCCCACATGCATTAGACCCATAGTT-AGAGCCAAATTATCACTTTGTTCACCTACTCAGAGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_qseq>
+      <Hsp_hseq>CCTATTGTTTTAGGTAACTATGCCTGCACACCCAATATTCTTACACAGTCCTACCAGCCTGGGAGGTGTCATGCAGTTGTTTACCATGTTTCTTTACAGTTGGTATTTATACAGAATGCACACCCTCATTGTCAGACCCAGGGTCTGTGTGCAGCAGGTCTCTGCCCAGCAGTCTCCAGTCCTACAGAGACAAGGGCAGATTGTTGTGACCGTAGACAGCAGAAGTTCAGTTCCATCTGGGGTGATTCCCACATGCATTAACCCCATAGTTAAGAGCCAAATTATCACTTTGTTCACCTACTCAGNGTCTCCTCTGTAGGACCTGGAGAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||| | | |    | ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||| ||||||||| | |||||||||||||||| ||||||||||||| ||||||||||||||| ||||||||||||||||||  ||||||||| ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8546</Statistics_db-num>
+      <Statistics_db-len>6023396</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

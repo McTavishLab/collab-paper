@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_58427</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>1260</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_58427</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>1260</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|795635054|ref|XM_011736938.1|</Hit_id>
+  <Hit_def>PREDICTED: Macaca nemestrina ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_011736938</Hit_accession>
+  <Hit_len>3761</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.407</Hsp_bit-score>
+      <Hsp_score>487</Hsp_score>
+      <Hsp_evalue>1.00813e-119</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>1875</Hsp_hit-from>
+      <Hsp_hit-to>2794</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>649</Hsp_identity>
+      <Hsp_positive>649</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTAGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||||||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1536</Hsp_hit-from>
+      <Hsp_hit-to>1585</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|795635051|ref|XM_011736937.1|</Hit_id>
+  <Hit_def>PREDICTED: Macaca nemestrina ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_011736937</Hit_accession>
+  <Hit_len>3930</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.407</Hsp_bit-score>
+      <Hsp_score>487</Hsp_score>
+      <Hsp_evalue>1.00813e-119</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>2044</Hsp_hit-from>
+      <Hsp_hit-to>2963</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>649</Hsp_identity>
+      <Hsp_positive>649</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTAGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||||||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1705</Hsp_hit-from>
+      <Hsp_hit-to>1754</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1848991937|ref|XM_034929861.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), mRNA</Hit_def>
+  <Hit_accession>XM_034929861</Hit_accession>
+  <Hit_len>3677</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>1794</Hsp_hit-from>
+      <Hsp_hit-to>2713</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGCGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAACGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACTGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTGGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTACATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAAAGACAGGGTGCTATCGTGGCTGTGACTGGTGACGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTCTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCGTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||| ||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | ||||| || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | || || |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || ||||||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||| |    |||||||| || ||||| |||||||| ||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  | || |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1455</Hsp_hit-from>
+      <Hsp_hit-to>1504</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1799979391|ref|XM_032154887.1|</Hit_id>
+  <Hit_def>PREDICTED: Hylobates moloch ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), mRNA</Hit_def>
+  <Hit_accession>XM_032154887</Hit_accession>
+  <Hit_len>3770</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>1884</Hsp_hit-from>
+      <Hsp_hit-to>2803</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGCGCCCCGGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAACGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACTGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTACATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATTGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATCGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCATTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||| ||||| ||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | ||||| || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | || || |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || ||||||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || ||||| |||||  | || || || || || ||  | |||||||| ||||| |||||  |    |||||||| || ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | |||||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1545</Hsp_hit-from>
+      <Hsp_hit-to>1594</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1777245572|ref|XM_031652258.1|</Hit_id>
+  <Hit_def>PREDICTED: Papio anubis ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_031652258</Hit_accession>
+  <Hit_len>3568</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>1682</Hsp_hit-from>
+      <Hsp_hit-to>2601</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||| ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1343</Hsp_hit-from>
+      <Hsp_hit-to>1392</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1777245570|ref|XM_021922594.2|</Hit_id>
+  <Hit_def>PREDICTED: Papio anubis ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_021922594</Hit_accession>
+  <Hit_len>3926</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>2040</Hsp_hit-from>
+      <Hsp_hit-to>2959</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||| ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1701</Hsp_hit-from>
+      <Hsp_hit-to>1750</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1622825424|ref|XM_015147230.2|</Hit_id>
+  <Hit_def>PREDICTED: Macaca mulatta ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_015147230</Hit_accession>
+  <Hit_len>3761</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>1875</Hsp_hit-from>
+      <Hsp_hit-to>2794</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGAGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||| ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1536</Hsp_hit-from>
+      <Hsp_hit-to>1585</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1411076945|ref|XM_025383201.1|</Hit_id>
+  <Hit_def>PREDICTED: Theropithecus gelada ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_025383201</Hit_accession>
+  <Hit_len>3294</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>2048</Hsp_hit-from>
+      <Hsp_hit-to>2967</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||| ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1709</Hsp_hit-from>
+      <Hsp_hit-to>1758</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1411076944|ref|XR_003119076.1|</Hit_id>
+  <Hit_def>PREDICTED: Theropithecus gelada ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), transcript variant X4, misc_RNA</Hit_def>
+  <Hit_accession>XR_003119076</Hit_accession>
+  <Hit_len>3938</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>2048</Hsp_hit-from>
+      <Hsp_hit-to>2967</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGCAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATTGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCCTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || |||||   |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    ||||||||||| ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1709</Hsp_hit-from>
+      <Hsp_hit-to>1758</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1938824856|ref|XM_007977438.2|</Hit_id>
+  <Hit_def>PREDICTED: Chlorocebus sabaeus ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), mRNA</Hit_def>
+  <Hit_accession>XM_007977438</Hit_accession>
+  <Hit_len>3930</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>435.898</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.22816e-118</Hsp_evalue>
+      <Hsp_query-from>340</Hsp_query-from>
+      <Hsp_query-to>1259</Hsp_query-to>
+      <Hsp_hit-from>2044</Hsp_hit-from>
+      <Hsp_hit-to>2963</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>648</Hsp_identity>
+      <Hsp_positive>648</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>920</Hsp_align-len>
+      <Hsp_qseq>GTCATGAAGGGTGCCCCAGAACGTGTTTTGGAACGTTGCTCAACCATTTTCATTAATGGCAAAGAAAAGGTATTGGATGAGGAAATGAAAGAAGCATTCAATAACGCATACTTGGAACTTGGTGGACTTGGTGAACGTGTCTTGGGATTCTGTGACTTTTTATTACCATCCGATAAATTCCCAATTGGTTTTAAATTCAATACCGATGATCCTAATTTCCCATTGGAAAATTTACGTTTCGTTGGTCTTATGTCTATGATTGATCCTCCACGTGCTGCCGTACCAGATGCCGTCGCCAAATGTCGTTCAGCCGGTATTAAAGTTATCATGGTTACTGGYGATCATCCAATTACAGCCAAAGCTATTGCCAAATCGGTTGGTATCATCTCAGAAGGAAACGAAACTGTTGAAGATATTGCYGCACGATTAAATATTCCCGTATCRGAAGTGAATCCACGTGAAGCTAAAGCCGCTGTTGTACATGGTGCTGAATTACGTGAAGTATCATCAGAACAATTAGACGAAATTTTACGTTATCATACCGAAATTGTATTTGCTCGTACATCACCACAACAAAAATTGATCATTGTTGAAGGTTGCCAACGTTTAGGTGCTATTGTAGCTGTAACTGGTGATGGTGTTAACGATTCGCCAGCCCTTAAAAAAGCTGATATTGGTGTTGCTATGGGTATCGCCGGGTCTGATGTATCGAAACAAGCCGCTGACATGATCTTGCTCGATGACAATTTTGCATCAATTGTAACTGGTGTAGAAGAGGGTCGCTTAATTTTCGATAATTTAAAAAAATCAATTGCCTACACATTAACTTCAAATATTCCAGAAATTTCACCATTCTTGGCATTTATTTTATGTGATATTCCATTACCGCTAGGAACTGTAACAATTTTATGTATTGATTT</Hsp_qseq>
+      <Hsp_hseq>GTGATGAAGGGTGCCCCAGAAAGGATCCTAGACCGTTGCAGCTCTATCCTCCTCCACGGCAAGGAGCAGCCCCTGGATGAGGAGCTGAAAGACGCCTTTCAGAATGCCTATTTGGAGCTGGGGGGCCTCGGAGAACGAGTCCTAGGTTTCTGCCACCTCTTTCTGCCAGATGAACAGTTTCCTGAAGGGTTCCAGTTTGACACCGACGATGTGAATTTCCCTATCGATAATCTGTGCTTTGTTGGGCTCATCTCCATGATTGACCCTCCACGGGCGGCCGTTCCTGATGCCGTGGGCAAATGTCGAAGTGCTGGAATTAAGGTCATCATGGTCACAGGAGACCATCCAATCACAGCTAAAGCTATTGCCAAAGGTGTGGGCATCATCTCAGAAGGCAATGAGACCGTAGAAGACATTGCTGCCCGCCTCAACATCCCAGTCAGCCAGGTGAACCCCAGGGATGCCAAGGCCTGCGTAGTGCATGGTAGTGATCTAAAGGACATGACCTCCGAGCAGCTGGATGACATTTTGAAGTACCACACTGAGATAGTGTTTGCCAGGACCTCCCCTCAGCAGAAGCTCATCATTGTGGAAGGCTGCCAGAGACAGGGTGCTATCGTGGCTGTGACTGGTGATGGTGTGAATGACTCTCCAGCTTTGAAGAAAGCAGACATTGGGGTTGCTATGGGGATTGCTGGCTCAGATGTGTCCAAGCAAGCTGCTGACATGATTCTTTTGGATGACAACTTTGCCTCAATTGTGACTGGAGTAGAGGAAGGTCGTCTGATCTTTGATAACTTGAAGAAATCCATTGCTTATACCTTAACCAGTAACATTCCCGAGATCACCCCTTTCCTGATATTTATTATTGCAAACATTCCACTACCACTGGGGACTGTCACCATCCTCTGCATTGACTT</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| |  |  | || ||||||    | ||  || |  | ||||| ||  ||    ||||||||||  ||||||| || ||  | || || || ||||| || || || || || ||||| ||| | || |||||  || | ||  | |||   ||  | || ||    || ||  | ||  | ||||| |||   ||||||||  | || ||| |  | || ||||| || || || |||||||| |||||||| || ||||| || |||||||| | |||||||||    || || ||||| || |||||||| || || || |||||||| ||||| |||||||||||||||   || || |||||||||||||| || || || || ||||| ||||| || ||  | || || || ||     | ||||| ||  | || || || |||   || || ||||||  |||  ||   ||  |  | || || ||  | || || |||||    || || || || || || |||||  | || || || || || ||  | |||||||| ||||| |||||  |    |||||||| || ||||| |||||||||||||| || || || |||||  | || ||||| || ||||| ||||||||||| || || || || ||||| || || ||||| |||||||||||  |  | |||||||| ||||| |||||||| ||||| ||||| || |||||  | || || ||||| || || ||||| ||||| || || |||||    || ||||| || ||  | || ||| ||  ||||||| |     | |||||| |||| || || ||||| || ||  | || ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.3705</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>0.223236</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1705</Hsp_hit-from>
+      <Hsp_hit-to>1754</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>TTTGATAATCAAATCATTGAAGCTGATACTACTGAAGATCAATCTGGTGT</Hsp_qseq>
+      <Hsp_hseq>TTTGACAATCAAATCCATGAAGCTGATACGACAGAGAATCAGAGTGGTGT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||  |||||||||||| || ||  ||||   ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3020508</Statistics_db-num>
+      <Statistics_db-len>600431712167</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
