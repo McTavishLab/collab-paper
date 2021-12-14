@@ -1,0 +1,341 @@
+time physcraper_run.py --study_id pg_2407 --tree_id tree5076 --search_taxon ott:913935 --alignment /project/linked_dir/alignments/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /project/linked_dir/luna_lucia_primates
+No config file, using defaults
+Configuration Settings
+[blast]
+Entrez.email = None
+e_value_thresh = 1e-05
+hitlist_size = 10
+location = remote
+localblastdb = None
+num_threads = 4
+delay = 90
+[physcraper]
+spp_threshold = 5
+min_length = 0.8
+max_length = 1.2
+
+NAME RECONCILIATION Some of the taxa in the tree are not in the alignment. and will be pruned. Missing "Homo_sapiens_ATPa2", "Gallus_gallus", "Gallus_gallus_ATPa3", "Rattus_norvegicus_ATP1a3", "Danio_rerio", "Homo_sapiens", "Electrophorus_electricus", "Homo_sapiens_ATPa3", "Rattus_norvegicus_ATP1a1", "Danio_rerio_ATPa2a"...
+restricting blast search                         to taxon ncbi:9443 (ott:913935; Primates)
+Tree file written to /project/linked_dir/luna_lucia_primates/inputs_M585/taxonname.tre
+63 taxa in alignment and tree
+Blasting 'otu341901'
+Blasting 'otu341939'
+Blasting 'otu341881'
+Blasting 'otu341892'
+Blasting 'otu341919'
+Blasting 'otu341876'
+Blasting 'otu341905'
+Blasting 'otu341884'
+Blasting 'otu341933'
+Blasting 'otu341887'
+Blasting 'otu341940'
+Blasting 'otu341910'
+Blasting 'otu341920'
+Blasting 'Danio_rerio_ATP1a.1'
+Blasting 'Danio_rerio_ATPa2a'
+Blasting 'Danio_rerio_ATPa3'
+Blasting 'otu341908'
+Blasting 'otu341885'
+Blasting 'otu341878'
+Blasting 'Electrophorus_electricus'
+Blasting 'Gallus_gallus_ATPa2'
+Blasting 'Gallus_gallus_ATPa3'
+Blasting 'Gallus_gallus_J03230.1'
+Blasting 'otu341912'
+Blasting 'otu341923'
+Blasting 'Homo_sapiens_ATPa1'
+Blasting 'Homo_sapiens_ATPa2'
+Blasting 'Homo_sapiens_ATPa3'
+Blasting 'otu341873'
+Blasting 'otu341889'
+tip otu341889 not in ingroup. Will not blast,
+Blasting 'otu341904'
+Blasting 'otu341911'
+Blasting 'otu341930'
+Blasting 'otu341909'
+Blasting 'otu341932'
+Blasting 'otu341893'
+Blasting 'otu341918'
+Blasting 'otu341895'
+Blasting 'Oreochromis_mossambicus_ATPa1'
+Blasting 'Oreochromis_mossambicus_ATPa3'
+Blasting 'otu341879'
+Blasting 'otu341902'
+Blasting 'otu341913'
+Blasting 'Rattus_norvegicus_ATP1a1'
+Blasting 'Rattus_norvegicus_ATP1a2'
+Blasting 'Rattus_norvegicus_ATP1a3'
+Blasting 'Rattus_norvegicus_ATP1a4'
+Blasting 'otu341891'
+Blasting 'otu341936'
+Blasting 'otu341875'
+Blasting 'otu341880'
+Blasting 'otu341935'
+Blasting 'otu341882'
+Blasting 'otu341877'
+Blasting 'otu341924'
+Blasting 'otu341922'
+Blasting 'otu341886'
+Blasting 'otu341917'
+Blasting 'otu341931'
+Blasting 'otu341916'
+Blasting 'otu341907'
+Blasting 'otu341900'
+Blasting 'otu341903'
+reading blast data
+/usr/local/lib/python3.8/dist-packages/Bio/Entrez/__init__.py:619: UserWarning:
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  warnings.warn(
+43 taxa in orginal alignment;                           44 taxa in updated alignemnt,                           keeping max 5 seq per taxon
+**** Found 1 new sequences after                           removing identical seqs****
+/usr/bin/raxmlHPC
+Use raxml with AVX support (1 cpus)
+
+WARNING: The number of threads is currently set to 1
+You can specify the number of threads to run via -T numberOfThreads
+NumberOfThreads must be set to an integer value greater than 1
+
+RAxML, will now set the number of threads automatically to 2 !
+
+
+RAxML can't, parse the alignment file as phylip file
+it will now try to parse it as FASTA file
+
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs"
+
+
+This is the RAxML Master Pthread
+
+This is RAxML Worker Pthread Number: 1
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 2000 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 32.17%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 user-specified trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 2000
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS-AVX -T 1 -m GTRCAT -s /project/linked_dir/luna_lucia_primates/run_M585/physcraper_M585.fas -t /project/linked_dir/luna_lucia_primates/run_M585/random_resolve.tre -p 1 -n 2021-12-09
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.250 0.246 0.252 0.252
+
+You provided an incomplete starting tree 47 alignmnet has 64 taxa
+Inference[0]: Time 42.108913 CAT-based likelihood -68992.323825, best rearrangement setting 10
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -73885.554696 tree written to file /project/linked_dir/luna_lucia_primates/run_M585/RAxML_result.2021-12-09
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -73885.554696 ....
+
+Final GAMMA-based Score of best tree -73885.554696
+
+Program execution info written to /project/linked_dir/luna_lucia_primates/run_M585/RAxML_info.2021-12-09
+Best-scoring ML tree written to: /project/linked_dir/luna_lucia_primates/run_M585/RAxML_bestTree.2021-12-09
+
+Overall execution time: 66.257573 secs or 0.018405 hours or 0.000767 days
+
+/usr/bin/raxmlHPC
+Use raxml with AVX support with overriden number of threads
+
+RAxML can't, parse the alignment file as phylip file
+it will now try to parse it as FASTA file
+
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs"
+
+
+This is the RAxML Master Pthread
+
+This is RAxML Worker Pthread Number: 1
+
+This is RAxML Worker Pthread Number: 2
+
+This is RAxML Worker Pthread Number: 3
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 2000 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 32.17%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 2 non-parametric bootstrap inferences
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 2000
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS-AVX -T 4 -m GTRCAT -s /project/linked_dir/luna_lucia_primates/run_M585/physcraper_M585.fas -p 1 -b 1 -# 2 -n BOOT2021-12-09
+
+
+Bootstrap[0]: Time 16517.536067 seconds, bootstrap likelihood -68159.697341, best rearrangement setting 10
+Bootstrap[1]: Time 14854.071225 seconds, bootstrap likelihood -70201.797038, best rearrangement setting 20
+
+
+Overall Time for 2 Bootstraps 31371.789378
+
+
+Average Time per Bootstrap 15685.894689
+All 2 bootstrapped trees written to: /project/linked_dir/luna_lucia_primates/run_M585/RAxML_bootstrap.BOOT2021-12-09
+/==========================================================================\
+|                                 SumTrees                                 |
+|                     Phylogenetic Tree Summarization                      |
+|                              Version 4.5.2                               |
+|                   By Jeet Sukumaran and Mark T. Holder                   |
+|                         Using: DendroPy 4.5.2 ()                         |
++--------------------------------------------------------------------------+
+|                                 Citation                                 |
+|                                 ~~~~~~~~                                 |
+| If any stage of your work or analyses relies on code or programs from    |
+| this library, either directly or indirectly (e.g., through usage of your |
+| own or third-party programs, pipelines, or toolkits which use, rely on,  |
+| incorporate, or are otherwise primarily derivative of code/programs in   |
+| this library), please cite:                                              |
+|                                                                          |
+|   Sukumaran, J and MT Holder. 2010. DendroPy: a Python library for       |
+|     phylogenetic computing. Bioinformatics 26: 1569-1571.                |
+|                                                                          |
+|   Sukumaran, J and MT Holder. SumTrees: Phylogenetic Tree Summarization. |
+|     4.5.2. Available at https://github.com/jeetsukumaran/DendroPy.       |
+|                                                                          |
+| Note that, in the interests of scientific reproducibility, you should    |
+| describe in the text of your publications not only the specific          |
+| version of the SumTrees program, but also the DendroPy library used in   |
+| your analysis. For your information, you are running DendroPy 4.5.2      |
+| ().                                                                      |
+\==========================================================================/
+
+SumTrees: Trees to be read from 1 source(s):
+SumTrees: - '/project/linked_dir/luna_lucia_primates/run_M585/RAxML_bootstrap.
+            BOOT2021-12-09'
+SumTrees: Running in serial mode
+SumTrees: Analyzing: '/project/linked_dir/luna_lucia_primates/run_M585/RAxML_bootstrap.BOOT2021-12-09'
+SumTrees: '/project/linked_dir/luna_lucia_primates/run_M585/RAxML_bootstrap.BOOT2021-12-09': tree at offset 0 (analyzing)
+SumTrees: Analysis of source trees completed in: 0.021959 seconds
+SumTrees: Total of 2 trees analyzed for summarization:
+SumTrees: - All trees were treated as unweighted
+SumTrees: - All trees were unrooted
+SumTrees: - 64 unique taxa across all trees
+SumTrees: - 146 unique splits out of a total of 252 splits
+SumTrees: - 81 unique non-trivial splits counted out of a total of non-trivial
+            122 splits
+SumTrees: Summarizing onto target tree defined in '/project/linked_dir/luna_lucia_primates/run_M585/RAxML_bestTree.2021-12-09':
+SumTrees: - Support values expressed as proportions or probabilities
+SumTrees: [WARNING] Reporting support by proportions require that support will
+          be reported to at least 2 decimal places
+SumTrees: - Edge lengths as given on target trees
+SumTrees: - Support and other summarization annotations added to target trees
+            as metadata
+SumTrees: Collapsing clades or splits with support frequency less than 0.2
+SumTrees: Writing primary results to: '<stdout>'
+SumTrees: Summarization completed
+SumTrees: Started at: 2021-12-09 11:02:04.465981
+SumTrees: Ended at: 2021-12-09 11:02:04.844560
+SumTrees: Total elapsed time: 0.378579 seconds
+SumTrees: Actual analysis time: 0.021959 seconds
+Traceback (most recent call last):
+  File "/usr/local/bin/physcraper_run.py", line 7, in <module>
+    exec(compile(f.read(), __file__, 'exec'))
+  File "/project/physcraper/bin/physcraper_run.py", line 370, in <module>
+    scraper.calculate_final_tree(boot_reps = boot_reps)
+  File "/project/physcraper/physcraper/scrape.py", line 1038, in calculate_final_tree
+    self.replace_tre(sumtreepath, schema="nexus")
+  File "/project/physcraper/physcraper/scrape.py", line 873, in replace_tre
+    newtre = root_tree_from_synth(newtre, self.data.otu_dict)
+  File "/project/physcraper/physcraper/opentree_helpers.py", line 59, in root_tree_from_synth
+    spp = {otu_dict[otu]['^ot:ottId'] for otu in leaves}
+  File "/project/physcraper/physcraper/opentree_helpers.py", line 59, in <setcomp>
+    spp = {otu_dict[otu]['^ot:ottId'] for otu in leaves}
+KeyError: '^ot:ottId'
+
+real	672m33.020s
+user	1043m9.817s
+sys	1m38.662s
+root@205d2c8c74c7:/project/physcraper#

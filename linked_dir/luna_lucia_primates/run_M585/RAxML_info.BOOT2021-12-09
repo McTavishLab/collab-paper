@@ -51,3 +51,12 @@ RAxML was called as follows:
 /usr/bin/raxmlHPC-PTHREADS-AVX -T 4 -m GTRCAT -s /project/linked_dir/luna_lucia_primates/run_M585/physcraper_M585.fas -p 1 -b 1 -# 2 -n BOOT2021-12-09 
 
 
+Bootstrap[0]: Time 16517.536067 seconds, bootstrap likelihood -68159.697341, best rearrangement setting 10
+Bootstrap[1]: Time 14854.071225 seconds, bootstrap likelihood -70201.797038, best rearrangement setting 20
+
+
+Overall Time for 2 Bootstraps 31371.789378
+
+
+Average Time per Bootstrap 15685.894689
+All 2 bootstrapped trees written to: /project/linked_dir/luna_lucia_primates/run_M585/RAxML_bootstrap.BOOT2021-12-09
