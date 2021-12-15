@@ -6,7 +6,7 @@
 #SBATCH --mem-per-cpu=10G
 #
 #SBATCH --partition mctavish.q
-#SBATCH --time=0-10:200:00     # 2days 0 minutes
+#SBATCH --time=0-00:1000:00     # 0 days 1000 minutes
 #
 #SBATCH --output=luna_timaliidae_%j.stdout
 #SBATCH --error=luna_timaliidae_%j.stderr
