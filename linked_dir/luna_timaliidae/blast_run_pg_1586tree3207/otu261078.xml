@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_29593</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>683</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_29593</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>683</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|767811989|gb|KP398668.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 159123 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767811997|gb|KP398672.1| Pomatorhinus horsfieldii voucher 2020 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767812005|gb|KP398676.1| Pomatorhinus horsfieldii voucher 2012 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767812007|gb|KP398677.1| Pomatorhinus horsfieldii voucher 2011 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KP398668</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.373</Hsp_bit-score>
+      <Hsp_score>467</Hsp_score>
+      <Hsp_evalue>5.27136e-118</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAACCCTAAGCATTACCCTAACCGCACTTAACTTCTGATTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCACCCTACGAATGTGGCTTCGACCCCCTGGGCTCTGCCCGACTACCCTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAACTTCCATCCTCATTCTACTCCTCGCCCTAGGCCTGGTATATGAATGAATCCAAGGAGGACTAGAATGAGCAGAGTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||| ||||||| || | ||||||||||| ||||||||| | |||||||| | ||||||| |||||||||| |||||||| || || ||||||||||| |||||| | ||||||||||| ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||||| || ||||| || || |||||| | ||||| || || || |||||||| ||||||||||| ||||| ||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|767811993|gb|KP398670.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 159137 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KP398670</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.864</Hsp_bit-score>
+      <Hsp_score>462</Hsp_score>
+      <Hsp_evalue>6.42184e-117</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAACCCTAAGCATTACCCTAACCGCACTTAACTTCTGATTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCACCCTACGAATGTGGCTTCGACCCCCTGGGCTCTGCCCGACTACCCTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAGCTTCCATCCTCATTCTACTCCTCGCCCTAGGCCTGGTATATGAATGAATCCAAGGAGGACTAGAATGAGCAGAGTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||| ||||||| || | ||||||||||| ||||||||| | |||||||| | ||||||| |||||||||| |||||||| || || ||||||||||| |||||| | ||||||||||| ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||| | || ||||| || || |||||| | ||||| || || || |||||||| ||||||||||| ||||| ||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|767811995|gb|KP398671.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 159204 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KP398671</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>413.356</Hsp_bit-score>
+      <Hsp_score>457</Hsp_score>
+      <Hsp_evalue>2.73063e-115</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAGCCCTAAGCATTACCCTAACCGCACTTAACTTCTGATTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCACCCTACGAATGTGGCTTCGACCCCCTGGGCTCTGCCCGACTACCCTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAACTTCCATCCTCATTCTACTCCTCGCCCTAGGCCTGGTATATGAATGAGTCCAAGGAGGACTAGAATGAGCAGAGTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||  ||||||| || | ||||||||||| ||||||||| | |||||||| | ||||||| |||||||||| |||||||| || || ||||||||||| |||||| | ||||||||||| ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||||| || ||||| || || |||||| | ||||| || || || |||||| | ||||||||||| ||||| ||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|376322630|gb|JN826888.1|</Hit_id>
+  <Hit_def>Pomatorhinus erythrogenys voucher AMNH DOT5179 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826888</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>413.356</Hsp_bit-score>
+      <Hsp_score>457</Hsp_score>
+      <Hsp_evalue>2.73063e-115</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATATTTACCCTCTCCCTGGGCCTAAGCATCACTCTAACCGCACTTAACTTTTGGCTCGCCCAAATAACCCCGGACTCAGAAAAACTCTCCCCATACGAATGCGGCTTTGACCCACTGGGCTCCGCCCGACTACCCTTCTCCATCCGATTCTTCCTAGTAGCAATCCTATTCCTGCTATTCGACCTAGAAATCGCCCTCCTACTCCCACTTCCATGAGCAACCCAACTCCAAAACCCCTCCACTACACTAACCTGAACCTCCATCCTCATCCTCCTCCTCACCCTTGGCCTAGTGTACGAATGAATCCAAGGAGGATTAGAATGGGCAGAGTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||| ||||||| |||||   ||||||| |  ||||||||||||| ||||| ||  |||||||||| | ||| ||| |||||||||| || || || || |||||||| |||||||||||| ||||||||||||| ||||| ||||||||||| |||||||| |||||||| ||  |||||||||||||||| || ||||| || || || |||||||| |||||||| ||||||||| |||||||||||||||||||||| ||||| |||||||||||||| || || || |||||||||||||| ||||||||| | ||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|767812001|gb|KP398674.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 2083 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767812003|gb|KP398675.1| Pomatorhinus horsfieldii voucher 2089 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KP398674</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>408.848</Hsp_bit-score>
+      <Hsp_score>452</Hsp_score>
+      <Hsp_evalue>3.32659e-114</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAGCCCTAAGCATTACCCTAACCGCACTTAACTTCTGATTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCACCCTACGAATGTGGCTTCGACCCCCTGGGCTCTGCCCGACTACCCTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAACTTCCGTCCTCATTCTACTCCTCGCCCTAGGCCTGGTATATGAATGAGTCCAAGGAGGACTAGAATGAGCAGAGTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||  ||||||| || | ||||||||||| ||||||||| | |||||||| | ||||||| |||||||||| |||||||| || || ||||||||||| |||||| | ||||||||||| ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||||| ||  |||| || || |||||| | ||||| || || || |||||| | ||||||||||| ||||| ||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|767811991|gb|KP398669.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 159307 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767811999|gb|KP398673.1| Pomatorhinus horsfieldii voucher 2030 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767812011|gb|KP398679.1| Pomatorhinus horsfieldii voucher 159181 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767812013|gb|KP398680.1| Pomatorhinus horsfieldii voucher 159168 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial &gt;gi|767812015|gb|KP398681.1| Pomatorhinus horsfieldii voucher 159306 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KP398669</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>408.848</Hsp_bit-score>
+      <Hsp_score>452</Hsp_score>
+      <Hsp_evalue>3.32659e-114</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAGCTCTAAGCATTACCCTAACCGCACTTAACTTCTGATTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCGCCCTACGAATGCGGCTTCGACCCTCTAGGCTCTGCCCGACTGCCTTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAACTTCCACCCTCATTCTACTCCTCACCCTAGGCCTAGTGTATGAATGAGTCCAAGGAGGACTAGAATGAGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||   |||||| || | ||||||||||| ||||||||| | |||||||| | ||||||| |||||||||| || ||||| || |||||||||||||| || ||| | |||||||| || ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||||| || | ||| || || |||||||| ||||| || ||||| |||||| | ||||||||||| ||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|985701725|gb|KT783535.1|</Hit_id>
+  <Hit_def>Yuhina diademata mitochondrion, complete genome</Hit_def>
+  <Hit_accession>KT783535</Hit_accession>
+  <Hit_len>17834</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>406.143</Hsp_bit-score>
+      <Hsp_score>449</Hsp_score>
+      <Hsp_evalue>4.05262e-113</Hsp_evalue>
+      <Hsp_query-from>332</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>9568</Hsp_hit-from>
+      <Hsp_hit-to>9919</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>352</Hsp_align-len>
+      <Hsp_qseq>AATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>AATGAATATAGTCACATTCATAATAATCCTATCCCTAACACTAAGCCTTGCCCTAACCGCACTAAACTTCTGAATCGCCCAAATAACCCCAGACTCAGAAAAACTATCACCCTACGAATGCGGCTTTGACCCACTAGGATCTGCTCGACTACCATTCTCAATCCGATTCTTCCTAGTGGCCATTCTATTCCTACTTTTCGACCTAGAAATCGCCCTCCTACTACCCCTACCATGAGCCACCCAACTCCAAGACCCCACTACCACACTAATTTGAACATCCACCCTAATCCTCTTCCTCACCCTGGGACTAGTATACGAATGAGCCCAAGGAGGACTAGAATGAGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>|||||| ||| ||||||||||||| | |||||||||||  ||||||||||| |||||||||||||||||||||||||||||||| | ||| ||| ||||||||||||||||||| || |||||||| |||||||| ||  | || |||||||||||||||||||||||||| ||||| ||||| ||||| ||| | |||||||||||||| || ||||| || || || |||||||| |||||||| ||| ||||||| || |||||||  ||||| || | |||||||||| ||||||| || ||||| || |||||||||   ||||||||||| ||||| |||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>265.48</Hsp_bit-score>
+      <Hsp_score>293</Hsp_score>
+      <Hsp_evalue>8.94227e-71</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>346</Hsp_query-to>
+      <Hsp_hit-from>4724</Hsp_hit-from>
+      <Hsp_hit-to>5071</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>268</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>348</Hsp_align-len>
+      <Hsp_qseq>CCCCAGCACTAAGCGCAATACTGCTCCTAACTCTACTATCCCTAGCAGGCCTACCTCCCCTCACAGGATTCCTGCCTAAATGACTAATCATCCAAGAACTGACTAAGCAAGACATAGTCGCAATAGCAATAACTATCTCTATTCTTTCCCTACTGAGCCTATTCTTCTACCTCCGCCTAGCCTACTGCGCCACAATCACACTCCCACCTCATACCACAAACCATATCAAGCAGTGACGCACTAACAACCCAATCAACCCTGCAACCGCTATTCTAACCATTACATCAACCATACTACTCCCTATCTCCCCTATAATCCCCACCATCATCTAAATGAACATA--ATCAC</Hsp_qseq>
+      <Hsp_hseq>CCCCTTCACTAAATGCAATACTCTTCCTGACCCTACTATCCCTAGCGGGACTCCCACCTCTAACCGGGTTCCTGCCCAAATGACTCATTATCCAAGAGCTAACCAAACAAGACATAATCCCAGCAGCAACAATAATCTCCCTTCTTTCCCTACTGGGACTCTTCTTTTATCTCCGCCTTGCATATTGCGCTACAATTACACTCCCCCCACATACTACAAATCACATGAAGCAATGACACATCAACAAACCAACCAACATTATGATTGCCATTCTAGTTACCACATCAACCTTACTCCTTCCTATTTCCCCCATAATCTCCACTATCTTCTAAAGAAACTTAGGATCAC</Hsp_hseq>
+      <Hsp_midline>||||  ||||||  ||||||||  |||| || |||||||||||||| || || || || || || || |||||||| |||||||| || |||||||| || || || ||||||||| || ||  ||||| ||  |||||  |||||||||||||| | || ||||| || |||||||| || || ||||| ||||| |||||||| || ||||| ||||| || || ||||| |||| ||  ||||| |||| ||||  |   |  || ||||||   |  ||||||||| |||| || ||||| ||||| |||||| |||| ||| ||||||  ||| ||  |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1502991669|gb|MK068944.1|</Hit_id>
+  <Hit_def>Pomatorhinus melanurus NADH dehydrogenase subunit 3 (ND3) gene, complete cds; and tRNA-Arg gene, complete sequence; mitochondrial</Hit_def>
+  <Hit_accession>MK068944</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>404.339</Hsp_bit-score>
+      <Hsp_score>447</Hsp_score>
+      <Hsp_evalue>1.4145e-112</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAGCCCTAAGCATTACCCTAACCGCACTTAACTTCTGGTTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCGCCCTACGAATGCGGCTTCGACCCTCTAGGCTCTGCCCGGCTGCCTTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAACTTCCACCCTCATTCTACTCCTCACCCTAGGCCTAGTGTATGAATGAGTCCAAGGAGGACTAGAATGAGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||  ||||||| || | ||||||||||| ||||||||  | |||||||| | ||||||| |||||||||| || ||||| || |||||||||||||| || ||| | ||||| || || ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||||| || | ||| || || |||||||| ||||| || ||||| |||||| | ||||||||||| ||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|767812009|gb|KP398678.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 2005 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KP398678</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.831</Hsp_bit-score>
+      <Hsp_score>442</Hsp_score>
+      <Hsp_evalue>1.72322e-111</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAGCTCTAAGCATTACCCTAACCGCACTTAACTTCTGATTAGCCCAAATAACCCCCGACTCAGAAAAACTCTCGCCCTACGAATGCGGCTTCGACCCTCTAGGCTCTGCCCGACTGCCTTTCTCAATCCGATTCTTCCTAGTAGCTATCCTATTCCTACTATTCGACCTAGAAATCGCCCTCCTACTCCCACTCCCATGAGCAACCCAACTACAAACCCCAACCACTACACTAGCCTGAACTTCCACCCTCATTCTACTCCTCACCCTAGGCCTAGCGTATGAATGGGTCCAAGGAGGACTAGAATGAGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||   |||||| || | ||||||||||| ||||||||| | |||||||| | ||||||| |||||||||| || ||||| || |||||||||||||| || ||| | |||||||| || ||||||||||||||||| |||||||| |||||||| ||| |||||||||||||||| || ||||| || || ||||||||||| |||||||| |||| ||| |||||||||||| ||||||| || | ||| || || |||||||| ||||| || | ||| |||||  | ||||||||||| ||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|376322656|gb|JN826901.1|</Hit_id>
+  <Hit_def>Pomatorhinus swinhoei voucher KUNHM 6715 NADH dehydrogenase subunit 3 (ND3) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826901</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.831</Hsp_bit-score>
+      <Hsp_score>442</Hsp_score>
+      <Hsp_evalue>1.72322e-111</Hsp_evalue>
+      <Hsp_query-from>333</Hsp_query-from>
+      <Hsp_query-to>683</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATGAACATAATCACATTCATAATTACCCTATCCCTAATCCTAAGCCTTGCTCTAACCGCACTAAACTTCTGAATCGCCCAAATGAGCCCCGACGCAGAAAAACTATCACCCTATGAGTGCGGCTTCGACCCACTGGGCACCGCCCGACTACCATTCTCAATCCGATTCTTTCTAGTAGCCATCCTATTTCTATTATTCGACCTAGAAATTGCACTCCTCCTTCCTCTCCCATGAGCTACCCAACTTCAAAACCCCACCACTACACTAACCTGAACCTCTATCCTAATCCTCCTCCTCACACTAGGACTCGTGTACGAATGAATTCAAGGAGGACTGGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATGAACATAATCACATTCATAATTACCCTCTCCCTGGGCCTAAGCGTCACTCTAACCGCACTCAACTTTTGACTCGCCCAAATAACCCCGGACTCAGAAAAACTCTCCCCATACGAATGCGGCTTTGACCCACTGGGCTCCGCCCGATTACCCTTCTCCATCCGATTCTTCCTAGTAGCAATTCTATTCCTGCTATTCGACCTAGAAATCGCCCTCCTACTCCCACTTCCATGAGCAACCCAACTCCAAAACCCCTCCACCACACTAACCTGAACCTCCATCCTCATCCTCCTCCTCACCCTTGGCCTAGTATATGAATGAGTCCAAGGAGGATTAGAATGGGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||| |||||   ||||||| |  ||||||||||||| ||||| ||| |||||||||| | ||| ||| |||||||||| || || || || |||||||| |||||||||||| |||||||| |||| ||||| ||||||||||| |||||||| || ||||| ||  |||||||||||||||| || ||||| || || || |||||||| |||||||| ||||||||| |||| ||||||||||||||||| ||||| |||||||||||||| || || || || || |||||| | ||||||||| | |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8546</Statistics_db-num>
+      <Statistics_db-len>6023396</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

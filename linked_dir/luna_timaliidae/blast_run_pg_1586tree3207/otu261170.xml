@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_39389</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>1886</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_39389</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>1886</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|329134346|gb|HQ529232.1|</Hit_id>
+  <Hit_def>Stachyris thoracica voucher AMNH:589844 cytochrome b (CYTB) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>HQ529232</Hit_accession>
+  <Hit_len>888</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1602.68</Hsp_bit-score>
+      <Hsp_score>1776</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1783</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>888</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>888</Hsp_identity>
+      <Hsp_positive>888</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>888</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCC</Hsp_qseq>
+      <Hsp_hseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.0419</Hsp_bit-score>
+      <Hsp_score>33</Hsp_score>
+      <Hsp_evalue>9.44813</Hsp_evalue>
+      <Hsp_query-from>1441</Hsp_query-from>
+      <Hsp_query-to>1464</Hsp_query-to>
+      <Hsp_hit-from>352</Hsp_hit-from>
+      <Hsp_hit-to>329</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TCGCCCTCATGCTCATCCTCCTAG</Hsp_qseq>
+      <Hsp_hseq>TCCCCCTCATGCTCATTCTACTAG</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>31.0419</Hsp_bit-score>
+      <Hsp_score>33</Hsp_score>
+      <Hsp_evalue>9.44813</Hsp_evalue>
+      <Hsp_query-from>1224</Hsp_query-from>
+      <Hsp_query-to>1247</Hsp_query-to>
+      <Hsp_hit-from>569</Hsp_hit-from>
+      <Hsp_hit-to>546</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CTAGTAGAATGAGCATGAGGGGGA</Hsp_qseq>
+      <Hsp_hseq>CTAGGAGGATGAGCATGAGGGCGA</Hsp_hseq>
+      <Hsp_midline>|||| || ||||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|376323242|gb|JN827194.1|</Hit_id>
+  <Hit_def>Stachyris leucotis voucher LSUMNS B36340 cytochrome b (CYTB) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JN827194</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1490.87</Hsp_bit-score>
+      <Hsp_score>1652</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>925</Hsp_identity>
+      <Hsp_positive>925</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>991</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>GCTAGCCGCCCACTATACAGCAGACACTAGCCTAGCTTTCAACTCCGTCACCCACATTTGCCGAGACGTCCAATTCGGCTGACTAATCCGCAATATCCATGCAAACGGAGCCTCTTTCTTCTTCATCTGCGTCTACTTCCACATTGGCCGAGGTATCTACTACGGCTCCTACCTAAACAAAGAGACATGAAACGTTGGAGTCATCCTCCTACTCACCCTTATAGCCACCGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAAATATCATTCTGAGGCGCCACAGTAATCACAAACCTACTCTCAGCAATCCCGTACATCGGACAAACCCTAGTAGAATGAGCATGAGGAGGATTCTCAGTAGATAATCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTCCTCCCCTTCGTTATCGCAGGCCTCACACTAGTCCACCTCACCCTTCTCCACGACACAGGATCAAACAACCCCCTAGGCATTTCATCAGACTGCGACAAAATTCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATACTCATCCTCCTAGCCACTCTAGCACTATTTGCTCCAAACCTACTAGGCGACCCAGAAAATTTCACGCCCGCCAACCCACTAGCAACACCCCCACATATTAAGCCTGAGTGATACTTCTTATTTGCCTACGCCATTCTCCGATCCATCCCAAGCAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTAGTCCTATTCCTCATGCCCCTACTCCACACATCTAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAACTCTAGTAACCAACGTTCTAGTCCTCACATGAGTAGGCAGCCAACCGGTCGAACACCCATTCATCATCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTTCCCCTTGCTGCCATCCTAGAGAACAAGATACTTAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||||| |||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||||| |||| |||| |||||||| || |||||||||||||||||| ||||||||||||| |||||||| ||||||||||| |||||||||||||||||   |||||||||||||||||||||||||||| | ||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||| || || ||||| |||||||||||||||||||||||||||||||||||  || |||||||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||     ||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||| |||||||||||| |||||||||||||||| ||||||||||| |||| ||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||| ||||||||||||||||||||||||||||| || ||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||||||| |||||||| || |||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.9436</Hsp_bit-score>
+      <Hsp_score>34</Hsp_score>
+      <Hsp_evalue>2.70694</Hsp_evalue>
+      <Hsp_query-from>1829</Hsp_query-from>
+      <Hsp_query-to>1845</Hsp_query-to>
+      <Hsp_hit-from>894</Hsp_hit-from>
+      <Hsp_hit-to>910</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>CATCCTAGTCCTATTCC</Hsp_qseq>
+      <Hsp_hseq>CATCCTAGTCCTATTCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|313759317|gb|GU724381.1|</Hit_id>
+  <Hit_def>Xiphirhynchus superciliaris forresti voucher KIZ:ALS149 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>GU724381</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1290.69</Hsp_bit-score>
+      <Hsp_score>1430</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>897</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>154</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>880</Hsp_identity>
+      <Hsp_positive>880</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>990</Hsp_align-len>
+      <Hsp_qseq>CTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>CTAGCTACCCACTATACAGCAGATACTAGTCTAGCATTCAACTCCGTCGCCCACATATGCCGAGATGTACAATTCGGCTGACTAATCCGTAACCTCCATGCAAACGGAGCCTCCTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGATCCTACCTAAACAAAGAAACATGAAACGTCGGAGTCATCCTACTTCTGACACTCATAGCCACCGCCTTTGTAGGCTACGTACTACCTTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTGGTAGAATGAGCATGAGGAGGGTTCTCAGTAGACAACCCCACTCTAACTCGATTCTTCGCTATTCACTTCCTCCTCCCTTTTGTCATCGCAGGCCTGACACTAGTACATCTTACCCTCCTCCACGACACAGGATCCAACAACCCACTAGGCATCCCATCAGACTGCGACAAGATCCCATTCCACCCGTACTACACCATCAAAGACATCCTAGGCTTCGTCCTTATATTCATCCCACTAGCCACCTTAGCCCTATTTGCCCCAAACCTACTAGGAGACCCAGAAAACTTCACACCAGCCAACCCTCTAGCAACACCTCCCCATATCAAGCCCGAATGATACTTCCTATTCGCCTATGCCATCCTTCGATCAATTCCAAACAAACTGGGAGGTGTCCTAGCCCTAGCCGCTTCCATCCTAGTCCTATTCCTAATGCCCCTACTACATACATCCAAACTACGCTCAATAACCTTCCGCCCCCTATCACAAATCCTATTCTGAACCCTAGTAGCCAACCTCCTTATTCTCACCTGAGTAGGCAGCCAACCAGTCGAACACCCATTCATCATCATTGGCCAACTAGCCTCACTCTCCTACTTCACAATCATCCTAATCCTCTTCCCACTCGCATCCATCCTAGAAAACAAACTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||| |||||||| |||||||| ||||| ||||| |||||||||||| ||||||| |||||||| || ||||| |||||||||||||  || ||||| |||||||| || || |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||  ||||||||| ||||||||||| || ||  | || |||||||| ||||| ||||| ||||| || || |||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| || ||||||||||| ||||||||||||||||||||||||||||| |||||||| ||||| || || |||||||| || |||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||| |||||||||| || |||||||||||||| ||||||||||||||||| ||||||||||||| ||| ||  ||||||  ||||    | |||| |||||||| |||||||| ||||| ||||||||||||||||| || |||||||||||||||||||| || ||||| |||||||| |||||||||||||| ||||| |||||||| ||||| |||||||||||||| ||||| ||||| ||||||||||| |||||||| ||||||||||| |||||||| || || ||||||||||||||||||||||||||||| ||| | |||||||||||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||||||||| ||||||||||||||| ||||||||||||||||||| |||||||||||||||||||||||| |||| ||||| || ||  ||||||||||||||||  | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.9436</Hsp_bit-score>
+      <Hsp_score>34</Hsp_score>
+      <Hsp_evalue>2.70694</Hsp_evalue>
+      <Hsp_query-from>1829</Hsp_query-from>
+      <Hsp_query-to>1845</Hsp_query-to>
+      <Hsp_hit-from>894</Hsp_hit-from>
+      <Hsp_hit-to>910</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>CATCCTAGTCCTATTCC</Hsp_qseq>
+      <Hsp_hseq>CATCCTAGTCCTATTCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|629679725|gb|KJ456509.1|</Hit_id>
+  <Hit_def>Xiphirhynchus superciliaris voucher CAS:95887 cytochrome b (cytb) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>KJ456509</Hit_accession>
+  <Hit_len>1053</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1286.19</Hsp_bit-score>
+      <Hsp_score>1425</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>897</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>1053</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>879</Hsp_identity>
+      <Hsp_positive>879</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>990</Hsp_align-len>
+      <Hsp_qseq>CTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>CTAGCTACCCACTATACAGCAGACACTAGTCTAGCATTCAACTCCGTCGCCCACATATGCCGAGATGTACAATTCGGCTGACTAATCCGTAACCTCCATGCAAACGGAGCCTCCTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGATCCTACCTAAACAAAGAAACGTGAAACGTCGGAGTCATCCTACTTCTGACACTCATGGCCACCGCCTTTGTAGGCTACGTACTACCTTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTGGTAGAATGAGCATGAGGAGGATTCTCAGTAGACAACCCCACTCTAACTCGATTCTTCGCTATTCACTTCCTCCTCCCTTTCGTCATCGCAGGCCTGACACTAGTACATCTTACCCTCCTCCACGACACAGGATCCAACAACCCACTAGGCATCCCATCAGACTGCGACAAGATCCCATTCCACCCGTACTACACCATCAAAGACATCCTAGGCTTCGCCCTTATATTCATCCCACTAGCCACCTTAGCCCTATTTGCCCCAAACCTACTAGGGGACCCAGAAAACTTCACACCAGCCAACCCTCTAGCAACACCTCCCCATATCAAGCCCGAATGATACTTCCTATTCGCCTATGCCATCCTTCGATCAATCCCAAACAAACTGGGAGGTGTCCTAGCCCTAGCCGCTTCCATCCTAGTCCTATTCCTAATGCCCCTACTACATACATCCAAACTACGCTCAATAACCTTCCGCCCCCTATCACAAATTCTATTCTGAACCCTAGTAGCCAACCTCCTCATTCTCACCTGAGTAGGCAGCCAACCAGTCGAACACCCATTCATCATCATTGGCCAACTAGCCTCACTCTCCTACTTCACAATCATCCTAATCCTCTTCCCACTCGCATCCATCTTAGAAAACAAACTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||| |||||||| |||||||||||||| ||||| |||||||||||| ||||||| |||||||| || ||||| |||||||||||||  || ||||| |||||||| || || |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||   |||||||| ||||||||||| || ||  | || || ||||| ||||| ||||| ||||| || || |||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||||||| ||||| ||||| |||||||| || |||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||| |||||||||| || |||||||||||||| ||||||||||||||||| ||||||||||||||||| ||  ||||||  ||||    | |||| |||||||| |||||||| ||||| ||||||||||||||||| || |||||||||||||||||||| || ||||| |||||||| |||||||||||||| ||||| |||||||| ||||| || ||||||||||| ||||| ||||| ||||||||||| |||||||| ||||||||||| |||||||| || || ||||||||||||||||||||||||||||| ||| | |||||||| ||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||||||||| ||||||||||||||| ||||||||||||||||||| |||||||||||||||||||||||| |||| ||||| || ||  ||||| ||||||||||  | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.9436</Hsp_bit-score>
+      <Hsp_score>34</Hsp_score>
+      <Hsp_evalue>2.70694</Hsp_evalue>
+      <Hsp_query-from>1829</Hsp_query-from>
+      <Hsp_query-to>1845</Hsp_query-to>
+      <Hsp_hit-from>804</Hsp_hit-from>
+      <Hsp_hit-to>820</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>CATCCTAGTCCTATTCC</Hsp_qseq>
+      <Hsp_hseq>CATCCTAGTCCTATTCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|313759315|gb|GU724380.1|</Hit_id>
+  <Hit_def>Xiphirhynchus superciliaris forresti voucher KIZ:GLGS5003 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>GU724380</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1286.19</Hsp_bit-score>
+      <Hsp_score>1425</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>897</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>154</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>879</Hsp_identity>
+      <Hsp_positive>879</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>990</Hsp_align-len>
+      <Hsp_qseq>CTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>CTAGCTACCCACTATACAGCAGACACTAGTCTAGCATTCAACTCCGTCGCCCACATATGCCGAGATGTACAATTCGGCTGACTAATCCGTAACCTCCATGCAAACGGAGCCTCCTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGATCCTACCTAAACAAAGAAACGTGAAACGTCGGAGTCATCCTACTTCTGACACTCATGGCCACCGCCTTTGTAGGCTACGTACTACCTTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTGGTAGAATGAGCATGAGGAGGATTCTCAGTAGACAACCCCACTCTAACTCGATTCTTCGCTATTCACTTCCTCCTCCCTTTCGTCATCGCAGGCCTGACACTAGTACATCTTACCCTCCTCCACGACACAGGATCCAACAACCCACTAGGCATCCCATCAGACTGCGACAAGATCCCATTCCACCCGTACTACACCATCAAAGACATCCTAGGCTTCGCCCTTATATTCATCCCACTAGCCACCTTAGCCCTATTTGCCCCAAACCTACTAGGGGACCCAGAAAACTTCACACCAGCCAACCCTCTAGCAACACCTCCCCATATCAAGCCCGAATGATACTTCCTATTCGCCTATGCCATCCTTCGATCAATCCCAAACAAACTGGGAGGTGTCCTAGCCCTAGCCGCTTCCATCCTAGTCCTATTCCTAATGCCCCTACTACATACATCCAAACTACGCTCAATAACCTTCCGCCCCCTATCACAAATTCTATTCTGAACCCTAGTAGCCAACCTCCTCATTCTCACCTGAGTAGGCAGCCAACCAGTCGAACACCCATTCATCATCATTGGCCAACTAGCCTCACTCTCCTACTTCACAATCATCCTAATCCTCTTCCCACTCGCATCCATCTTAGAAAACAAACTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||| |||||||| |||||||||||||| ||||| |||||||||||| ||||||| |||||||| || ||||| |||||||||||||  || ||||| |||||||| || || |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||   |||||||| ||||||||||| || ||  | || || ||||| ||||| ||||| ||||| || || |||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||||||| ||||| ||||| |||||||| || |||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||| |||||||||| || |||||||||||||| ||||||||||||||||| ||||||||||||||||| ||  ||||||  ||||    | |||| |||||||| |||||||| ||||| ||||||||||||||||| || |||||||||||||||||||| || ||||| |||||||| |||||||||||||| ||||| |||||||| ||||| || ||||||||||| ||||| ||||| ||||||||||| |||||||| ||||||||||| |||||||| || || ||||||||||||||||||||||||||||| ||| | |||||||| ||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||||||||| ||||||||||||||| ||||||||||||||||||| |||||||||||||||||||||||| |||| ||||| || ||  ||||| ||||||||||  | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.9436</Hsp_bit-score>
+      <Hsp_score>34</Hsp_score>
+      <Hsp_evalue>2.70694</Hsp_evalue>
+      <Hsp_query-from>1829</Hsp_query-from>
+      <Hsp_query-to>1845</Hsp_query-to>
+      <Hsp_hit-from>894</Hsp_hit-from>
+      <Hsp_hit-to>910</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>CATCCTAGTCCTATTCC</Hsp_qseq>
+      <Hsp_hseq>CATCCTAGTCCTATTCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|769470943|gb|KJ702828.1|</Hit_id>
+  <Hit_def>Pomatorhinus horsfieldii voucher 2012 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>KJ702828</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1283.48</Hsp_bit-score>
+      <Hsp_score>1422</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>879</Hsp_identity>
+      <Hsp_positive>879</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>991</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>GCTAGCCACCCATTACACAGCAGACACCAGCCTAGCATTCAACTCCGTTGCCCACATGTGCCGAGACGTCCAATTCGGCTGACTAATCCGCAACATCCACGCAAACGGGGCCTCTTTCTTCTTCATCTGCATCTACTTCCACATTGGCCGAGGCATCTACTACGGCTCCTACCTAAACAAAGAAACATGAAACATCGGAGTCATCCTCCTACTCACACTCATAGCCACCGCCTTTGTAGGTTACGTCCTGCCTTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAGACCCTAGTAGAATGAGCATGAGGAGGGTTCTCAGTGGACAACCCAACCCTAACTCGATTCTTTGCCATCCACTTCCTTCTCCCCTTTGTCATCGCAGGCCTGACACTAGTACATCTAACCCTTCTCCACGACACAGGGTCTAACAATCCCCTGGGTATCCCATCAGACTGCGACAAAATCCCATTTCACCCTTACTATACCATCAAAGACGTCCTAGGCTTTGCCCTCATGTTCATCCCCCTGGCAACTCTGGCCCTATTCGCCCCAAACCTACTAGGAGACCCAGAAAACTTCACGCCGGCCAACCCTCTAGCAACACCCCCTCATATCAAGCCCGAATGATACTTCCTATTCGCCTACGCCATTCTCCGATCCATTCCAAACAAACTAGGAGGTGTCCTCGCTTTAGCCGCCTCTATCCTAGTCTTATTCCTCATCCCACTATTACACACATCCAAACTACGCTCAATAACCTTCCGCCCTCTGTCACAAATCCTATTCTGAACCCTAGTAGCCAACCTCCTCATTCTCACCTGAGTAGGCAGCCAGCCAGTCGAACACCCATTCATCATCATTGGCCAACTAGCCTCACTCTCTTACTTCACAATCATCCTAGTTCTATTCCCCCTCGTATCCCTCTTAGAAAACAAACTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||| |||||||||||||| |||||||| |||||||||||  ||||||||||||||||||||||||| ||||||||||||| |||  |||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||  ||||||| | |||||||||||||||||| | || |||||||| ||||| |||||||||||||| || |||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| || |||||||| || ||||| || |||||||||||||| || |||||||||||||||||||| || |||||||| || |||||||||||||| ||||| |||||||||||||| || ||||| ||||| || |||||| |||||||||| ||||||||||| ||||| ||||| |||||||||||  |||||||||| ||||||||| |||||| ||| |     || || ||||| || |||||||| ||||| |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||| |||||||||||||| ||||||||||| ||||||||||||||||||||||||||||| ||||||||  |||||||||| ||||| ||| |||||||||| || ||  | |||||||||||||||||||||||||||||||| ||  | |||||||||||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||| ||||| ||||||||||||||| ||||||||||||||||||| ||||| |||||||||||||||||||| |||||||| || |   || || ||||||||||  | ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1893197225|gb|MN854359.1|</Hit_id>
+  <Hit_def>Erythrogenys swinhoei isolate B25 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>MN854359</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1283.48</Hsp_bit-score>
+      <Hsp_score>1422</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>879</Hsp_identity>
+      <Hsp_positive>879</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>991</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>GCTAGCCACCCACTATACAGCAGACACCAGCCTAGCCTTCAACTCCGTCGCCCACATGTGCCGAGATGTCCAATTTGGCTGACTAATCCGCAACCTTCATGCAAACGGAGCCTCCTTCTTCTTCATCTGCATCTACTTCCACATTGGCCGAGGTATCTACTACGGCTCCTACCTAAACAAAGAAACATGAAACGTTGGAGTAGTACTCCTACTTACACTCATAGCCACTGCCTTCGTAGGTTACGTTCTGCCCTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCCGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTGACCCGATTCTTCGCCCTCCACTTCCTCCTCCCCTTCGTCATCGCCGGCCTAACACTAGTTCACCTCACCCTCCTCCACGATACAGGATCGAATAACCCCCTAGGAATCCCATCAGACTGCGACAAAATCCCATTCCACCCCTACTACACTGTCAAAGACGTCTTAGGCTTCGCCCTCATATACATCCCATTAGTCTCCCTAGCATTATTCGCCCCAAACCTTCTTGGAGACCCAGAAAACTTTACGCCAGCCAACCCCCTAGCAACACCCCCTCATATCAAACCCGAATGATACTTCCTATTTGCTTACGCTATCCTCCGATCCATCCCAAATAAACTAGGAGGAGTCCTAGCCCTAGCCGCTTCCATCCTGGTCCTATTCCTCCTTCCCCTACTTCACACATCCAAACTACGCTCAATAACCTTCCGCCCTATTTCCCAAATCCTATTCTGAACCCTAGTAGCCAACCTCCTCATTCTCACCTGAGTAGGCAGCCAACCAGTCGAACACCCATTCATTATCATCGGTCAACTAGCCTCAATCTCCTACTTCACAATCATCCTAGTGCTCTTCCCCCTCGCTTCTCTCCTAGAAAACAAGTTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||||| ||||||||||||||||||||| |||||||||||||||| |||||||||||||||||||||| ||| || || |||||||| || || ||||||||||||||||||||||||||||| |||||||| ||||||||||| ||||||||||||||||||  |||||||||||||||  | ||||||||  | || |||||||||||||||||||||||||| || ||||||||||| ||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||  |||||||||| ||||||||||| ||||| || || |||||||| || || |||||||||||||| |||||||| || ||||||||||| |||||| |||||||||| ||||||||||||||||| ||||||||  |||||||  || ||||||||||||||||   |||||   ||||   ||||||| |||| || |||||||| || || |||||||||||||| ||||| |||||||| |||||||||||||| ||||| || ||||| ||||||||||||||||| ||||| |||||||||||||| ||||| ||||||||||| ||||| ||||||||||| ||||||||||||||||||||| | ||||| ||||||||||||||||||||||||||||||||||| || || || ||||||||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||||||||| ||||||||||||||  |||| || |||||||||||  ||||||||||||||||||||||||| || ||||| || ||| |  |||||||||||||| | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.0419</Hsp_bit-score>
+      <Hsp_score>33</Hsp_score>
+      <Hsp_evalue>9.44813</Hsp_evalue>
+      <Hsp_query-from>1441</Hsp_query-from>
+      <Hsp_query-to>1464</Hsp_query-to>
+      <Hsp_hit-from>504</Hsp_hit-from>
+      <Hsp_hit-to>481</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TCGCCCTCATGCTCATCCTCCTAG</Hsp_qseq>
+      <Hsp_hseq>TCCCCCTCATGCTCATTCTACTAG</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1893197195|gb|MN854344.1|</Hit_id>
+  <Hit_def>Erythrogenys gravivox isolate BX14 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>MN854344</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1283.48</Hsp_bit-score>
+      <Hsp_score>1422</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>879</Hsp_identity>
+      <Hsp_positive>879</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>991</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>GCTAGCCACCCACTATACAGCAGACACCAGCCTAGCCTTCAACTCCGTCGCCCACATGTGCCGAGATGTCCAATTTGGCTGACTAATCCGCAACCTTCATGCAAACGGAGCCTCCTTCTTCTTCATCTGCATCTACTTCCACATTGGCCGAGGTATCTACTACGGCTCCTACCTAAACAAAGAAACATGAAACGTTGGAGTAGTACTCCTACTTACACTCATAGCCACTGCCTTCGTAGGTTACGTTCTGCCCTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCCGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGACAACCCCACTCTGACCCGATTCTTCGCCCTCCACTTCCTTCTCCCCTTCGTCATCGCCGGCCTAACACTAGTTCACCTCACCCTCCTCCACGATACAGGATCGAATAACCCCCTAGGAATCCCATCAGACTGCGACAAAATCCCATTCCACCCCTACTACACTGTCAAAGACGTCTTAGGCTTCGCCCTCATATACATCCCATTAGTCTCCCTAGCATTATTCGCCCCAAACCTTCTTGGAGACCCAGAAAACTTTACGCCAGCCAACCCCCTAGCAACACCCCCTCATATCAAACCCGAATGATACTTCCTATTTGCTTACGCTATCCTCCGATCCATCCCAAATAAACTAGGAGGAGTCCTAGCCCTAGCCGCTTCCATCCTGGTCCTATTCCTCCTTCCCCTACTTCACACATCCAAACTACGCTCAATAACCTTCCGCCCTATTTCCCAAATCCTATTCTGAACCCTAGTAGCCAACCTCCTCATTCTCACCTGAGTAGGCAGCCAACCAGTCGAACACCCATTCATTATCATCGGTCAACTAGCCTCAATCTCCTACTTCACAATCATCCTAGTGCTCTTCCCCCTCGCTTCTCTCCTAGAAAACAAGTTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||||| ||||||||||||||||||||| |||||||||||||||| |||||||||||||||||||||| ||| || || |||||||| || || ||||||||||||||||||||||||||||| |||||||| ||||||||||| ||||||||||||||||||  |||||||||||||||  | ||||||||  | || |||||||||||||||||||||||||| || ||||||||||| ||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || |||||||||||  |||||||||||||||||||||| ||||| || || |||||||| || || |||||||||||||| |||||||| || ||||||||||| |||||| |||||||||| ||||||||||||||||| ||||||||  |||||||  || ||||||||||||||||   |||||   ||||   ||||||| |||| || |||||||| || || |||||||||||||| ||||| |||||||| |||||||||||||| ||||| || ||||| ||||||||||||||||| ||||| |||||||||||||| ||||| ||||||||||| ||||| ||||||||||| ||||||||||||||||||||| | ||||| ||||||||||||||||||||||||||||||||||| || || || ||||||||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||||||||| ||||||||||||||  |||| || |||||||||||  ||||||||||||||||||||||||| || ||||| || ||| |  |||||||||||||| | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.0419</Hsp_bit-score>
+      <Hsp_score>33</Hsp_score>
+      <Hsp_evalue>9.44813</Hsp_evalue>
+      <Hsp_query-from>1441</Hsp_query-from>
+      <Hsp_query-to>1464</Hsp_query-to>
+      <Hsp_hit-from>504</Hsp_hit-from>
+      <Hsp_hit-to>481</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TCGCCCTCATGCTCATCCTCCTAG</Hsp_qseq>
+      <Hsp_hseq>TCCCCCTCATGCTCATTCTACTAG</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1893197171|gb|MN854332.1|</Hit_id>
+  <Hit_def>Erythrogenys gravivox isolate BX31 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>MN854332</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1283.48</Hsp_bit-score>
+      <Hsp_score>1422</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>879</Hsp_identity>
+      <Hsp_positive>879</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>991</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>GCTAGCCACCCACTATACAGCAGACACCAGCCTAGCCTTCAACTCCGTCGCCCACATGTGCCGAGATGTCCAATTTGGCTGACTAATCCGCAACCTTCATGCAAACGGAGCCTCCTTCTTCTTCATCTGCATCTACTTCCACATTGGCCGAGGTATCTACTACGGCTCCTACCTAAACAAAGAAACATGAAACGTTGGAGTAGTACTCCTACTTACACTCATAGCCACTGCCTTCGTAGGTTACGTTCTGCCCTGAGGACAAATATCATTCTGAGGCGCTACAGTAATCACAAACCTATTCTCCGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTGACCCGATTCTTCGCCCTCCACTTCCTCCTCCCCTTCGTCATCGCCGGCCTAACACTAGTTCACCTCACCCTCCTCCACGATACAGGATCGAATAACCCCCTAGGAATCCCATCAGACTGCGACAAAATCCCATTCCACCCCTACTACACTGTCAAAGACGTCTTAGGCTTCGCCCTCATATACATCCCATTAGTCTCCCTAGCATTATTCGCCCCAAACCTTCTTGGAGACCCAGAAAACTTTACGCCAGCCAACCCCCTAGCAACACCCCCTCATATCAAACCCGAATGATACTTCCTATTTGCTTACGCTATCCTCCGATCCATCCCAAATAAACTAGGAGGAGTCCTAGCCCTAGCCGCTTCCATCCTGGTCCTATTCCTCCTTCCCCTACTTCACACATCCAAACTACGCTCAATAACCTTCCGCCCTATTTCCCAAATCCTATTCTGAACCCTAGTAGCCAACCTCCTCATTCTCACCTGAGTAGGCAGCCAACCAGTCGAACACCCATTCATTATCATCGGTCAACTAGCCTCAATCTCCTACTTCACAATCATCCTAGTGCTCTTCCCCCTCGCTTCTCTCCTAGAAAACAAGTTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||||| ||||||||||||||||||||| |||||||||||||||| |||||||||||||||||||||| ||| || || |||||||| || || ||||||||||||||||||||||||||||| |||||||| ||||||||||| ||||||||||||||||||  |||||||||||||||  | ||||||||  | || |||||||||||||||||||||||||| || ||||||||||| ||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||  |||||||||| ||||||||||| ||||| || || |||||||| || || |||||||||||||| |||||||| || ||||||||||| |||||| |||||||||| ||||||||||||||||| ||||||||  |||||||  || ||||||||||||||||   |||||   ||||   ||||||| |||| || |||||||| || || |||||||||||||| ||||| |||||||| |||||||||||||| ||||| || ||||| ||||||||||||||||| ||||| |||||||||||||| ||||| ||||||||||| ||||| ||||||||||| ||||||||||||||||||||| | ||||| ||||||||||||||||||||||||||||||||||| || || || ||||||||||||||| |||||||| | ||| ||||  | ||||| |||||||||||||||||||| ||||||||||||||  |||| || |||||||||||  ||||||||||||||||||||||||| || ||||| || ||| |  |||||||||||||| | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.0419</Hsp_bit-score>
+      <Hsp_score>33</Hsp_score>
+      <Hsp_evalue>9.44813</Hsp_evalue>
+      <Hsp_query-from>1441</Hsp_query-from>
+      <Hsp_query-to>1464</Hsp_query-to>
+      <Hsp_hit-from>504</Hsp_hit-from>
+      <Hsp_hit-to>481</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TCGCCCTCATGCTCATCCTCCTAG</Hsp_qseq>
+      <Hsp_hseq>TCCCCCTCATGCTCATTCTACTAG</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1893197211|gb|MN854352.1|</Hit_id>
+  <Hit_def>Erythrogenys swinhoei isolate B7 cytochrome b (cytb) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>MN854352</Hit_accession>
+  <Hit_len>1143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1278.97</Hsp_bit-score>
+      <Hsp_score>1417</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>896</Hsp_query-from>
+      <Hsp_query-to>1886</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>878</Hsp_identity>
+      <Hsp_positive>878</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>991</Hsp_align-len>
+      <Hsp_qseq>GCTAGCCACCCACTACACAGCAGACACTAGCCTAGCCTTCAACTCCGTCACCCACATGTGCCGAGACGTCCAATTTGGCTGACTAATCCACAATCTCCACGCAAACGGGGCTTCTTTCTTCTTCATCTGCATCTACTTCCACATCGGCCGAGGCATCTACTACGGTTCCTACCTAAACAAAGAAGTATGAAACGTTGGAGTCATCCTCCTACTCGCTCTTATAGCCACTGCCTTCGTAGGTTACGTCCTTCCCTGAGGACAGATATCATTCTGAGGCGCCACAGTAATCACAAACCTATTCTCAGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGATAACCCCACTCTAACTCGATTCTTCGCTATCCACTTCCTTCTCCCCTTCGTTATCGCAGGTCTCACACTAGTACATCTTACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGCATCCCACCAGACTGCGATAAAATCCCATTCCACCCATACTACACCATCAAAGATATCCTAGGCTTCGCCCTCATGCTCATCCTCCTAGTTGGCCTAGCACTATTTGCTCCAAACCTCCTAGGCGACCCAGAAAACTTCACGCCCGCCAACCCTCTAGCAACACCCCCACATATTAAGCCCGAGTGATACTTCCTATTTGCCTACGCCATCCTCCGATCCATTCCAAACAAACTAGGAGGCGTCCTCGCCCTAGCCGCCTCCATCCTGGTCCTATTCCTCATGCCCCTGCTTCACACATCCAAACTACGCTCAATAACCTTCCGTCCCATCTCACAAATCCTATTCTGAGCCCTAGTAACTAACGTCCTAGTCCTCACATGAGTAGGCAGCCAACCAGTTGAACACCCATTCATCCTCATTGGCCAACTAGCCTCTCTCTCCTACTTCACAATCATCCTAGTCCTATTCCCTCTTGCTGCCATCCTAGAAAACAAGATGCTCAAACTATAA</Hsp_qseq>
+      <Hsp_hseq>GCTAGCTACCCACTATACAGCAGACACCAGCCTGGCTTTCAACTCCGTCGCCCATATCTGCCGAGACGTCCAATTTGGATGACTAATCCGCAACCTCCACGCAAACGGAGCTTCCTTCTTCTTCATCTGCATCTACTTCCACATTGGCCGAGGTATCTACTACGGCTCTTACCTAAACAAAGAGACATGGAACGTCGGGGTCGTACTCCTACTCACACTCATAGCCACTGCCTTCGTAGGCTACGTCCTACCCTGAGGACAAATATCATTCTGAGGTGCTACAGTAATCACAAACCTATTCTCTGCAATCCCATACATCGGACAAACCCTAGTAGAATGAGCATGAGGGGGATTCTCAGTAGACAACCCCACTCTAACTCGATTCTTTGCCCTCCACTTCCTCCTCCCTTTCGTCATCGCCGGGCTCACACTAGTTCACCTCACCCTCCTCCACGACACAGGATCAAACAACCCCCTAGGTATCCCATCAGACTGCGACAAAATCCCATTCCACCCATACTACACTGTCAAAGACATCCTAGGCTTCGCCCTTATATTCATCCCACTAGTCTCCCTAGCATTATTCGCCCCAAACCTTCTTGGAGACCCAGAAAACTTTACACCAGCCAATCCCCTGGCAACACCCCCTCACATCAAACCCGAATGATACTTCCTATTTGCCTACGCCATCCTCCGATCTATCCCAAACAAACTAGGAGGAGTCCTCGCCCTAGCCGCCTCCATCCTAGTCCTATTCCTCCTCCCCCTACTTCACACATCCAAGCTACGCTCAATAACCTTCCGCCCTATTTCCCAAATCCTATTCTGAACCCTAGTAGCCAACCTTCTCATTCTCACCTGAGTAGGCAGCCAGCCAGTCGAACACCCATTCATCATCATTGGCCAACTAGCCTCACTCTCCTACTTCACAATCATCCTAGTACTCTTCCCCCTCGCCTCCCTTCTAGAAAACAAATTACTCAAACTATAA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||| ||||||||||| ||||| || |||||||||||| |||| || |||||||||||||||||||| |||||||||| ||| |||||||||||||| ||||| ||||||||||||||||||||||||||||| |||||||| ||||||||||| || ||||||||||||||   ||| ||||| || ||| | ||||||||| | || |||||||||||||||||||| |||||||| ||||||||||| |||||||||||||| || ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| ||  |||||||||| ||||| ||||| ||||| || ||||||||||| || || |||||||||||||||||||||||||||||||||||||| |||||| |||||||||| ||||||||||||||||||||||||||  ||||||| ||||||||||||||||| ||  ||||||  |||||   ||||||| |||| || |||||||| || || |||||||||||||| || || ||||| || || ||||||||||| || || || ||||| ||||||||||||||||||||||||||||||||||| || ||||||||||||||||| |||||||||||||||||||||||||| |||||||||||| | ||||| |||||||||||||| |||||||||||||||||||| || || || ||||||||||||||| |||||||| | ||| | ||  | ||||| |||||||||||||| ||||| ||||||||||||||| ||||||||||||||||||| |||||||||||||||||||||||||| || ||||| || ||  || | |||||||||||  | ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>31.9436</Hsp_bit-score>
+      <Hsp_score>34</Hsp_score>
+      <Hsp_evalue>2.70694</Hsp_evalue>
+      <Hsp_query-from>1829</Hsp_query-from>
+      <Hsp_query-to>1845</Hsp_query-to>
+      <Hsp_hit-from>894</Hsp_hit-from>
+      <Hsp_hit-to>910</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>CATCCTAGTCCTATTCC</Hsp_qseq>
+      <Hsp_hseq>CATCCTAGTCCTATTCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>31.0419</Hsp_bit-score>
+      <Hsp_score>33</Hsp_score>
+      <Hsp_evalue>9.44813</Hsp_evalue>
+      <Hsp_query-from>1441</Hsp_query-from>
+      <Hsp_query-to>1464</Hsp_query-to>
+      <Hsp_hit-from>504</Hsp_hit-from>
+      <Hsp_hit-to>481</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TCGCCCTCATGCTCATCCTCCTAG</Hsp_qseq>
+      <Hsp_hseq>TCCCCCTCATGCTCATTCTACTAG</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8546</Statistics_db-num>
+      <Statistics_db-len>6023396</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

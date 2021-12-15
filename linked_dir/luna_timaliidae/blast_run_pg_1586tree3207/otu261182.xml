@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_32199</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>1190</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_32199</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>1190</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|376321822|gb|JN826484.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher FMNH 297082 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826484</Hit_accession>
+  <Hit_len>521</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>940.841</Hsp_bit-score>
+      <Hsp_score>1042</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>521</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>521</Hsp_identity>
+      <Hsp_positive>521</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|342220427|gb|JF756833.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher NTNU T3006 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JF756833</Hit_accession>
+  <Hit_len>1041</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>931.825</Hsp_bit-score>
+      <Hsp_score>1032</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>521</Hsp_hit-from>
+      <Hsp_hit-to>1041</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>519</Hsp_identity>
+      <Hsp_positive>519</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACACATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTGTCTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|376321824|gb|JN826485.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher FMNH 297083 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826485</Hit_accession>
+  <Hit_len>521</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>927.316</Hsp_bit-score>
+      <Hsp_score>1027</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>521</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>518</Hsp_identity>
+      <Hsp_positive>518</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTATCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCCCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTGTCTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|342220425|gb|JF756832.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher NTNU T3004 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JF756832</Hit_accession>
+  <Hit_len>1041</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>918.299</Hsp_bit-score>
+      <Hsp_score>1017</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>521</Hsp_hit-from>
+      <Hsp_hit-to>1041</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>516</Hsp_identity>
+      <Hsp_positive>516</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACCCGAAAAATCATAGCCTTTTCCTCAATCTCCCACCTAGGCTGAATAGTTGTCATCATCCCCTACAACCCCAAACTCACCCTGTTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCCCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTGTCTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|342220429|gb|JF756834.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher NTNU T4512 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial &gt;gi|342220431|gb|JF756835.1| Conostoma aemodium voucher NTNU T5219 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JF756834</Hit_accession>
+  <Hit_len>1041</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>891.249</Hsp_bit-score>
+      <Hsp_score>987</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>521</Hsp_hit-from>
+      <Hsp_hit-to>1041</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>510</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACTCGAAAAATCATAGCCTTCTCCTCAATCTCCCATCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGTTAAACTTCTACCTATACGCCCTGATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCATTGCAACAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATACTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACCATTGTCTAA</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||| || |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|433357389|gb|JX565691.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher IOZ3589 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JX565691</Hit_accession>
+  <Hit_len>1001</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>849.771</Hsp_bit-score>
+      <Hsp_score>941</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>493</Hsp_query-to>
+      <Hsp_hit-from>509</Hsp_hit-from>
+      <Hsp_hit-to>1001</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>484</Hsp_identity>
+      <Hsp_positive>484</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>493</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCAT</Hsp_qseq>
+      <Hsp_hseq>AAACTCGAAAAATCATAGCCTTCTCCTCAATCTCCCATCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGTTAAACTTCTACCTATACGCCCTGATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCATTGCAACAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATACTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCAT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||| || |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|376322340|gb|JN826743.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher FMNH 297082 NADH dehydrogenase subunit 3 (ND3) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826743</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>634.269</Hsp_bit-score>
+      <Hsp_score>702</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>522</Hsp_query-from>
+      <Hsp_query-to>872</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>351</Hsp_identity>
+      <Hsp_positive>351</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATAAACATAATCACACTCATAATCGCCTTGTCCGCAACCCTTAGCATTGCCCTAACAGCACTAAACTTCTGACTCGCCCAAACAAACCCAGACCCAGAGAAACTATCCCCATACGAATGCGGCTTCGACCCCCTAGGCTCCGCTCGCCTGCCATTCTCAATCCGATTCTTCCTAGTGGCCATTCTCTTCCTACTCTTCGACCTAGAAATCGCCCTATTACTCCCCCTCCCATGAGCAACCCAACTCCAAAACCCTACCACCACCTTAACCTGAGCCTCCACCCTCATCCTCCTCCTTACCCTCGGCCTAGTATACGAATGAGTACAAGGAGGGTTAGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATAAACATAATCACACTCATAATCGCCTTGTCCGCAACCCTTAGCATTGCCCTAACAGCACTAAACTTCTGACTCGCCCAAACAAACCCAGACCCAGAGAAACTATCCCCATACGAATGCGGCTTCGACCCCCTAGGCTCCGCTCGCCTGCCATTCTCAATCCGATTCTTCCTAGTGGCCATTCTCTTCCTACTCTTCGACCTAGAAATCGCCCTATTACTCCCCCTCCCATGAGCAACCCAACTCCAAAACCCTACCACCACCTTAACCTGAGCCTCCACCCTCATCCTCCTCCTTACCCTCGGCCTAGTATACGAATGAGTACAAGGAGGGTTAGAATGGGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|376322342|gb|JN826744.1|</Hit_id>
+  <Hit_def>Conostoma aemodium voucher FMNH 297083 NADH dehydrogenase subunit 3 (ND3) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826744</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>625.252</Hsp_bit-score>
+      <Hsp_score>692</Hsp_score>
+      <Hsp_evalue>4.22494e-179</Hsp_evalue>
+      <Hsp_query-from>522</Hsp_query-from>
+      <Hsp_query-to>872</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>349</Hsp_identity>
+      <Hsp_positive>349</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>ATAAACATAATCACACTCATAATCGCCTTGTCCGCAACCCTTAGCATTGCCCTAACAGCACTAAACTTCTGACTCGCCCAAACAAACCCAGACCCAGAGAAACTATCCCCATACGAATGCGGCTTCGACCCCCTAGGCTCCGCTCGCCTGCCATTCTCAATCCGATTCTTCCTAGTGGCCATTCTCTTCCTACTCTTCGACCTAGAAATCGCCCTATTACTCCCCCTCCCATGAGCAACCCAACTCCAAAACCCTACCACCACCTTAACCTGAGCCTCCACCCTCATCCTCCTCCTTACCCTCGGCCTAGTATACGAATGAGTACAAGGAGGGTTAGAATGGGCAGAATAA</Hsp_qseq>
+      <Hsp_hseq>ATAAACATAATCACACTCATAATCGCCTTGTCCGCAACCCTTAGCATTGCCCTAACAGCACTAAACTTCTGGCTCGCCCAAACAAACCCAGACCCAGAGAAACTATCCCCATACGAATGCGGCTTCGACCCCCTAGGCTCCGCTCGCCTGCCATTCTCAATCCGATTCTTCCTAGTGGCCATTCTCTTCCTACTCTTCGACCTAGAAATCGCCCTATTACTCCCCCTCCCATGAGCAACCCAACTCCAAGACCCTACCACCACCTTAACCTGAGCCTCCACCCTCATCCTCCTCCTTACCCTCGGCCTAGTATACGAATGAGTACAAGGAGGGTTAGAATGGGCAGAATAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|629677461|gb|KJ455376.1|</Hit_id>
+  <Hit_def>Chrysomma sinense voucher NHMD 131842 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial</Hit_def>
+  <Hit_accession>KJ455376</Hit_accession>
+  <Hit_len>1029</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>602.71</Hsp_bit-score>
+      <Hsp_score>667</Hsp_score>
+      <Hsp_evalue>4.82065e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>509</Hsp_hit-from>
+      <Hsp_hit-to>1029</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACCCGAAAAATTATAGCTTTTTCCTCCATCTCCCACCTAGGATGAATAATCATCATCCTCTCTTACAACCCCAAACTCACACTACTAAACTTCTACCTATATACCCTAATAACTGCAACCGTATTCCTTACTCTCAACACAAACAAAATCCTGAAACTATCAACCCTAATAACCACATGAGCAAAAAACCCATCACTAAACGCAATACTACTGCTAACCCTCCTATCCCTCGCAGGCCTCCCCCCGCTAACAGGCTTCCTCCCCAAATGACTCATCATCCAAGAACTAACCAAACAGGACATAGCCATCGCAGCAACAACAATCTCCCTACTATCCCTGCTAGGACTATTTTTCTACCTTCGCCTAGCATACTGCGCAACAATCACGCTCCCCCCACACACCACAAACCATATGAAGCAATGACATACCAACAAACCAGTCAGTATCTCCATTGCTGTCCTAGTCACCCTATCCACAATACTTCTACCAATTTCCCCTATAATCCCCACCATTGTCTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||| |||||||||||||| |||||||||||||| ||||||||  ||||| || | ||||||||||||||||| || |||||||||||||||||  ||||||||||  || |||||||||| || || |||| |||||||||||| |||||||||||||||||||||||||||||||||| ||| ||||||| |||||||||||| |||||||||||||| |||||||| || || || |||||||||||||| || |||||||||||||||||||||||||||||||| || ||   | | ||||||||||| ||| || | || ||||| ||| | ||||| |||||||| ||||| ||||| ||||||||||| || ||||| || |||||||||||||| || ||||||||||| || |||||||||||||  |||||||||||| |||||  ||| ||||| ||||| || ||||| ||||| || ||| |||  || ||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|376321818|gb|JN826482.1|</Hit_id>
+  <Hit_def>Chrysomma sinense voucher USNM 6101 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>JN826482</Hit_accession>
+  <Hit_len>1041</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>602.71</Hsp_bit-score>
+      <Hsp_score>667</Hsp_score>
+      <Hsp_evalue>4.82065e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>521</Hsp_query-to>
+      <Hsp_hit-from>521</Hsp_hit-from>
+      <Hsp_hit-to>1041</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>521</Hsp_align-len>
+      <Hsp_qseq>AAACCCGAAAAATCATAGCTTTTTCCTCAATCTCCCACCTAGGCTGAATAATTGTCATCATCCCCTACAACCCCAAACTCACCCTGCTAAACTTCTACCTATACGCCCTAATAACCACAGCCGTATTCCTCACCCTAAACAAAAACAAAATCCTAAAACTATCAACCCTAATAACCACATGAGCAAAAACCCCCTCACTAAGCGCAATACTACTCCTAACCCTCCTATCACTCGCAGGACTTCCTCCCCTAACAGGCTTCCTTCCAAAATGACTCATCATCCAAGAACTAACCAAACAAGATATGATCGTTGCAGCAACAACCATCGCCATGCTTTCCCTACTAAGCCTATTCTTCTACCTCCGCCTTGCATATTGCGCAACAATTACACTCCCTCCCCACACCACAAACCACATAAAGCAATGACACACTAACAAACCAGTCAACATCTCCATTGCTATCCTAACCACGCTATCAACAATGCTCCTACCCATTTCACCCATACTCCTTACTATTATCTAA</Hsp_qseq>
+      <Hsp_hseq>AAACCCGAAAAATTATAGCTTTTTCCTCCATCTCCCACCTAGGATGAATAATCATCATCCTCTCTTACAACCCCAAACTCACACTACTAAACTTCTACCTATATACCCTAATAACTGCAACCGTATTCCTTACTCTCAACACAAACAAAATCCTGAAACTATCAACCCTAATAACCACATGAGCAAAAAACCCATCACTAAACGCAATACTACTGCTAACCCTCCTATCCCTCGCAGGCCTCCCCCCGCTAACAGGCTTCCTCCCCAAATGACTCATCATCCAAGAACTAACCAAACAGGACATAGCCATCGCAGCAACAACAATCTCCCTACTATCCCTGCTAGGACTATTTTTCTACCTTCGCCTAGCATACTGCGCAACAATCACGCTCCCCCCACACACCACAAACCATATGAAGCAATGACATACCAACAAACCAGTCAGTATCTCCATTGCTGTCCTAGTCACCCTATCCACAATACTTCTACCAATTTCCCCTATAATCCCCACCATTGTCTAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||| |||||||||||||| |||||||||||||| ||||||||  ||||| || | ||||||||||||||||| || |||||||||||||||||  ||||||||||  || |||||||||| || || |||| |||||||||||| |||||||||||||||||||||||||||||||||| ||| ||||||| |||||||||||| |||||||||||||| |||||||| || || || |||||||||||||| || |||||||||||||||||||||||||||||||| || ||   | | ||||||||||| ||| || | || ||||| ||| | ||||| |||||||| ||||| ||||| ||||||||||| || ||||| || |||||||||||||| || ||||||||||| || |||||||||||||  |||||||||||| |||||  ||| ||||| ||||| || ||||| ||||| || ||| |||  || ||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8546</Statistics_db-num>
+      <Statistics_db-len>6023364</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

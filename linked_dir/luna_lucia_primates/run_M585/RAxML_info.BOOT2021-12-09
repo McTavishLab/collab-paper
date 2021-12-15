@@ -1,0 +1,62 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 2000 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 32.17%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 2 non-parametric bootstrap inferences
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 2000
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS-AVX -T 4 -m GTRCAT -s /project/linked_dir/luna_lucia_primates/run_M585/physcraper_M585.fas -p 1 -b 1 -# 2 -n BOOT2021-12-09 
+
+
+Bootstrap[0]: Time 16517.536067 seconds, bootstrap likelihood -68159.697341, best rearrangement setting 10
+Bootstrap[1]: Time 14854.071225 seconds, bootstrap likelihood -70201.797038, best rearrangement setting 20
+
+
+Overall Time for 2 Bootstraps 31371.789378
+
+
+Average Time per Bootstrap 15685.894689
+All 2 bootstrapped trees written to: /project/linked_dir/luna_lucia_primates/run_M585/RAxML_bootstrap.BOOT2021-12-09

@@ -25,3 +25,9 @@ module load anaconda3
 source activate physcraper_env
 echo "Starting Physcraper Timaliidae run"
 time physcraper_run.py --study_id pg_1586 --tree_id tree3207 --treebase -db local_blast_db_OLD/ --search_taxon ott:565811 -o luna_timaliidae
+
+# time physcraper_run.py --study_id pg_2407 --tree_id tree5076 -db local_blast_db_OLD --search_taxon ott:913935 --alignment /project/linked_dir/alignments/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /project/linked_dir/luna_lucia_primates
+#
+# time physcraper_run.py --study_id pg_2407 --tree_id tree5076 --search_taxon ott:913935 --alignment /project/linked_dir/alignments/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /project/linked_dir/luna_lucia_primates
+#
+# time physcraper_run.py --study_id pg_2407 --tree_id tree5076 -db local_blast_db_OLD --search_taxon ott:913935 --alignment /branchinecta/jbazanwilliamson/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /branchinecta/shared/luna_lucia_primates

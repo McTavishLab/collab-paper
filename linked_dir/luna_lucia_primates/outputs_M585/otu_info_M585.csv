@@ -1,0 +1,70 @@
+otu_id	^ot:ottTaxonName	^ot:ottId	^ncbi:taxon	^ncbi:accession	^physcraper:last_blasted	^physcraper:ingroup	^physcraper:status	^ot:originalLabel	^ncbi:title	^physcraper:in_current_aln
+otu341873	Hubrechtella dubia	682979	166032	-	2021/12/08	True	original	Hubrechtella_dubia	-	True
+otu341877	Terebratalia transversa	463351	34513	-	2021/12/08	True	original	Terebratalia_transversa	-	True
+otu341913	Phoronopsis harmeri	1096753	490051	-	2021/12/08	True	original	Phoronopsis_viridis	-	True
+otu341878	Dugesia japonica	101220	6161	-	2021/12/08	True	original	Dugesia_japonica	-	True
+otu341891	Schistosoma mansoni	191483	6183	-	2021/12/08	True	original	Schistosoma_mansoni	-	True
+otu341902	Pantinonemertes	26468	187729	-	2021/12/08	True	original	Pantinonemertes_sp._nov.	-	True
+otu341935	Tegula brunnea	790758	80345	-	2021/12/08	True	original	Tegula_brunnea	-	True
+otu341909	Lottia austrodigitalis	739005	244422	-	2021/12/08	True	original	Lottia_austrodigitalis	-	True
+otu341895	Onchidella borealis	739017	244421	-	2021/12/08	True	original	Onchidella_borealis	-	True
+otu341893	Macoma nasuta	739007	244423	-	2021/12/08	True	original	Macoma_nasuta	-	True
+otu341904	Lampsilis cardium	734797	96914	-	2021/12/08	True	original	Lampsilis_cardium	-	True
+otu341911	Lepidochitona hartwegii	2866728	0	-	2021/12/08	True	original	Lepidochitona_hartwegi	-	True
+otu341918	Octopus rubescens	609506	37655	-	2021/12/08	True	original	Octopus_rubescens	-	True
+otu341910	Conopeum	856797	244425	-	2021/12/08	True	original	Conopeum_sp.	-	True
+otu341922	Watersipora subtorquata	160276	193294	-	2021/12/08	True	original	Watersipora_subtorquata	-	True
+otu341930	Lineus ruber	283796	88926	-	2021/12/08	True	original	Lineus_ruber	-	True
+otu341903	Opiliones	4428	43271	-	2021/12/08	True	original	opilionid	-	True
+otu341912	Garypus californicus	282043	244436	-	2021/12/08	True	original	Garypus_californica	-	True
+otu341932	Loxosceles reclusa	673746	6921	-	2021/12/08	True	original	Loxoceles_reclusa	-	True
+otu341936	Scolopocryptops sexspinosus	99333	118499	-	2021/12/08	True	original	Scolopocryptops_sexspinosa	-	True
+otu341920	Ctenocephalides felis	81976	7515	-	2021/12/08	True	original	Ctenocephalides_felis	-	True
+otu341901	Acrosternum hilare	906497	244443	-	2021/12/08	True	original	Acrosternum_hilare	-	True
+otu341908	Doru lineare	820122	163243	-	2021/12/08	True	original	Doru_lineare	-	True
+otu341907	None	None	-	-	2021/12/08	True	original	nematoceran_dipteran	-	True
+otu341885	Drosophila melanogaster	505714	7227	-	2021/12/08	True	original	Drosophila_melanogaster	-	True
+otu341917	None	None	-	-	2021/12/08	True	original	brachyceran_dipteran	-	True
+otu341923	Harmonia axyridis	258281	115357	-	2021/12/08	True	original	Harmonia_axyridis	-	True
+otu341882	Tenebrio molitor	1093470	7067	-	2021/12/08	True	original	Tenebrio_molitor	-	True
+otu341876	Caenorhabditis elegans	395048	6239	-	2021/12/08	True	original	Caenorhabditis_elegans	-	True
+otu341881	Artemia franciscana	59094	6661	-	2021/12/08	True	original	Artemia_franciscana	-	True
+otu341887	Carcinus maenas	1089892	6759	-	2021/12/08	True	original	Carcinus_maenas	-	True
+otu341905	Callinectes sapidus	182906	6763	-	2021/12/08	True	original	Callinectes_sapidus	-	True
+otu341900	Oniscidea	293038	41116	-	2021/12/08	True	original	oniscidean_isopod	-	True
+otu341933	None	None	-	-	2021/12/08	True	original	Caprella_sp.	-	True
+otu341916	Diplopoda	1078162	7553	-	2021/12/08	True	original	diplopodan_2	-	True
+otu341931	Diplopoda	1078162	7553	-	2021/12/08	True	original	diplopodan_1	-	True
+otu341919	Rhinella marina	889340	8386	-	2021/12/08	True	original	Bufo_marinus	-	True
+otu341886	Xenopus laevis	465096	8355	-	2021/12/08	True	original	Xenopus_laevis	-	True
+otu341888	Gallus gallus	153563	9031	-	None	True	deleted from tree in reconciliation	Gallus_gallus	-	False
+otu341880	Sus scrofa	730013	9823	-	2021/12/08	True	original	Sus_scrofa	-	True
+otu341890	Homo sapiens	770315	9606	-	None	True	deleted from tree in reconciliation	Homo_sapiens	-	False
+otu341884	Canis lupus familiaris	247333	9615	-	2021/12/08	True	original	Canis_familiaris	-	True
+otu341879	Ovis aries	70819	9940	-	2021/12/08	True	original	Ovis_aries	-	True
+otu341874	Rattus norvegicus	271555	10116	-	None	True	deleted from tree in reconciliation	Rattus_norvegicus	-	False
+otu341883	Danio rerio	1005914	7955	-	None	True	deleted from tree in reconciliation	Danio_rerio	-	False
+otu341940	Catostomus commersonii	955101	7971	-	2021/12/08	True	original	Catostomus_commersoni	-	True
+otu341939	Anguilla anguilla	854201	7936	-	2021/12/08	True	original	Anguilla_anguilla	-	True
+otu341938	Oreochromis mossambicus	288069	8127	-	None	True	deleted from tree in reconciliation	Oreochromis_mossambicus	-	False
+otu341924	Torpedo californica	493412	7787	-	2021/12/08	True	original	Torpedo_californica	-	True
+otu341892	Patiria miniata	174354	46514	-	2021/12/08	True	original	Asterina_miniata	-	True
+otu341875	Strongylocentrotus purpuratus	564702	7668	-	2021/12/08	True	original	Strongylocentrotus_purpuratus	-	True
+otu341889	Hydra vulgaris	861536	0	-	None	False	original	Hydra_vulgaris	-	True
+Rattus_norvegicus_ATP1a3	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a3	-	True
+Electrophorus_electricus	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Electrophorus_electricus	-	True
+Danio_rerio_ATPa2a	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Danio_rerio_ATPa2a	-	True
+Rattus_norvegicus_ATP1a4	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a4	-	True
+Homo_sapiens_ATPa1	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Homo_sapiens_ATPa1	-	True
+Gallus_gallus_ATPa2	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Gallus_gallus_ATPa2	-	True
+Danio_rerio_ATPa3	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Danio_rerio_ATPa3	-	True
+Homo_sapiens_ATPa2	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Homo_sapiens_ATPa2	-	True
+Gallus_gallus_ATPa3	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Gallus_gallus_ATPa3	-	True
+Homo_sapiens_ATPa3	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Homo_sapiens_ATPa3	-	True
+Rattus_norvegicus_ATP1a1	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a1	-	True
+Gallus_gallus_J03230.1	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Gallus_gallus_J03230.1	-	True
+Oreochromis_mossambicus_ATPa1	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Oreochromis_mossambicus_ATPa1	-	True
+Danio_rerio_ATP1a.1	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Danio_rerio_ATP1a.1	-	True
+Rattus_norvegicus_ATP1a2	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a2	-	True
+Oreochromis_mossambicus_ATPa3	-	-	-	-	2021/12/08	unknown	in original alignment but not tree, taxon info unknown	Oreochromis_mossambicus_ATPa3	-	True
+otuPS1	Homo sapiens	770315	9606	AK295729.1	None	True	new	-	gi|194380833|dbj|AK295729.1| Homo sapiens cDNA FLJ56089 complete cds, highly similar to Sodium/potassium-transporting ATPase alpha-2 chain precursor (EC 3.6.3.9)	True

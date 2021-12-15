@@ -1,0 +1,69 @@
+otu_id	^ot:ottTaxonName	^ot:ottId	^ncbi:taxon	^ncbi:accession	^physcraper:last_blasted	^physcraper:ingroup	^physcraper:status	^ot:originalLabel	^ncbi:title	^physcraper:in_current_aln
+otu341873	Hubrechtella dubia	682979	166032	-	None	True	original	Hubrechtella_dubia	-	True
+otu341877	Terebratalia transversa	463351	34513	-	None	True	original	Terebratalia_transversa	-	True
+otu341913	Phoronopsis harmeri	1096753	490051	-	None	True	original	Phoronopsis_viridis	-	True
+otu341878	Dugesia japonica	101220	6161	-	None	True	original	Dugesia_japonica	-	True
+otu341891	Schistosoma mansoni	191483	6183	-	None	True	original	Schistosoma_mansoni	-	True
+otu341902	Pantinonemertes	26468	187729	-	None	True	original	Pantinonemertes_sp._nov.	-	True
+otu341935	Tegula brunnea	790758	80345	-	None	True	original	Tegula_brunnea	-	True
+otu341909	Lottia austrodigitalis	739005	244422	-	None	True	original	Lottia_austrodigitalis	-	True
+otu341895	Onchidella borealis	739017	244421	-	None	True	original	Onchidella_borealis	-	True
+otu341893	Macoma nasuta	739007	244423	-	None	True	original	Macoma_nasuta	-	True
+otu341904	Lampsilis cardium	734797	96914	-	None	True	original	Lampsilis_cardium	-	True
+otu341911	Lepidochitona hartwegii	2866728	0	-	None	True	original	Lepidochitona_hartwegi	-	True
+otu341918	Octopus rubescens	609506	37655	-	None	True	original	Octopus_rubescens	-	True
+otu341910	Conopeum	856797	244425	-	None	True	original	Conopeum_sp.	-	True
+otu341922	Watersipora subtorquata	160276	193294	-	None	True	original	Watersipora_subtorquata	-	True
+otu341930	Lineus ruber	283796	88926	-	None	True	original	Lineus_ruber	-	True
+otu341903	Opiliones	4428	43271	-	None	True	original	opilionid	-	True
+otu341912	Garypus californicus	282043	244436	-	None	True	original	Garypus_californica	-	True
+otu341932	Loxosceles reclusa	673746	6921	-	None	True	original	Loxoceles_reclusa	-	True
+otu341936	Scolopocryptops sexspinosus	99333	118499	-	None	True	original	Scolopocryptops_sexspinosa	-	True
+otu341920	Ctenocephalides felis	81976	7515	-	None	True	original	Ctenocephalides_felis	-	True
+otu341901	Acrosternum hilare	906497	244443	-	None	True	original	Acrosternum_hilare	-	True
+otu341908	Doru lineare	820122	163243	-	None	True	original	Doru_lineare	-	True
+otu341907	None	None	-	-	None	True	original	nematoceran_dipteran	-	True
+otu341885	Drosophila melanogaster	505714	7227	-	None	True	original	Drosophila_melanogaster	-	True
+otu341917	None	None	-	-	None	True	original	brachyceran_dipteran	-	True
+otu341923	Harmonia axyridis	258281	115357	-	None	True	original	Harmonia_axyridis	-	True
+otu341882	Tenebrio molitor	1093470	7067	-	None	True	original	Tenebrio_molitor	-	True
+otu341876	Caenorhabditis elegans	395048	6239	-	None	True	original	Caenorhabditis_elegans	-	True
+otu341881	Artemia franciscana	59094	6661	-	None	True	original	Artemia_franciscana	-	True
+otu341887	Carcinus maenas	1089892	6759	-	None	True	original	Carcinus_maenas	-	True
+otu341905	Callinectes sapidus	182906	6763	-	None	True	original	Callinectes_sapidus	-	True
+otu341900	Oniscidea	293038	41116	-	None	True	original	oniscidean_isopod	-	True
+otu341933	None	None	-	-	None	True	original	Caprella_sp.	-	True
+otu341916	Diplopoda	1078162	7553	-	None	True	original	diplopodan_2	-	True
+otu341931	Diplopoda	1078162	7553	-	None	True	original	diplopodan_1	-	True
+otu341919	Rhinella marina	889340	8386	-	None	True	original	Bufo_marinus	-	True
+otu341886	Xenopus laevis	465096	8355	-	None	True	original	Xenopus_laevis	-	True
+otu341888	Gallus gallus	153563	9031	-	None	True	deleted from tree in reconciliation	Gallus_gallus	-	False
+otu341880	Sus scrofa	730013	9823	-	None	True	original	Sus_scrofa	-	True
+otu341890	Homo sapiens	770315	9606	-	None	True	deleted from tree in reconciliation	Homo_sapiens	-	False
+otu341884	Canis lupus familiaris	247333	9615	-	None	True	original	Canis_familiaris	-	True
+otu341879	Ovis aries	70819	9940	-	None	True	original	Ovis_aries	-	True
+otu341874	Rattus norvegicus	271555	10116	-	None	True	deleted from tree in reconciliation	Rattus_norvegicus	-	False
+otu341883	Danio rerio	1005914	7955	-	None	True	deleted from tree in reconciliation	Danio_rerio	-	False
+otu341940	Catostomus commersonii	955101	7971	-	None	True	original	Catostomus_commersoni	-	True
+otu341939	Anguilla anguilla	854201	7936	-	None	True	original	Anguilla_anguilla	-	True
+otu341938	Oreochromis mossambicus	288069	8127	-	None	True	deleted from tree in reconciliation	Oreochromis_mossambicus	-	False
+otu341924	Torpedo californica	493412	7787	-	None	True	original	Torpedo_californica	-	True
+otu341892	Patiria miniata	174354	46514	-	None	True	original	Asterina_miniata	-	True
+otu341875	Strongylocentrotus purpuratus	564702	7668	-	None	True	original	Strongylocentrotus_purpuratus	-	True
+otu341889	Hydra vulgaris	861536	0	-	None	False	original	Hydra_vulgaris	-	True
+Rattus_norvegicus_ATP1a3	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a3	-	True
+Electrophorus_electricus	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Electrophorus_electricus	-	True
+Danio_rerio_ATPa2a	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Danio_rerio_ATPa2a	-	True
+Rattus_norvegicus_ATP1a4	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a4	-	True
+Homo_sapiens_ATPa1	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Homo_sapiens_ATPa1	-	True
+Gallus_gallus_ATPa2	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Gallus_gallus_ATPa2	-	True
+Danio_rerio_ATPa3	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Danio_rerio_ATPa3	-	True
+Homo_sapiens_ATPa2	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Homo_sapiens_ATPa2	-	True
+Gallus_gallus_ATPa3	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Gallus_gallus_ATPa3	-	True
+Homo_sapiens_ATPa3	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Homo_sapiens_ATPa3	-	True
+Rattus_norvegicus_ATP1a1	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a1	-	True
+Gallus_gallus_J03230.1	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Gallus_gallus_J03230.1	-	True
+Oreochromis_mossambicus_ATPa1	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Oreochromis_mossambicus_ATPa1	-	True
+Danio_rerio_ATP1a.1	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Danio_rerio_ATP1a.1	-	True
+Rattus_norvegicus_ATP1a2	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Rattus_norvegicus_ATP1a2	-	True
+Oreochromis_mossambicus_ATPa3	-	-	-	-	None	unknown	in original alignment but not tree, taxon info unknown	Oreochromis_mossambicus_ATPa3	-	True
