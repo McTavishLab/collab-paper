@@ -8,8 +8,9 @@
 
   source /branchinecta/shared/venv-physcraper/bin/activate
 
-## Move to `brachinecta/shared`
-  cd /branchinecta/shared
+## Move to folder where you want to read inputs from (and potentially save results to).
+
+  cd /branchinecta/shared/
 
 ## Do a Physcraper run
 
