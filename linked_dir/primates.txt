@@ -1,0 +1,327 @@
+Members of primates present in the following studies in the OpenTree Phylesystem
+Only returning studies with TreeBase links
+
+Study pg_2407 tree(s) tree5076, tree6390
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2407
+Reference: Anderson F., Cordoba A., and Thollesson M. 2004. Bilaterian phylogeny based on analyses of a region of the sodium-potassium ATPase alpha subunit gene. Journal of Molecular Evolution 58 (3): 252-268.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1013
+
+Study pg_1348 tree(s) tree2686, tree2685
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1348
+Reference: Struck T., & Fisse F. 2008. Phylogenetic position of Nemertea derived from phylogenomic data. Molecular Biology and Evolution 25 (4): 728-736.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1994
+
+Study pg_1341 tree(s) tree2671, tree2670
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1341
+Reference: Hausdorf B., Helmkampf M., Nesnidal M., & Bruchhaus I. 2010. Phylogenetic relationships within the lophophorate lineages (Ectoprocta, Brachiopoda and Phoronida). Molecular Phylogenetics and Evolution 55 (3): 1121-1127.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10229
+
+Study pg_2402 tree(s) tree5061
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2402
+Reference: Ranwez V., Berry V., Criscuolo A., Fabre P., Guillemot S., Scornavacca C., & Douzery E. 2007. PhySIC: a veto supertree method with desirable properties. Systematic Biology, 56(5): 798-817.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1902
+
+Study pg_1260 tree(s) tree2535
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1260
+Reference: McDonald, T. R., Dietrich, F. S., & Lutzoni, F. (2012). Multiple horizontal gene transfers of ammonium transporters/ammonia permeases from prokaryotes to eukaryotes: toward a new functional and evolutionary classification. Molecular biology and evolution, 29(1), 51-60.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11394
+
+Study ot_1468 tree(s) Tr100262, Tr100261, Tr100263
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1468
+Reference: Fan P., Liu Y., Zhang Z., Zhao C., Li C., Liu W., & Li M. 2016. Phylogenetic position of the white-cheeked macaque (Macaca leucogenys), a newly described primate from Southeastern Tibet. Molecular Phylogentics and Evolution, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S19712
+
+Study ot_486 tree(s) Tr2897
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_486
+Reference: Eiji Tanaka, Chihiro Tanaka, 2008, 'Phylogenetic study of clavicipitaceous fungi using acetaldehyde dehydrogenase gene sequences', Mycoscience, vol. 49, no. 2, pp. 115-125
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1925
+
+Study pg_2414 tree(s) tree5095
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2414
+Reference: Freitas T., Hou S., Dioum E., Salto J., Newhouse J., Gonzalez G., Gilles-gonzalez M., and Alam M. 2004. Ancestral hemoglobins in Archaea. Proceedings of the National Academy of Sciences of the United States of America 101 (17): 6675-6680.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1410
+
+Study pg_310 tree(s) tree259, tree261, tree260
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_310
+Reference: Katz, L.A., Grant J.R., Parfrey L.W., Gant A., O'kelly C., Anderson O.R., Molestina R.E., and Nerad T. 2011. Subulatomonas tetraspora nov. gen. nov. sp. is a member of a previously unrecognized major clade of eukaryotes. Protist 162 (5): 762-773.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11336
+
+Study pg_2418 tree(s) tree5105, tree5104
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2418
+Reference: Evans, N.M., & Cartwright P. 2010. The phylogenetic position of Myxozoa: exploring conflicting signals in phylogenomic and ribosomal  datasets. Molecular Biology and Evolution 27 (12): 2733-2746.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10454
+
+Study pg_2396 tree(s) tree6383, tree5031
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2396
+Reference: Nesnidal M., Helmkampf M., Bruchhaus I., and Hausdorf B. 2010. Compositional heterogeneity and phylogenomic inference of  metazoan relationships. Molecular Biology and Evolution 27 (6): 1-10.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10436
+
+Study ot_550 tree(s) Tr79865, Tr79864, Tr79866
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_550
+Reference: Ravi K Singh, Klaus Gase, Ian T Baldwin, Shree P Pandey, 2015, 'Molecular evolution and diversification of the Argonaute family of proteins in plants', BMC Plant Biology, vol. 15, no. 1, p. 23
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S16716
+
+Study pg_2847 tree(s) tree6609, tree6610, tree6611
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2847
+Reference: Ding He, Omar Fiz-Palacios, Cheng-Jie Fu, Johanna Fehling, Chun-Chieh Tsai, Sandra L. Baldauf, 2014, 'An Alternative Root for the Eukaryote Tree of Life', Current Biology, vol. 24, no. 4, pp. 465-470
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14693
+
+Study pg_1767 tree(s) tree3565, tree3564
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1767
+Reference: Hausdorf B., Helmkampf M., Meyer A., Witek A., Herlyn H., Bruchhaus I., Hankeln T., Struck T., & Lieb B. 2007. Spiralian phylogenomics supports the resurrection of Bryozoa comprising Ectoprocta and Entoprocta. Molecular Biology and Evolution 24 (12): 2723-2729.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1907
+
+Study pg_305 tree(s) tree5973, tree5972, tree5970, tree5968, tree5969, tree5971
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_305
+Reference: Parfrey, L.W., Grant J.R., Tekle Y.I., Lasek-nesselquist E., Patterson D.J., Morrison H.G., Sogin M., and Katz L.A. 2010. Broadly sampled multigene analyses yield a well-resolved eukaryotic tree of life. Systematic Biology 59 (5): 518-33.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10562
+
+Study pg_413 tree(s) tree524
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_413
+Reference: Dunn, C., Hejnol A., Matus D., Pang K., Browne W., Smith S., Seaver E., Rouse G., Obst M., Edgecombe G., Sørensen M., Haddock S., Schmidt-rhaesa A., Okusu A., Kristensen R., Wheeler W., Martindale M., and Giribet G. 2008. Broad phylogenomic sampling improves resolution of the animal tree of life. Nature 452 (7188): 745-749.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2020
+
+Study ot_60 tree(s) Tr70725, Tr70726
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_60
+Reference: Lihuan Cao, Fang Chen, Xianmei Yang, Weijin Xu, Jun Xie, Long Yu, 2014, 'Phylogenetic analysis of CDK and cyclin proteins in premetazoan lineages', BMC Evolutionary Biology, vol. 14, no. 1, p. 10
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14979
+
+Study ot_548 tree(s) Tr90878
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_548
+Reference: Restrepo S., Enciso J., Tabima J.F., & Riano-pachon D. 2015. Phylogenomics of the Kingdom Protista. Academia, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18190
+
+Study ot_540 tree(s) Tr90878
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_540
+Reference: Restrepo S., Enciso J., Tabima J.F., & Riano-pachon D. 2015. Phylogenomics of the Kingdom Protista. Academia, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18190
+
+Study pg_1600 tree(s) tree3231
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1600
+Reference: Perelman, P., Johnson W.E., Roos C., Seuánez H.N., Horvath J.E., Moreira M.A., Kessing B.D., Pontius J., Roelke M., Rumpler Y., Schneider M.C., Silva A., O'brien S., & Pecon-slattery J. 2011. A Molecular Phylogeny of Living Primates. PLoS Genetics 7(3): e1001342.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12186
+
+Study pg_2018 tree(s) tree4157
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2018
+Reference: Belinky, F., Szitenberg A., Goldfarb I., Feldstein T., Wörheide G., Ilan M., & Huchon D. 2012. ALG11 - A new variable DNA marker for sponge phylogeny: Comparison of phylogenetic performances with the 18S rDNA and the COI gene. Molecular Phylogenetics and Evolution 63 (3): 702-713.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12822
+
+Study pg_2550 tree(s) tree5520, tree5518, tree5519, tree5521, tree5523, tree5522
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2550
+Reference: O'Leary, Maureen A., Marc Allard, Michael J. Novacek, Jin Meng, and John Gatesy. 2004. "Building the mammalian sector of the tree of life: Combining different data and a discussion of divergence times for placental mammals." In: Cracraft J., & Donoghue M., eds. Assembling the Tree of Life. pp. 490-516. Oxford, United Kingdom, Oxford University Press.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1302
+
+Study pg_1230 tree(s) tree2479
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1230
+Reference: Nozaki H., Yang Y., Maruyama S., & Suzaki T. 2012. A Case Study for Effects of Operational Taxonomic Units from Intracellular Endoparasites and Ciliates on the Eukaryotic Phylogeny: Phylogenetic Position of the Haptophyta in Analyses of Multiple Slowly Evolving Genes. PLoS ONE, 7(11), e50827.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13511
+
+Study ot_1366 tree(s) Tr98763
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1366
+Reference: Mark S. Springer, Christopher A. Emerling, Robert W. Meredith, Jan E. Janečka, Eduardo Eizirik, William J. Murphy, 2017, 'Waking the undead: Implications of a soft explosive model for the timing of placental mammal diversification', Molecular Phylogenetics and Evolution, vol. 106, pp. 86-102
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S19854
+
+Study pg_2060 tree(s) tree4243
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2060
+Reference: Tosi A.J., Morales J.C., & Melnick D.J. 2003. Paternal, Maternal, and Biparental Molecular Markers Provide Unique Windows onto the Evolutionary History of Macaque Monkeys. Evolution, 57(6): 1419-1435.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11709
+
+Study pg_1135 tree(s) tree2283, tree2282
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1135
+Reference: Yoo, M. J., Albert, V. A., Soltis, P. S., & Soltis, D. E. (2006). Phylogenetic diversification of glycogen synthase kinase 3/SHAGGY-like kinase genes in plants. BMC plant biology, 6(1), 3.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1515
+
+Study pg_1797 tree(s) tree3635
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1797
+Reference: Poux, C., Madsen O., Glos J., Jong W., & Vences M. 2008. Molecular phylogeny and divergence times of Malagasy tenrecs: influence of data partitioning and taxon sampling on dating analyses. BMC Evolutionary Biology 8: 102.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1991
+
+Study pg_1639 tree(s) tree3313
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1639
+Reference: Voigt, K., & Wstemeyer J. 2000. Reliable amplification of actin genes facilitates deep-level phylogeny. Microbiological Research 155 (3): 179-195.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S667
+
+Study pg_1228 tree(s) tree2475, tree2476
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1228
+Reference: Hisayoshi Nozaki, Shinichiro Maruyama, Motomichi Matsuzaki, Takashi Nakada, Syou Kato, Kazuharu Misawa, 2009, 'Phylogenetic positions of Glaucophyta, green plants (Archaeplastida) and Haptophyta (Chromalveolata) as deduced from slowly evolving nuclear genes', Molecular Phylogenetics and Evolution, vol. 53, no. 3, pp. 872-880
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10068
+
+Study ot_274 tree(s) Tr47737
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_274
+Reference: Mcdonald T.R., Dietrich F., & Lutzoni F. 2011. Multiple horizontal gene transfers of ammonium transporters/ammonia permeases from prokaryotes to eukaryotes: toward a new functional and evolutionary classification. Molecular Biology and Evolution, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11394
+
+Study pg_1990 tree(s) tree4075
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1990
+Reference: Bleidorn C., Podsiadlowski L., Zhong M., Eeckhaut I., Hartmann S., Halanych K., & Tiedemann R. 2009. On the phylogenetic position of Myzostomida: can 77 genes get it wrong? BMC Evolutionary Biology 9 (150): 150.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10084
+
+Study pg_2731 tree(s) tree6428
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2731
+Reference: Barns, S. M., C. F. Delwiche, J. D. Palmer, N. R. Pace. 1996. Perspectives on archaeal diversity, thermophily and monophyly from environmental rRNA sequences. Proceedings of the National Academy of Sciences 93 (17): 9188-9193.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S370
+
+Study ot_1207 tree(s) Tr48913
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1207
+Reference: Shekelle M., Meier R., Wahyu I., Wirdateti I., & Ting N. 2010. Molecular Phylogenetics and Chronometrics of Tarsiidae Based on 12S mtDNA Haplotypes: Evidence for Miocene Origins of Crown Tarsiers and Numerous Species within the Sulawesian Clade. International Journal of Primatology, 31: 1083-1106.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11977
+
+Study pg_2925 tree(s) tree6756
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2925
+Reference: Grant, J.R., and L.A. Katz. 2014. Building a phylogenomic pipeline for the eukaryotic tree of life? Addressing deep phylogenies with genome-scale data. PLOS Currents Tree of Life, April 2(1).
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14480
+
+Study pg_2886 tree(s) tree6693, tree6694
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2886
+Reference: Bettina M. Scheel, Bernhard Hausdorf, 2014, 'Dynamic evolution of mitochondrial ribosomal proteins in Holozoa', Molecular Phylogenetics and Evolution, vol. 76, pp. 67-74
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14909
+
+Study pg_2885 tree(s) tree6689
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2885
+Reference: Wanjun Gu, Musheng Li, Yuming Xu, Ting Wang, Jae-Hong Ko, Tong Zhou, 2014, 'The impact of RNA structure on coding sequence evolution in both bacteria and eukaryotes', BMC Evolutionary Biology, vol. 14, no. 1, p. 87
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S15642
+
+Study pg_2516 tree(s) tree6440, tree5424, tree5423, tree5426, tree5425
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2516
+Reference: Pisani D. 2004. Identifying and removing fast evolving sites using compatibility analysis: an example from the Arthropoda. Systematic Biology 53 (6): 983-994.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1287
+
+Study pg_2519 tree(s) tree5533
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2519
+Reference: McGowen M., Clark C., & Gatesy J. 2008. The vestigial olfactory receptor subgenome of odontocete whales: phylogenetic congruence between gene-tree reconciliation and supermatrix methods. Systematic Biology 57 (4): 574-590.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S2138
+
+Study ot_1542 tree(s) Tr87949
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1542
+Reference: Pozzi L., Nekaris A.K., Perkin A., Bearder S.K., Pimley E.R., Schulze H., Streicher U., Nadler T., Kitchener A., Zischler H., Zinner D., & Roos C. 2015. Remarkable ancient divergences amongst neglected lorisiform primates. Zoological Journal of the Linnean Society, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S17669
+
+Study ot_766 tree(s) Tr85440
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_766
+Reference: Romain Derelle, Guifré Torruella, Vladimír Klimeš, Henner Brinkmann, Eunsoo Kim, Čestmír Vlček, B. Franz Lang, Marek Eliáš, 2015, 'Bacterial proteins pinpoint a single eukaryotic root', Proceedings of the National Academy of Sciences, vol. 112, no. 7, pp. E693-E699
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S16424
+
+Study pg_1428 tree(s) tree2856, tree2855
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1428
+Reference: Meredith, R.W., Janecka J., Gatesy J., Ryder O.A., Fisher C., Teeling E., Goodbla A., Eizirik E., Simao T., Stadler T., Rabosky D., Honeycutt R., Flynn J., Ingram C., Steiner C., Williams T., Robinson T., Herrick A., Westerman M., Ayoub N., Springer M., & Murphy W. 2011. Impacts of the Cretaceous Terrestrial Revolution and KPg Extinction on Mammal Diversification. Science 334 (6055): 521-524.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11872
+
+Study pg_1836 tree(s) tree3718, tree3720
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1836
+Reference: Zeng L., Jacobs M., & Swalla B. 2006. Coloniality has evolved once in Stolidobranch Ascidians. Integrative and Comparative Biology 46 (3): 255-268.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1496
+
+Study ot_519 tree(s) Tr88326
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_519
+Reference: Chang E.S., Neuhof M., Rubinstein N., Diamant A., Philippe H., Huchon D., & Cartwright P. 2015. Genomic insights into the evolutionary origin of Myxozoa within Cnidaria. Proceedings of the National Academy of Sciences of the United States of America, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S17743
+
+Study pg_2720 tree(s) tree6311
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2720
+Reference: Heiko Vogel, Boran Altincicek, Gernot Glöckner, Andreas Vilcinskas, 2011, 'A comprehensive transcriptome and immune-gene repertoire of the lepidopteran model host Galleria mellonella', BMC Genomics, vol. 12, no. 1, p. 308
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11399
+
+Study ot_592 tree(s) Tr93845, Tr93846
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_592
+Reference: Aurelie Moya, Kazuhiro Sakamaki, Benjamin M. Mason, Lotte Huisman, Sylvain Forêt, Yvonne Weiss, Tara E. Bull, Kentaro Tomii, Kenichiro Imai, David C. Hayward, Eldon E. Ball, David J. Miller, 2016, 'Functional conservation of the apoptotic machinery from coral to man: the diverse and complex Bcl-2 and caspase repertoires of Acropora millepora', BMC Genomics, vol. 17, no. 1
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S18551
+
+Study ot_593 tree(s) Tr76692
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_593
+Reference: Gabriel Wallau, Pierre Capy, Elgion Loreto, Aurélie Hua-Van, 2014, 'Genomic landscape and evolutionary dynamics of mariner transposable elements within the Drosophila genus', BMC Genomics, vol. 15, no. 1, p. 727
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S16144
+
+Study pg_750 tree(s) tree1374, tree1373
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_750
+Reference: Fischer, W. M., & Palmer, J. D. 2005. Evidence from small-subunit ribosomal RNA sequences for a fungal origin of Microsporidia. Molecular Phylogenetics and Evolution 36 (3): 606-622.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1373
+
+Study pg_312 tree(s) tree263
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_312
+Reference: Takishita, K., Martin K., Komatsuzaki H., Yabuki A., Inagaki Y., Cepicka I., Smejkalova P., Silberman J.D., Hashimoto T., Roger A.J., and Simpson A.G. 2011. Multigene phylogenies of diverse Carpediemonas-like organisms identify the closest relatives of 'amitochondriate' diplomonads and retortamonads. Protist 163 (3): 344-355.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11689
+
+Study pg_2413 tree(s) tree5093, tree5094
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2413
+Reference: Derelle, R., & Lang B.F. 2011. Rooting the eukaryotic tree with mitochondrial and bacterial proteins. Molecular Biology and Evolution 29 (4): 1277-1289.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12097
+
+Study ot_1301 tree(s) Tr27545, Tr27546
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1301
+Reference: Sekimoto S., Rochon D., Long J.E., Dee J.M., & Berbee M. 2011. A multigene phylogeny of Olpidium and its implications for early fungal evolution. BMC Evolutionary Biology, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11208
+
+Study ot_587 tree(s) Tr2944
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_587
+Reference: Colgan D., Hutchings P., & Beacham E. 2007. Multi-gene analyses of phylogenetic relationships between Mollusca, Annelida and Arthropoda. Zoological Studies, null.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1970
+
+Study pg_2595 tree(s) tree6015, tree6016
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2595
+Reference: Yin Y. 2013. DNA Barcodes Analysis for Species Identifications and Divergence Estimates of the Glires distributed in Xinjiang, China. Molecular Ecology Resources, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S14287
+
+Study pg_423 tree(s) tree2857
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_423
+Reference: Pyron, R.A., & Wiens J.J. 2011. A large-scale phylogeny of Amphibia including over 2800 species, and a revised classification of extant frogs, salamanders, and caecilians. Molecular Phylogenetics Evolution 61 (2): 543-583.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S11742
+
+Study pg_2579 tree(s) tree5983
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2579
+Reference: Faircloth, B.C., McCormack J.E., Crawford N.G., Harvey M.G., Brumfield R., & Glenn T.C. 2012. Ultraconserved elements anchor thousands of genetic markers spanning multiple evolutionary timescales. Systematic Biology 61 (5): 717-726.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12156
+
+Study pg_425 tree(s) tree5977, tree5978, tree5976, tree5979
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_425
+Reference: L. A. Katz, J. R. Grant, L. W. Parfrey, J. G. Burleigh, 2012, 'Turning the Crown Upside Down: Gene Tree Parsimony Roots the Eukaryotic Tree of Life', Systematic Biology, vol. 61, no. 4, pp. 653-660
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12157
+
+Study pg_239 tree(s) tree111, tree112
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_239
+Reference: Parfrey, L.W., Grant J.R., Tekle Y.I., Lasek-nesselquist E., Patterson D.J., Morrison H.G., Sogin M., and Katz L.A. 2010. Broadly sampled multigene analyses yield a well-resolved eukaryotic tree of life. Systematic Biology 59 (5): 518-33.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S10562
+
+Study ot_570 tree(s) Tr85884
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_570
+Reference: Marie JJ Huysman, Atsuko Tanaka, Chris Bowler, Wim Vyverman, Lieven De Veylder, 2015, 'Functional characterization of the diatom cyclin-dependent kinase A2 as a mitotic regulator reveals plant-like properties in a non-green lineage', BMC Plant Biology, vol. 15, no. 1
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S17171
+
+Study ot_1838 tree(s) Tr112229, Tr112225, Tr112226, Tr112228, Tr112224, Tr112227
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1838
+Reference: Salunke R., Mourier T., Banerjee M., Pain A., & Shanmuga D. 2018. Highly diverged novel subunit composition of apicomplexan F-type ATP synthase identified from Toxoplasma gondii. PLoS Biology, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S22877
+
+Study ot_579 tree(s) Tr60046
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_579
+Reference: Sascha Krenek, Martin Schlegel, Thomas U Berendonk, 2013, 'Convergent evolution of heat-inducibility during subfunctionalization of the Hsp70 gene family', BMC Evolutionary Biology, vol. 13, no. 1, p. 49
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S13746
+
+Study ot_1833 tree(s) Tr114629, Tr114591, Tr114557, Tr114593, Tr114626, Tr114631, Tr114632, Tr114627, Tr114558, Tr114594, Tr114589, Tr114628, Tr114595, Tr114630, Tr114592, Tr114590
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1833
+Reference: Martín-peciña M., Ruiz-ruano F.J., Camacho J.M., & Dodsworth S. 2018. Phylogenetic signal of genomic repeat abundances can be distorted by random homoplasy: a case study from hominid primates. Zoological Journal of the Linnean Society, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S23474
+
+Study ot_1849 tree(s) Tr112610
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/ot_1849
+Reference: Park J., Lee J., Kim H., Kim D., Lee M., Han J., Hagiwara A., Hwang U., & Park H. 2018. Genome-wide identification and expression of the entire 90 glutathione S-transferase (GST) subfamily genes in four rotifer Brachionus species and transcriptional modulation in response to endocrine disrupting chemicals. BMC genomics, .
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S22798
+
+Study pg_2586 tree(s) tree5996, tree5997
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2586
+Reference: Lemmon, A.R., E. Lemmon, and S. Emme. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61 (5): 727-744.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12669
+
+Study pg_2582 tree(s) tree5988
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2582
+Reference: Beck, R.M.D., O.R.P Bininda-Emonds, M. Cardillo, F.-G. Liu, A. Purvis. 2006. A higher-level MRP supertree of placental mammals. BMC Evolutionary Biology 6: 93.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1663
+
+Study pg_1079 tree(s) tree2101
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1079
+Reference: Voigt, K., & Wostemeyer J. 2001. Phylogeny and origin of 82 zygomycetes from all 54 genera of the Mucorales and Mortierellales based on combined analysis of actin and translation elongation factor EF-1 alpha genes. Gene 270 (1-2): 113-120.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S754
+
+Study pg_2067 tree(s) tree4257, tree4259, tree4258, tree4260
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2067
+Reference: Yoder A.D., & Yang Z. 2004. Divergence dates for Malagasy lemurs estimated from multiple gene loci: geological and evolutionary context. Molecular Ecology 13 (4): 757-773.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S1153

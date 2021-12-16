@@ -1,4 +1,4 @@
-# Running physcraper on the Merced cluster
+# Running a Physcraper test on the Merced cluster
 
 ## Add dependencies to PATH
 
