@@ -20,12 +20,13 @@ export PATH=/branchinecta/shared/bin:$PATH
 ## Activate virtual env
 source /branchinecta/shared/venv-physcraper/bin/activate
 ## Move to folder containing inputs (or where you want to save outputs)
-cd /branchinecta/shared/collab-paper/
+cd /branchinecta/shared/
 pwd
 echo "Starting Physcraper Timaliidae run"
 time physcraper_run.py --study_id pg_1586 --tree_id tree3207 --alignment linked_dir/alignments/ALIGNMENT.nex --aln_schema nexus -db ../local_blast_db_OLD/ --search_taxon ott:565811 -o linked_dir/luna-timaliidae-year-month-day
 
-# time physcraper_run.py --study_id pg_2407 --tree_id tree5076 -db local_blast_db_OLD --search_taxon ott:913935 --alignment /project/linked_dir/alignments/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /project/linked_dir/luna_lucia_primates
+# Lucia's examples
+# time physcraper_run.py --study_id pg_2407 --tree_id tree5076 -db local_blast_db_OLD --search_taxon ott:913935 --alignment /collab-paper/linked_dir/alignments/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /collab-paper/linked_dir/luna_lucia_primates_test
 #
 # time physcraper_run.py --study_id pg_2407 --tree_id tree5076 --search_taxon ott:913935 --alignment /project/linked_dir/alignments/M585.nex --aln_schema nexus --bootstrap_reps 2 --output /project/linked_dir/luna_lucia_primates
 #
