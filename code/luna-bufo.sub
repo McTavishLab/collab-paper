@@ -8,15 +8,19 @@
 #SBATCH --partition mctavish.q
 #SBATCH --time=0-03:1000:00     # 0 days 1000 minutes
 #
-#SBATCH --output=luna-bufo-2021-12-15.stdout
-#SBATCH --error=luna-bufo-2021-12-15.stderr
+#SBATCH --output=luna-bufo-2022-02-01.stdout
+#SBATCH --error=luna-bufo-2022-02-01.stderr
 #
 
 #SBATCH --export=ALL
 
 pwd
-cd /branchinecta/shared
-module load anaconda3
-source activate physcraper_env
+## Add dependcies to PATH
+export PATH=/branchinecta/shared/bin:$PATH
+## Activate virtual env
+source /branchinecta/shared/venv-physcraper/bin/activate
+## Move to folder containing inputs (or where you want to save outputs)
+cd /branchinecta/shared/
+pwd
 echo "Starting Physcraper Bufo run"
-time physcraper_run.py --study_id pg_423 --tree_id tree2857 --treebase -db local_blast_db_OLD/ --search_taxon ott:187219 -o collab-paper/linked_dir/luna-bufo-2021-12-15
+time physcraper_run.py --study_id pg_423 --tree_id tree2857 --treebase -db local_blast_db_OLD/ --search_taxon ott:187219 -o collab-paper/linked_dir/luna-bufo-2022-02-01
