@@ -17,10 +17,10 @@
 pwd
 ## Add dependcies to PATH
 export PATH=/branchinecta/shared/bin:$PATH
-## Activate virtual env
+## Activate virtual env (we are not using conda no more)
 source /branchinecta/shared/venv-physcraper/bin/activate
 ## Move to folder containing inputs (or where you want to save outputs)
 cd /branchinecta/shared/
 pwd
 echo "Starting Physcraper TAXONNAME run"
-time physcraper_run.py --study_id STUDY_ID --tree_id TREE_ID --treebase -db ../local_blast_db_OLD/ --search_taxon ott:OTT_ID_NUMBER -o linked_dir/USERNAME-TAXONNAME-YEAR-MONTH-DAY
+time physcraper_run.py --study_id STUDY_ID --tree_id TREE_ID --treebase -db ./local_blast_db_OLD/ --search_taxon ott:OTT_ID_NUMBER -o ./collab-paper/linked_dir/USERNAME-TAXONNAME-YEAR-MONTH-DAY
