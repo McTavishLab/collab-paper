@@ -1,0 +1,48 @@
+Command line argument error: Argument "out". File is not accessible:  `/branchinecta/shared/physcraper/taxonomy/downloaded_ncbi_sequences/AF215264.1.fasta'
+Your databases might not be up to date anymore.                     You downloaded them 658 days ago.                     Continuing, but perhaps use a remote search,                     or update as decribed in                     'https://physcraper.readthedocs.io/en/main/install.html#local-databases'
+https://raw.githubusercontent.com/TreeBASE/supertreebase/master/data/treebase/S1965.xml
+error code 1, None,
+downloading from NCBI
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+Traceback (most recent call last):
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 426, in get_full_seq
+    "-out", seq_path])
+  File "/usr/lib64/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['blastdbcmd', '-db', '/branchinecta/shared/local_blast_db_OLD/nt', '-entry', 'AF215264.1', '-outfmt', '%f', '-out', '/branchinecta/shared/physcraper/taxonomy/downloaded_ncbi_sequences/AF215264.1.fasta']' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/branchinecta/shared/venv-physcraper/bin/physcraper_run.py", line 7, in <module>
+    exec(compile(f.read(), __file__, 'exec'))
+  File "/branchinecta/shared/physcraper/bin/physcraper_run.py", line 370, in <module>
+    scraper.calculate_final_tree(boot_reps = boot_reps)
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 1033, in calculate_final_tree
+    besttreepath = self.est_full_tree()
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 942, in est_full_tree
+    alignment = self.align_new_seqs()
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 838, in align_new_seqs
+    ret = self.read_blast_wrapper()
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 561, in read_blast_wrapper
+    self.read_local_blast_query(fn_path)
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 374, in read_local_blast_query
+    full_seq = self.get_full_seq(gb_acc, sseq)
+  File "/branchinecta/shared/physcraper/physcraper/scrape.py", line 432, in get_full_seq
+    seq = read_handle[0][u'GBSeq_sequence']
+TypeError: '_io.TextIOWrapper' object is not subscriptable
+
+real	145m54.010s
+user	28m15.194s
+sys	30m58.815s
