@@ -12,6 +12,9 @@ _Develop a Python module to generate informative visualizations of the Physcrape
 1. [Jupyter notebook examples in the Physcraper GitHub repo](https://github.com/McTavishLab/physcraper/tree/main/docs/examples)
 1. [Physcraper documentation](https://physcraper.readthedocs.io/en/main/index.html)
 1. [Physcraper paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04274-6)
+2. [google doc first notes]()
+3. [Authorship guidelines]()
+4. [Ideas for research questions]()
 
 
 ## Project log
@@ -20,6 +23,8 @@ _Develop a Python module to generate informative visualizations of the Physcrape
 
 - Cluster Ticket: git pull permissions for Randy and Kiana, and the rest of us
   - https://stackoverflow.com/questions/6448242/git-push-error-insufficient-permission-for-adding-an-object-to-repository-datab 
+  - https://www.thegeekstuff.com/2017/05/git-push-error/
+  - `sudo chown -R yourusername:yourgroup *`
 - EJM: error reading a DNA file from the database with Kiana’s run
 - Md syntax: 
   - create dropdown stuff
