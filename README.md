@@ -4,6 +4,18 @@
 
 _Develop a Python module to generate informative visualizations of the Physcraper results._
 
+Do we need a module or a workflow/tutorial/vignette??
+
+We want people to:
+
+- graph trees with different taxonomic labels, 
+- swap taxonomic names on output trees 
+- visualize conflict between original and updated tree
+   - for this we need a Python function that uses the conflict API
+   - conflict can only go vs synth tree, so compare original and updated tree vs synth
+   - then compare the two comparisons :p
+- visualize new branches in updated tree
+
 **Name of the module:** TBD
 
 **Resources:**
