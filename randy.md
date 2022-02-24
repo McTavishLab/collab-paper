@@ -1,6 +1,6 @@
 # Randy's Collab Paper Lab Notebook
 
-##February 23, 2022
+## February 23, 2022
 
 - Today we fixed an error with my git permissions, I was not able to git pull. We added the full paths onto my SBATCH script.
 - We were also able to fix my error with my alignment file by deleting the ending of the file using nano (CHARSET) and using the GitHub tutorial to do this that luna shared.
