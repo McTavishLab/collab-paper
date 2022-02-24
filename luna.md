@@ -1,6 +1,6 @@
 # Luna's collab paper notebook
 
-## Updating the _Felis_ `phylogeny`
+## Updating the _`Felis`_ phylogeny
 
 I am working on updating a phylogeny of the **genus** _Felis_.
 
