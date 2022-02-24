@@ -1,9 +1,11 @@
 # Luna's collab paper notebook
 
-## February 23, 2022
+## Updating the _Felis_ `phylogeny`
 
-List of things that we did today:
+I am working on updating a phylogeny of the **genus** _Felis_.
 
-- We started the lab notebooks using markdown
-- We solved Randy's alignment issue
-- Kiana, Lucia and me got the same error with the blast database, investigate!
+I ran the following command to fins OpenTree trees with alignmnets on treebase:
+
+```
+find_trees.py -ott 563165 -tb -o felis.txt
+```
