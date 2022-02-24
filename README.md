@@ -25,7 +25,15 @@ _Develop a Python module to generate informative visualizations of the Physcrape
   - https://stackoverflow.com/questions/6448242/git-push-error-insufficient-permission-for-adding-an-object-to-repository-datab 
   - https://www.thegeekstuff.com/2017/05/git-push-error/
   - `sudo chown -R yourusername:yourgroup *`
-- EJM: error reading a DNA file from the database with Kiana’s run
+- EJM: error reading a DNA file from the database with eberybody’s run
+- EJM and cluster: 
+```
+kbeheshtian@mrcdlogin collab-paper]$ git pull
+Warning: fetch updated the current branch head.
+Warning: fast-forwarding your working tree from
+Warning: commit e00cebf80107895335c440f57ba3b48707b5fe87.
+Already up-to-date.
+```
 - Md syntax: 
   - create dropdown stuff
   - add emojis
