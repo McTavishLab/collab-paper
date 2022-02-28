@@ -51,7 +51,7 @@ Already up-to-date.
   - add emojis
 - The Physcraper results structure
 - How we visualize the results now
-- Write pseudocode on jupyter notebook https://opentreeoflife.github.io/jupyter-venv
+- Write pseudocode on jupyter notebook. Instructions to create an opentree kernel: https://opentreeoflife.github.io/jupyter-venv
 - Starting a Python module
 - Writing an ms with backwards design
 - Think of good names for the package
