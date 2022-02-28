@@ -2,11 +2,11 @@
 
 **Goal of the paper:**
 
-_Develop a Python module to generate informative visualizations of the Physcraper results._
+_Develop a Python module (or R package?) to generate informative visualizations of the Physcraper results._
 
-Do we need a module or a workflow/tutorial/vignette??
+Explore: Do we really need a module or a workflow/tutorial/vignette would be enough?? See [ETE cookboks](http://etetoolkit.org/cookbook/), e.g., [ncbi taxonomic database query and taxonomic tree visualization](http://etetoolkit.org/documentation/ete-ncbiquery/) and [reproducing an analysis from 1998](http://etetoolkit.org/cookbook/ete_evol_lysozyme_branch.ipynb).
 
-We want people to:
+We want people to be able to seamlessley:
 
 - graph trees with different taxonomic labels, 
 - swap taxonomic names on output trees 
