@@ -1,0 +1,313 @@
+/==========================================================================\
+|                                 SumTrees                                 |
+|                     Phylogenetic Tree Summarization                      |
+|                              Version 4.5.2                               |
+|                   By Jeet Sukumaran and Mark T. Holder                   |
+|                          Using: DendroPy 4.5.2                           |
++--------------------------------------------------------------------------+
+|                                 Citation                                 |
+|                                 ~~~~~~~~                                 |
+| If any stage of your work or analyses relies on code or programs from    |
+| this library, either directly or indirectly (e.g., through usage of your |
+| own or third-party programs, pipelines, or toolkits which use, rely on,  |
+| incorporate, or are otherwise primarily derivative of code/programs in   |
+| this library), please cite:                                              |
+|                                                                          |
+|   Sukumaran, J and MT Holder. 2010. DendroPy: a Python library for       |
+|     phylogenetic computing. Bioinformatics 26: 1569-1571.                |
+|                                                                          |
+|   Sukumaran, J and MT Holder. SumTrees: Phylogenetic Tree Summarization. |
+|     4.5.2. Available at https://github.com/jeetsukumaran/DendroPy.       |
+|                                                                          |
+| Note that, in the interests of scientific reproducibility, you should    |
+| describe in the text of your publications not only the specific          |
+| version of the SumTrees program, but also the DendroPy library used in   |
+| your analysis. For your information, you are running DendroPy 4.5.2.     |
+\==========================================================================/
+
+SumTrees: Trees to be read from 1 source(s):
+SumTrees: - '/home/kbeheshtian/collab-paper/linked_dir/kianabehesht17-podarcis
+            -2022-02-16/run_pg_2145tree5952/RAxML_bootstrap.BOOT2022-03-02'
+SumTrees: Running in serial mode
+SumTrees: Analyzing: '/home/kbeheshtian/collab-paper/linked_dir/kianabehesht17-podarcis-2022-02-16/run_pg_2145tree5952/RAxML_bootstrap.BOOT2022-03-02'
+SumTrees: '/home/kbeheshtian/collab-paper/linked_dir/kianabehesht17-podarcis-2022-02-16/run_pg_2145tree5952/RAxML_bootstrap.BOOT2022-03-02': tree at offset 0 (analyzing)
+SumTrees: Analysis of source trees completed in: 0.189181 seconds
+SumTrees: Total of 100 trees analyzed for summarization:
+SumTrees: - All trees were treated as unweighted
+SumTrees: - All trees were unrooted
+SumTrees: - 38 unique taxa across all trees
+SumTrees: - 761 unique splits out of a total of 7400 splits
+SumTrees: - 722 unique non-trivial splits counted out of a total of non-
+            trivial 3500 splits
+SumTrees: Summarizing onto target tree defined in '/home/kbeheshtian/collab-paper/linked_dir/kianabehesht17-podarcis-2022-02-16/run_pg_2145tree5952/RAxML_bestTree.2022-03-02':
+SumTrees: - Support values expressed as proportions or probabilities
+SumTrees: [WARNING] Reporting support by proportions require that support will
+          be reported to at least 2 decimal places
+SumTrees: - Edge lengths as given on target trees
+SumTrees: - Support and other summarization annotations added to target trees
+            as metadata
+SumTrees: Collapsing clades or splits with support frequency less than 0.2
+SumTrees: Writing primary results to: '<stdout>'
+SumTrees: Summarization completed
+SumTrees: Started at: 2022-03-02 15:30:37.405045
+SumTrees: Ended at: 2022-03-02 15:30:37.623518
+SumTrees: Total elapsed time: 0.218473 seconds
+SumTrees: Actual analysis time: 0.189181 seconds
+Your databases might not be up to date anymore.                     You downloaded them 672 days ago.                     Continuing, but perhaps use a remote search,                     or update as decribed in                     'https://physcraper.readthedocs.io/en/main/install.html#local-databases'
+https://raw.githubusercontent.com/TreeBASE/supertreebase/master/data/treebase/S1965.xml
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+/branchinecta/shared/venv-physcraper/lib64/python3.6/site-packages/Bio/Entrez/__init__.py:631: UserWarning: 
+Email address is not specified.
+
+To make use of NCBI's E-utilities, NCBI requires you to specify your
+email address with each request.  As an example, if your email address
+is A.N.Other@example.com, you can specify it as follows:
+   from Bio import Entrez
+   Entrez.email = 'A.N.Other@example.com'
+In case of excessive usage of the E-utilities, NCBI will attempt to contact
+a user at the email address provided before blocking access to the
+E-utilities.
+  UserWarning,
+
+real	108m4.694s
+user	32m59.708s
+sys	24m43.791s
