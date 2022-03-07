@@ -27,7 +27,7 @@ We want people to be able to seamlessley:
 2. [google doc first notes]()
 3. [Authorship guidelines]()
 4. [Ideas for research questions]()
-5. [Tutorial to set up git and ssh}(https://github.com/LunaSare/lunasare-blogdown/blob/main/content/post-dev/2022-02-01_configuring-git/index.md)
+5. [Tutorial to set up git and ssh](https://github.com/LunaSare/lunasare-blogdown/blob/main/content/post-dev/2022-02-01_configuring-git/index.md)
 
 
 ## Project log
