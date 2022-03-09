@@ -59,7 +59,7 @@ source /branchinecta/shared/venv-physcraper/bin/activate
 cd /branchinecta/shared/
 pwd
 echo "Starting Physcraper Mantis run"
-time physcraper_run.py --study_id pg_1988 --tree_id tree4074 --alignment /home/rposada3/branchinecta/shared/collab-paper/M11113-modified.nex --aln_schema nexus -db /branchinecta/shared/local_blast_db_OLD/ --search_taxon ott:641494 -o /branchinecta/shared/collab-paper/linked_dir/randy-mantis-2022-02-23
+time physcraper_run.py --study_id pg_1988 --tree_id tree4074 --alignment /home/rposada3/branchinecta/shared/collab-paper/M11113-modified.nex --aln_schema nexus -db /branchinecta/shared/local_blast_db/ --search_taxon ott:641494 -o /branchinecta/shared/collab-paper/linked_dir/randy-mantis-2022-02-23
 ```
 ### Job ID
 
