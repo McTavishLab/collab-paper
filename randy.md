@@ -67,3 +67,37 @@ time physcraper_run.py --study_id pg_1988 --tree_id tree4074 --alignment /home/r
 ```
 Submitted batch job 2419116
 ```
+
+## Updating the _`Mantodea`_ phylogeny
+# This will be re-ran for the order Mantodea
+
+```
+cd mctavishlab.github.io/
+cd /branchinecta
+cd shared/
+export PATH=/branchinecta/shared/bin:$PATH
+source /branchinecta/shared/venv-physcraper/bin/activate
+cd /branchinecta/shared/
+find_trees.py -t mantodea -tb -o mantodea.txt
+```
+## OTT id 656293
+
+```
+Members of mantodea present in the following studies in the OpenTree Phylesystem
+Only returning studies with TreeBase links
+
+Study pg_1988 tree(s) tree4074
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1988
+Reference: Svenson, G.J., & Whiting M. 2009. Reconstructing the origins of praying mantises (Dictyoptera, Mantodea): the roles of Gondwanan vicariance and morphological convergence. Cladistics 25 (5): 468-514.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12224
+
+Study pg_2446 tree(s) tree5216, tree5219, tree5218, tree5217, tree5220
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_2446
+Reference: Whiting M., Carpenter J., Wheeler Q., & Wheeler W. 1997. The strepsiptera problem: phylogeny of the holometabolous insect orders inferred from 18S and 28S ribosomal DNA sequences and morphology. Systematic Biology, 46(1): 1-68.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S382
+
+Study pg_1562 tree(s) tree3124
+OpenTreeUrl: https://tree.opentreeoflife.org/curator/study/view/pg_1562
+Reference: Damgaard J., Klass K., Picker M.D., & Buder G. 2008. Phylogeny of the Heelwalkers (Insecta: Mantophasmatodea) based on mtDNA sequences, with evidence for additional taxa in South Africa. Molecular Phylogenetics and Evolution, 47: 443-462.
+Data Deposit URL: http://purl.org/phylo/treebase/phylows/study/TB2:S12943
+```
