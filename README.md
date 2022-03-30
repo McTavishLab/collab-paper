@@ -130,8 +130,6 @@ You can update the time limit of a pending job only:
 - Running the Physcraper examples and a taxon of your interest on the cluster - People got some errors again
    - Will fix them with EJM and try again next week!
 
-
-
 ### Dec meeting:
 
 - Running Physcraper on the Merced cluster with conda
@@ -139,6 +137,7 @@ You can update the time limit of a pending job only:
   - Download alignment
   - Work on the jupyter notebook: Explain how to modify the alignment to run on Physcraper
 - Run this on a physcraper docker locally:
+- 
 ```
 time physcraper_run.py 
 --study_id pg_2407 
@@ -149,17 +148,18 @@ time physcraper_run.py
 --bootstrap_reps 2 
 --output /project/linked_dir/luna_lucia_primates
 ```
-Figure out why it is not running on the cluster - office hours?
+- Figure out why it is not running on the cluster - office hours?
 
 
-How to run Physcraper with a local BLAST database
-The -db argument
-See Kiana’s and other’s research questions
-Work on the collab-paper repo
-Linking the alignment data folder to physcraper docker
-Jasper reaching out to Haemosporida experts
+- How to run Physcraper with a local BLAST database
+   - The -db argument
+- See Kiana’s and other’s research questions
+- Work on the collab-paper repo
+- Linking the alignment data folder to physcraper docker
+- Next: Jasper reaching out to Haemosporida experts
 
-Done:
-run docker on the UC server -> we do not need the physcraper docker, EJM is making the install with venv and conda so we can all run it
+### Nov meeting:
+
+- run docker on the UC server -> we do not need the physcraper docker, EJM is making the install with venv and conda so we can all run it
 
 
