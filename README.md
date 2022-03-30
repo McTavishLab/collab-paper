@@ -8,39 +8,44 @@ Explore: Do we really need a module or a workflow/tutorial/vignette would be eno
 
 We want people to be able to seamlessley:
 
-- graph trees with different taxonomic labels, 
-- swap taxonomic names on output trees 
+- swap taxonomic names on output trees,
+- compare tips on original and updated trees, 
+   - visualize new branches in updated tree
 - visualize conflict between original and updated tree
    - for this we need a Python function that uses the conflict API
    - conflict can only go vs synth tree, so compare original and updated tree vs synth
    - then compare the two comparisons :p
-- visualize new branches in updated tree
 
 **Name of the module:** TBD
 
 **Resources:**
 
-1. [Physcraper GitHub repo](https://github.com/McTavishLab/physcraper)
-1. [Jupyter notebook examples in the Physcraper GitHub repo](https://github.com/McTavishLab/physcraper/tree/main/docs/examples)
-1. [Physcraper documentation](https://physcraper.readthedocs.io/en/main/index.html)
-1. [Physcraper paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04274-6)
-2. [google doc first notes]()
-3. [Authorship guidelines]()
-4. [Ideas for research questions]()
-5. [Tutorial to set up git and ssh](https://github.com/LunaSare/lunasare-blogdown/blob/main/content/post-dev/2022-02-01_configuring-git/index.md)
+1. [Physcraper code repository on GitHub](https://github.com/McTavishLab/physcraper)
+1. [Examples of runs written on Jupyter notebook](https://github.com/McTavishLab/physcraper/tree/main/docs/examples)
+2. [Plotting results with R](https://mctavishlab.github.io/physcraperex/index.html)
+3. [Physcraper code documentation](https://physcraper.readthedocs.io/en/main/index.html)
+4. [Physcraper published paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04274-6)
+5. [Collab paper first notes on google docs](https://docs.google.com/document/d/1R9ueuvIWhvD9gSxr6GAso4RnSMK-1BlSHhU0p2wJMPI/edit)
+6. [Authorship guidelines](https://docs.google.com/document/d/15mKjgdxvvPQPxiJE6hk8_vmCuf1NZH8IdZEyaM9RY9w/edit)
+7. [Ideas for research questions](https://docs.google.com/document/d/1ztoGtQK3HhxFUfal7t5Scq9nGU9b6xBzbvHED3aNYJc/edit)
+8. [Tutorial to set up git and ssh](https://github.com/LunaSare/lunasare-blogdown/blob/main/content/post-dev/2022-02-01_configuring-git/index.md)
 
 
 ## Project log
 
 ### March 30, 2022
 
+- Everybody has their personal cluster repo to work on
 - Finish explaining the Physcraper results structure.
-   - Covered the outputs folder: tree files
-   - Demo how we visualize the results now
+   - Cover the outputs folder: tree files
+   - Show figures from paper
+   - Challenge: how would you create the paper viz using Python
 
 TODO:
+
 - Write pseudocode on jupyter notebook. Instructions to create an opentree kernel: https://opentreeoflife.github.io/jupyter-venv
 - Starting a Python module
+- Demo how we create visualizations of the results using R
 - Writing an ms with backwards design
 - Think of good names for the package
 
@@ -123,6 +128,7 @@ You can update the time limit of a pending job only:
 - Choose a paper subject - Success!
   - Python module to generate figures
 - Running the Physcraper examples and a taxon of your interest on the cluster - People got some errors again
+   - Will fix them with EJM and try again next week!
 
 
 
