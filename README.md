@@ -32,6 +32,36 @@ We want people to be able to seamlessley:
 
 ## Project log
 
+### March 30, 2022
+
+- Finish explaining the Physcraper results structure.
+   - Covered the outputs folder: tree files
+   - Demo how we visualize the results now
+
+TODO:
+- Write pseudocode on jupyter notebook. Instructions to create an opentree kernel: https://opentreeoflife.github.io/jupyter-venv
+- Starting a Python module
+- Writing an ms with backwards design
+- Think of good names for the package
+
+### March 23, 2022 - Spring break
+
+### March 16, 2022
+
+- Continued explaining the Physcraper results structure.
+   - Covered the runs folder: blast results, alignments
+   - Overview of curating chronograms in opentree
+   
+### March 9, 2022
+
+- Fixed permission issues from last session
+- Decided we will no longer work on a shared repo on the cluster
+   - Cloned repo on our own cluster account
+- Started exploring and explaining the Physcraper results structure.
+   - Reviewed what Physcraper does
+   - Covered the inputs folder: taxon ids, search group
+
+
 ### March 2, 2022
 
 - Cluster Ticket: git pull permissions for Randy and Kiana, and the rest of us
@@ -50,12 +80,7 @@ Already up-to-date.
 - Md syntax: 
   - create dropdown stuff
   - add emojis
-- The Physcraper results structure
-- How we visualize the results now
-- Write pseudocode on jupyter notebook. Instructions to create an opentree kernel: https://opentreeoflife.github.io/jupyter-venv
-- Starting a Python module
-- Writing an ms with backwards design
-- Think of good names for the package
+
 
 ### Feb 23, 2022
 
