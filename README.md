@@ -51,11 +51,7 @@ TODO:
 
 ### March 23, 2022 - Spring break
 
-### March 16, 2022
-
-- Continued explaining the Physcraper results structure.
-   - Covered the runs folder: blast results, alignments
-   - Overview of curating chronograms in opentree
+### March 16, 2022 - Cancelled
    
 ### March 9, 2022
 
@@ -65,7 +61,8 @@ TODO:
 - Started exploring and explaining the Physcraper results structure.
    - Reviewed what Physcraper does
    - Covered the inputs folder: taxon ids, search group
-
+   - Covered the runs folder: blast results, alignments
+   - Overview of curating chronograms in opentree
 
 ### March 2, 2022
 
