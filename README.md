@@ -33,6 +33,11 @@ We want people to be able to seamlessley:
 
 ## Project log
 
+### April 6, 2022
+
+- Challenge: https://docs.google.com/document/d/18_kUPLkvIOMh3sXZlWpNWR1DWPmKzVnMapSO5hssdrY/edit
+- 
+
 ### March 30, 2022
 
 - Everybody has their personal cluster repo to work on
