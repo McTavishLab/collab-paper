@@ -1,0 +1,31 @@
+otu_id	^ot:ottTaxonName	^ot:ottId	^ncbi:taxon	^ncbi:accession	^physcraper:last_blasted	^physcraper:ingroup	^physcraper:status	^ot:originalLabel	^ncbi:title	^physcraper:in_current_aln
+otu315924	Sphenodon punctatus	35890	8508	-	None	False	original	Sphenodon_punctatus	-	True
+otu315925	Dinodon semicarinatum	4121296	0	-	None	True	original	Dinodon_semicarinatus	-	True
+otu315938	Ovophis okinavensis	130705	8769	-	None	True	original	Ovophis_okinavensis	-	True
+otu315934	Ramphotyphlops bicolor	372253	261711	-	None	True	original	Ramphotyyphlops_bicolor	-	True
+otu315920	Xantusia vigilis	139521	8547	-	None	True	original	Xantusia_vigilis	-	True
+otu315944	Anelytropsis papillosus	491018	405597	-	None	True	original	Anelytropsis_papillosus	-	True
+otu315923	Dibamus sp. MCB-2004	686912	293406	-	None	True	original	Dibamus_sp.	-	True
+otu315927	Plestiodon egregius	741766	463521	-	None	True	original	Eumeces_egregious	-	True
+otu315943	Acanthodactylus erythrurus	418798	111511	-	None	True	original	Acanthodactylus_erythrurus	-	True
+otu315932	Podarcis hispanica	968467	74081	-	None	True	original	Podarcis_hispanica	-	True
+otu315937	Atlantolacerta andreanskyi	614725	651308	-	None	True	original	Lacerta_andreanski	-	True
+otu315946	Ameiva plei	153486	253934	-	None	True	original	Ameiva_plei	-	True
+otu315929	Gymnophthalmus speciosus	58578	88866	-	None	True	original	Gymnophthalmus_speciosus	-	True
+otu315931	Geocalamus acutus	1098646	261498	-	None	True	original	Geocalamus_acutus	-	True
+otu315935	Bipes canaliculatus	916642	273521	-	None	True	original	Bipes_canaliculatus	-	True
+otu315942	Amphisbaena schmidti	341676	273519	-	None	True	original	Amphisbaena_schmidti	-	True
+otu315928	Smaug warreni	376024	885424	-	None	True	original	Cordylus_warreni	-	True
+otu315936	Varanus komodoensis	1091028	61221	-	None	True	original	Varanus_komodensis	-	True
+otu315922	Crotaphytus collaris	244476	43591	-	None	True	original	Crotaphytus_collaris	-	True
+otu315919	Gambelia wislizenii	244470	43593	-	None	True	original	Gambelia_wislizenii	-	True
+otu315921	Iguana iguana	608972	8517	-	None	True	original	Iguana_iguana	-	True
+otu315926	Sceloporus virgatus	917788	43639	-	None	True	original	Sceloporus_virgatus	-	True
+otu315918	Pogona vitticeps	913382	103695	-	None	True	original	Pogona_vitticeps	-	True
+otu315945	Furcifer labordi	583325	143473	-	None	True	original	Furcifer_labordi	-	True
+otu315939	Chamaeleo africanus	824524	91906	-	None	True	original	Chamaleo_africanus	-	True
+otu315930	Abronia graminea	720695	278977	-	None	True	original	Abronia_graminea	-	True
+otu315933	Xenosaurus platyceps	491076	405598	-	None	True	original	Xenosaurus_platyceps	-	True
+otu315917	Shinisaurus crocodilurus	651194	52224	-	None	True	original	Shinisaurus_crocodilurus	-	True
+otu315940	Rhacodactylus trachyrhynchus	391885	96724	-	None	True	original	Rhacodactylus_trachyrynchus	-	True
+otu315941	Eublepharis macularius	662992	481883	-	None	True	original	Eublepharis_maculatus	-	True

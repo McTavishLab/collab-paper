@@ -1,0 +1,42 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=30;
+    TAXLABELS
+        Furcifer_labordi
+        Anelytropsis_papillosus
+        Ameiva_plei
+        Eublepharis_maculatus
+        Rhacodactylus_trachyrynchus
+        Acanthodactylus_erythrurus
+        Amphisbaena_schmidti
+        Eumeces_egregious
+        Sceloporus_virgatus
+        Dinodon_semicarinatus
+        Sphenodon_punctatus
+        Dibamus_sp.
+        Crotaphytus_collaris
+        Iguana_iguana
+        Xantusia_vigilis
+        Gymnophthalmus_speciosus
+        Cordylus_warreni
+        Ovophis_okinavensis
+        Chamaleo_africanus
+        Abronia_graminea
+        Geocalamus_acutus
+        Podarcis_hispanica
+        Xenosaurus_platyceps
+        Ramphotyyphlops_bicolor
+        Bipes_canaliculatus
+        Varanus_komodensis
+        Lacerta_andreanski
+        Shinisaurus_crocodilurus
+        Pogona_vitticeps
+        Gambelia_wislizenii
+  ;
+END;
+
+BEGIN TREES;
+    TREE tree5952 = [&curatedType=Fig. 2,outGroupEdge=,branchLengthTimeUnit=,branchLengthDescription=,tag={choose me},branchLengthMode=](Sphenodon_punctatus,(((Dinodon_semicarinatus,Ovophis_okinavensis)node1010680,Ramphotyyphlops_bicolor)node1010679,((Xantusia_vigilis,(((Anelytropsis_papillosus,Dibamus_sp.)node1010671,Eumeces_egregious)node1010670,((((((Acanthodactylus_erythrurus,Podarcis_hispanica)node1010657,Lacerta_andreanski)node1010656,(Ameiva_plei,Gymnophthalmus_speciosus)node1010661)node1010655,((Geocalamus_acutus,Bipes_canaliculatus)node1010665,Amphisbaena_schmidti)node1010664)node1010654,Cordylus_warreni)node1010653,(Varanus_komodensis,(((((Crotaphytus_collaris,Gambelia_wislizenii)node1010637,Iguana_iguana)node1010636,Sceloporus_virgatus)node1010635,(Pogona_vitticeps,(Furcifer_labordi,Chamaleo_africanus)node1010643)node1010642)node1010634,((Abronia_graminea,Xenosaurus_platyceps)node1010648,Shinisaurus_crocodilurus)node1010647)node1010633)node1010632)node1010631)node1010630)node1010629,(Rhacodactylus_trachyrynchus,Eublepharis_maculatus)node1010676)node1010628)node1010627)node1010626;
+END;
+
