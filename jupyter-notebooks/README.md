@@ -2,11 +2,29 @@
 
 ## Launching Jupyter
 
-### From the cluster
+First things first, decide whether you want to work on the repo from the cluster or from your own computer.
 
-Many thanks to @LuciaBazanW for this tip!
+Then, make sure you are in the directory you want to work with:
 
-Start anaconda, which has jupyter:
+```
+cd path/to/your/repo
+```
+
+### If you chose to work from your own computer
+
+Once you changed directory to the appropriate folder, you can start jupyter with the command
+
+```
+jupyter notebook
+```
+
+And... you are done!
+
+### If you chose to work from the cluster
+
+This option is a bit more involved, but very doable. Many thanks to @LuciaBazanW for this tip!
+
+Once you have `ssh`-ed into the cluster and changed to the appropriate repo, go ahead and start anaconda, which has jupyter:
 
 ```
 module load anaconda3
@@ -30,7 +48,7 @@ Open another terminal window, and ssh into the cluster again with:
 ssh -L 8080:localhost:8080  REPLACE-WITH-YOUR-USER-NAME@merced.ucmerced.edu
 ```
 
-Open a web browser window that you prefer (for example, Safari, Chrome, etc.)
+Open a window from the web browser that you prefer (for example, Safari, Chrome, etc.)
 Go to `http://localhost:8080/` or any of the URLs provided when you launched jupyter with no interface.
 
 Provide a token if needed.
