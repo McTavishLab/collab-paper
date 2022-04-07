@@ -33,10 +33,26 @@ We want people to be able to seamlessley:
 
 ## Project log
 
+TODO:
+
+- Starting a Python module
+- Demo how we create visualizations of the results using R
+- Writing an ms with backwards design
+- Think of good names for the package: physcraper-plots
+
+### April 13, 2022
+
+- Demo:
+   - creating a function that reads, plots and saves a tree as pdf
+   - setting up an opentree kernel: [instructions here](https://opentreeoflife.github.io/jupyter-venv)
+- 
+
 ### April 6, 2022
 
-- Challenge: https://docs.google.com/document/d/18_kUPLkvIOMh3sXZlWpNWR1DWPmKzVnMapSO5hssdrY/edit
-- 
+- [Results](https://docs.google.com/document/d/18_kUPLkvIOMh3sXZlWpNWR1DWPmKzVnMapSO5hssdrY/edit) from last week's challenge
+- Started a jupyter notebook on this repo, to show results from the challenge. 
+- New challenge: finish adding code from reslts of last week's challenge into the new jupyter notebook
+
 
 ### March 30, 2022
 
@@ -44,15 +60,10 @@ We want people to be able to seamlessley:
 - Finish explaining the Physcraper results structure.
    - Cover the outputs folder: tree files
    - Show figures from paper
-   - Challenge: how would you create the paper viz using Python
-
-TODO:
-
-- Write pseudocode on jupyter notebook. Instructions to create an opentree kernel: https://opentreeoflife.github.io/jupyter-venv
-- Starting a Python module
-- Demo how we create visualizations of the results using R
-- Writing an ms with backwards design
-- Think of good names for the package
+   - Challenge: 
+      - First part: look for Python modules that plot trees
+      - Part two: write the steps (functions) needed to read, plot, and save as pdf one of the output trees
+      - Hint: use pseudocode if needed
 
 ### March 23, 2022 - Spring break
 
