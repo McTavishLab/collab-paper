@@ -38,27 +38,30 @@ TODO:
 - Demo how we create visualizations of the results using R
 - Writing an ms with backwards design
 - Think of good names for the module: physcraper-plots
+- https://www.youtube.com/watch?v=euNvxWaRQMY save tables as pdf with Python
+- Demo: setting up an opentree kernel, [instructions here](https://opentreeoflife.github.io/jupyter-venv)
+
 
 ### April 27, 2022
 
 – Code review with EJM
+– Integrating the conflict API
 
 ### April 20, 2022
 
+– Adding a module to the Physcraper repo
 
 ### April 14, 2022
 
-- Demo:
-   - creating a function that reads, plots and saves a tree as pdf
-   - setting up an opentree kernel: [instructions here](https://opentreeoflife.github.io/jupyter-venv)
-– Adding a module to the Physcraper repo
+- Demo: creating a function that reads, plots and saves a tree as pdf
+– Reading and summarizing information from csv files
 
 
 ### April 6, 2022
 
 - [Results](https://docs.google.com/document/d/18_kUPLkvIOMh3sXZlWpNWR1DWPmKzVnMapSO5hssdrY/edit) from last week's challenge
 - Started a jupyter notebook on this repo, to show results from the challenge. 
-- New challenge: finish adding code from reslts of last week's challenge into the new jupyter notebook
+- New challenge: finish adding code from results of last week's challenge into the new jupyter notebook
 
 
 ### March 30, 2022
