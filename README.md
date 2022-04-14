@@ -35,17 +35,24 @@ We want people to be able to seamlessley:
 
 TODO:
 
-- Starting a Python module
 - Demo how we create visualizations of the results using R
 - Writing an ms with backwards design
-- Think of good names for the package: physcraper-plots
+- Think of good names for the module: physcraper-plots
 
-### April 13, 2022
+### April 27, 2022
+
+– Code review with EJM
+
+### April 20, 2022
+
+
+### April 14, 2022
 
 - Demo:
    - creating a function that reads, plots and saves a tree as pdf
    - setting up an opentree kernel: [instructions here](https://opentreeoflife.github.io/jupyter-venv)
-- 
+– Adding a module to the Physcraper repo
+
 
 ### April 6, 2022
 
