@@ -1,0 +1,107 @@
+otu_id	^ot:ottTaxonName	^ot:ottId	^ncbi:taxon	^ncbi:accession	^physcraper:last_blasted	^physcraper:ingroup	^physcraper:status	^ot:originalLabel	^ncbi:title	^physcraper:in_current_aln
+otu258995	Nesomachilis australica	632876	299218	-	None	False	original	Nesomachilis_australica_GB	-	True
+otu258944	Orthetrum melania	492471	257707	-	None	False	original	Orthetrum_triangulare_melania_G	-	True
+otu258933	Locusta migratoria	178934	7004	-	None	False	original	Locusta_migratoria	-	True
+otu258910	Reduvius personatus	764179	181509	-	None	False	original	Reduvius_personatus	-	True
+otu258921	Epidares nolimetangere	133511	262147	-	None	False	original	Epidares_nolimetangere	-	True
+otu258988	None	None	-	-	None	False	original	Phasmatodea_sp.	-	True
+otu258915	Phenacephorus auriculatus	1098611	409280	-	None	False	original	Phenacephorus_auriculatus	-	True
+otu258962	Periplaneta fuliginosa	265017	36977	-	None	False	original	Periplaneta_fuliginosa_GB	-	True
+otu258960	Tamolanica tamolana	996509	267124	-	None	False	original	Tamolanica_tamolana_GB	-	True
+otu258945	None	None	-	-	None	False	original	Miomantis_sp.	-	True
+otu258907	Grylloblatta sculleni	688515	357321	-	None	False	original	Grylloblatta_sculleni_GB	-	True
+otu258975	Galloisiana yuasai	1006429	378494	-	None	False	original	Galloisiana_yuasai_Clone5	-	True
+otu258927	Galloisiana yuasai	1006429	378494	-	None	False	original	Galloisiana_yuasai_Clone4	-	True
+otu259000	Galloisiana yuasai	1006429	378494	-	None	False	original	Galloisiana_yuasai_Clone1	-	True
+otu258928	Galloisiana yuasai	1006429	378494	-	None	False	original	Galloisiana_yuasai_Clone3	-	True
+otu258931	Galloisiana yuasai	1006429	378494	-	None	False	original	Galloisiana_yuasai_Clone2	-	True
+otu258969	Pteronarcys princeps	675174	285953	-	None	False	original	Pteronarcys_princeps_GB	-	True
+otu258999	Timema cristinae	814238	61476	-	None	False	original	Timema_cristinae	-	True
+otu258943	Timema californicum	814232	61474	-	None	False	original	Timema_californica_GB	-	True
+otu258981	Austrophasmatidae sp. B1	368630	409186	-	2022/04/15	True	original	Austrophasmatidae_sp.n._3.1414.C	-	True
+otu258906	Austrophasmatidae sp. B1	368630	409186	-	2022/04/15	True	original	Austrophasmatidae_sp.n._3.1413.Cw1m.1440.Cw2m	-	True
+otu258920	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_624.Ca2f	-	True
+otu258929	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_626.Ca3f	-	True
+otu258956	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_623.Re1m	-	True
+otu258964	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_578.Re2m	-	True
+otu258965	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_Re3f	-	True
+otu258940	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_577.Re1n	-	True
+otu258991	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_827.Cc2n	-	True
+otu258923	Lobatophasma redelinghuysense	557643	253128	-	2022/04/15	True	original	Lobatophasma_redelinghuysense_826.Cc1n	-	True
+otu258908	Hemilobophasma sp. JD-2006	426324	409188	-	2022/04/15	True	original	Hemilobophasma_sp.n._1442.De1m	-	True
+otu258932	Hemilobophasma sp. JD-2006	426324	409188	-	2022/04/15	True	original	Hemilobophasma_sp.n._786.De1f	-	True
+otu258980	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense.771.Rd1f	-	True
+otu258983	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_798.Rd1m	-	True
+otu258973	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_767.Gp1f	-	True
+otu259007	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_781.Gp1m	-	True
+otu258974	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_772.La1m	-	True
+otu258952	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_820.Kk1m	-	True
+otu258953	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_773.Kk1f	-	True
+otu258911	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_811.La1f	-	True
+otu258997	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_793.Gn1f	-	True
+otu259001	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_675.Mo1f.777.Mo3f	-	True
+otu258941	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_579.Mo2f.808.Mo1m	-	True
+otu258913	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_627.Mo1n	-	True
+otu258948	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_797.Ou1f	-	True
+otu258955	Hemilobophasma montaguense	36744	253130	-	2022/04/15	True	original	Hemilobophasma_montaguense_807.Ou1m	-	True
+otu259006	Austrophasmatidae sp. A2	368628	409185	-	2022/04/15	True	original	Austrophasmatidae_sp.n._2_769.Vd	-	True
+otu258919	Austrophasmatidae sp. A2	368628	409185	-	2022/04/15	True	original	Austrophasmatidae_sp.n._2_794.Vr	-	True
+otu258905	Austrophasmatidae sp. A2	368628	409185	-	2022/04/15	True	original	Austrophasmatidae_sp.n._2_783.Vd	-	True
+otu258957	Austrophasmatidae sp. A1	368623	409184	-	2022/04/15	True	original	Austrophasmatidae_sp.n._1_795.Le	-	True
+otu258986	Austrophasmatidae sp. A1	368623	409184	-	2022/04/15	True	original	Austrophasmatidae_sp.n._1_782.Le	-	True
+otu258949	Austrophasmatidae sp. A1	368623	409184	-	2022/04/15	True	original	Austrophasmatidae_sp.n._1_801.Hi	-	True
+otu258993	Austrophasmatidae sp. A1	368623	409184	-	2022/04/15	True	original	Austrophasmatidae_sp.n._1_799.An	-	True
+otu258951	Austrophasmatidae sp. A1	368623	409184	-	2022/04/15	True	original	Austrophasmatidae_sp.n._1_805.An	-	True
+otu259005	Karoophasma botterkloofense	36748	253132	-	2022/04/15	True	original	Karoophasma_botterkloofense_631.Bo1f	-	True
+otu258918	Karoophasma botterkloofense	36748	253132	-	2022/04/15	True	original	Karoophasma_botterkloofense_792.Lo1m	-	True
+otu258963	Karoophasma botterkloofense	36748	253132	-	2022/04/15	True	original	Karoophasma_botterkloofense_815.Lo1f	-	True
+otu258996	Karoophasma botterkloofense	36748	253132	-	2022/04/15	True	original	Karoophasma_botterkloofense_581.Cv1n	-	True
+otu258978	Karoophasma biedouwense	36751	253133	-	2022/04/15	True	original	Karoophasma_biedouwense_585.Wo2n	-	True
+otu258902	Karoophasma biedouwense	36751	253133	-	2022/04/15	True	original	Karoophasma_biedouwense_582.Dr1m.672.Dr2n	-	True
+otu258914	Karoophasma biedouwense	36751	253133	-	2022/04/15	True	original	Karoophasma_biedouwense_580.Dr1f.673.Dr1n	-	True
+otu259004	Karoophasma biedouwense	36751	253133	-	2022/04/15	True	original	Karoophasma_biedouwense_671.Bi1f	-	True
+otu258979	Karoophasma biedouwense	36751	253133	-	2022/04/15	True	original	Karoophasma_biedouwense_670.Bi1m	-	True
+otu258917	Karoophasma biedouwense	36751	253133	-	2022/04/15	True	original	Karoophasma_biedouwense_629.Bi4f	-	True
+otu258903	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_814.In1f	-	True
+otu258967	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_776.Ci1f	-	True
+otu258909	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_768.Ci2f	-	True
+otu258985	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_766.In1f	-	True
+otu258958	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_785.Kp1f	-	True
+otu258977	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_780.Km1f	-	True
+otu258961	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_796.KM1m	-	True
+otu259003	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_625.Cl1m	-	True
+otu258939	Austrophasma caledonense	36735	253135	-	2022/04/15	True	original	Austrophasma_caledonense_634.Ko1m	-	True
+otu259002	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_802.Sf1m	-	True
+otu258926	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_575.Ga1n	-	True
+otu258976	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_787.Ga2f	-	True
+otu258930	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_576.Ga2n	-	True
+otu258904	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_803.Ga3m.810.Sf3m	-	True
+otu258990	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_817.Sf3f	-	True
+otu258947	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_819.Sf2m	-	True
+otu258998	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_784.Ga2m	-	True
+otu258942	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_818.Sf2f.800.Sf1f	-	True
+otu258912	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_669.Ga1f	-	True
+otu258971	Austrophasma gansbaaiense	36738	253136	-	2022/04/15	True	original	Austrophasma_gansbaaiense_789.Ga3f	-	True
+otu258984	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_Ra2.674.Ra1n	-	True
+otu258950	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_587.Ra1m.632.R	-	True
+otu258982	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_806.Dt1m	-	True
+otu258916	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_668.Ga1m	-	True
+otu258959	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_584.Tw1n	-	True
+otu258972	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_804.Sw1f	-	True
+otu258989	Austrophasma rawsonvillense	36741	253137	-	2022/04/15	True	original	Austrophasma_rawsonvillense_809.Sw1m	-	True
+otu258925	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_821.Kr1m	-	True
+otu258968	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_790.Kg1f	-	True
+otu258987	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_816.Ks1f	-	True
+otu258934	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_788.Kg1m	-	True
+otu258970	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_791.Gr1m	-	True
+otu258946	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_813.Gr1f	-	True
+otu258994	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_770.St1m	-	True
+otu258936	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_774.Kn1m.775.Kn1f	-	True
+otu258938	Namaquaphasma ookiepense	578340	409167	-	2022/04/15	True	original	Namaquaphasma_ookiepense_779.St1f.812.Kr1f	-	True
+otu258935	Tyrannophasma gladiator	837958	270861	-	2022/04/15	True	original	Tyrannophasma_gladiator	-	True
+otu258924	Praedatophasma maraisi	5612	409170	-	2022/04/15	True	original	Praedatophasma_maraisi_1040m	-	True
+otu258966	Praedatophasma maraisi	5612	409170	-	2022/04/15	True	original	Praedatophasma_maraisi_1041f	-	True
+otu258954	Sclerophasma paresisense	557654	253126	-	2022/04/15	True	original	Sclerophasma_paresisense_GB	-	True
+otu258922	Sclerophasma paresisense	557654	253126	-	2022/04/15	True	original	Sclerophasma_paresisense_Pa1f	-	True
+otu258937	Sclerophasma paresisense	557654	253126	-	2022/04/15	True	original	Sclerophasma_paresisense_Pa1m	-	True
+otu258992	Tricholepidion gertschi	943277	89825	-	None	False	original	Tricholepidion_gertschi_GB	-	True
