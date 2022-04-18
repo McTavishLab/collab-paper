@@ -1,0 +1,25 @@
+#! /bin/bash -l
+
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem-per-cpu=10G
+#
+#SBATCH --partition mctavish.q
+#SBATCH --time=0-05:1000:00     # 4 days 1000 minutes
+#
+#SBATCH --output=rposada3-mantidae-2022-04-18.stdout
+#SBATCH --error=rposada3-mantidae-2022-04-18.stderr
+#
+#SBATCH --export=ALL
+
+pwd
+## Add dependcies to PATH
+export PATH=/branchinecta/shared/bin:$PATH
+## Activate virtual env
+source /branchinecta/shared/venv-physcraper/bin/activate
+
+pwd
+echo "Starting Randy’s Physcraper Mantidae Run"
+time physcraper_run.py --study_id pg_1988 --tree_id tree4074 --alignment /home/rposada3/branchinecta/shared/collab-paper/M11113-modified.nex --aln_schema nexus -db /branchinecta/shared/local_blast_db/ --search_taxon ott:656296 -o /collab-paper/linked_dir/randy-mantidae-2022-04-18
+
