@@ -1,0 +1,32 @@
+---
+title: "read_outputs.Rmd"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Reading Randy's results
+
+```{r}
+randy_mantodea_april18 <- readr::read_delim(file = "../linked_dir/randy-mantis-2022-04-15/outputs_pg_1562tree3124/otu_info_pg_1562tree3124.csv", delim = "\t")
+
+colnames(randy_mantodea_april18)
+
+sum(randy_mantodea_april18$`^physcraper:ingroup`) # 86 sequences in the ingroup
+
+sum(randy_mantodea_april18$`^physcraper:status` == "original") # 106 sequences are in original alignment, so all of them
+
+# let's look at the original and updated tree
+
+original <- ape::read.tree("../linked_dir/randy-mantis-2022-04-15/inputs_pg_1562tree3124/taxonname.tre")
+original
+
+updated <- ape::read.tree("../linked_dir/randy-mantis-2022-04-15/outputs_pg_1562tree3124/labelled_pg_1562tree3124.tre")
+updated
+
+updated$edge.length - original$edge.length
+
+grep("Bolbe", randy_mantodea_april18$`^ot:originalLabel`)
+```

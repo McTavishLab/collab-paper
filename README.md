@@ -45,16 +45,23 @@ TODO:
 ### April 27, 2022
 
 – Code review with EJM
+
 – Integrating the conflict API
 
 ### April 20, 2022
 
-– Adding a module to the Physcraper repo
+- Add a module to the Physcraper repo "viz.py":
+ 
+   – work on an independent branch
+   – create a virtualenv for this new branch, and install
+   – adding a test
+   – adding documentation to functions
 
 ### April 14, 2022
 
 - Demo: creating a function that reads, plots and saves a tree as pdf
-– Reading and summarizing information from csv files
+- Reading and summarizing information from csv files:
+   - `python bin/tree_comparison.py -d OUTPUT/PATH/AND/DIR/NAME -o  tmp`
 
 
 ### April 6, 2022
