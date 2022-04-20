@@ -21,5 +21,5 @@ source /branchinecta/shared/venv-physcraper/bin/activate
 
 pwd
 echo "Starting Randy’s Physcraper Mantidae Run"
-time physcraper_run.py --study_id pg_1988 --tree_id tree4074 --alignment /home/rposada3/branchinecta/shared/collab-paper/M11113-modified.nex --aln_schema nexus -db /branchinecta/shared/local_blast_db/ --search_taxon ott:656296 -o /collab-paper/linked_dir/randy-mantidae-2022-04-18
+time physcraper_run.py --study_id pg_1988 --tree_id tree4074 --alignment /home/rposada3/branchinecta/shared/collab-paper/M11113-modified.nex --aln_schema nexus -db /branchinecta/shared/local_blast_db/ --search_taxon ott:656296 -o ~/collab-paper/linked_dir/randy-mantidae-2022-04-18 -rlmin 0.2
 

@@ -8,8 +8,8 @@
 #SBATCH --partition mctavish.q
 #SBATCH --time=0-05:1000:00     # 4 days 1000 minutes
 #
-#SBATCH --output=rposada3-mantodea-2022-04-15.stdout
-#SBATCH --error=rposada3-mantodea-2022-04-15.stderr
+#SBATCH --output=rposada3-mantodea-2022-04-18.stdout
+#SBATCH --error=rposada3-mantodea-2022-04-18.stderr
 #
 #SBATCH --export=ALL
 
@@ -21,4 +21,4 @@ source /branchinecta/shared/venv-physcraper/bin/activate
 
 pwd
 echo "Starting Randy’s Physcraper Mantis Run"
-time physcraper_run.py --study_id pg_1562 --tree_id tree3124 -db /branchinecta/shared/local_blast_db/ --search_taxon ott:656293 -o ~/collab-paper/linked_dir/randy-mantis-2022-04-15 --treebase
+time physcraper_run.py --study_id pg_1562 --tree_id tree3124 -db /branchinecta/shared/local_blast_db/ --search_taxon ott:656293 -o ~/collab-paper/linked_dir/randy-mantodea-2022-04-18 --treebase -rlmin 0.3  

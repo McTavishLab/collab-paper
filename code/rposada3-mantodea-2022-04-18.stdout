@@ -1,0 +1,152 @@
+/home/rposada3/collab-paper/code
+/home/rposada3/collab-paper/code
+Starting Randy’s Physcraper Mantis Run
+No config file, using defaults
+Configuration Settings
+[blast]
+Entrez.email = None
+e_value_thresh = 1e-05
+hitlist_size = 10
+location = local
+localblastdb = /branchinecta/shared/local_blast_db/
+num_threads = 4
+delay = 90
+[physcraper]
+spp_threshold = 5
+min_length = 0.3
+max_length = 1.2
+
+downloading best match alignment from treebase to /home/rposada3/collab-paper/linked_dir/randy-mantodea-2022-04-18/pg_1562tree3124.aln
+restricting blast search                         to taxon ncbi:7504 (ott:656293; Mantodea)
+Tree file written to /home/rposada3/collab-paper/linked_dir/randy-mantodea-2022-04-18/inputs_pg_1562tree3124/taxonname.tre
+106 taxa in alignment and tree
+Blasting 'otu258995'
+tip otu258995 not in ingroup. Will not blast, 
+Blasting 'otu258992'
+tip otu258992 not in ingroup. Will not blast, 
+Blasting 'otu258944'
+tip otu258944 not in ingroup. Will not blast, 
+Blasting 'otu258960'
+tip otu258960 not in ingroup. Will not blast, 
+Blasting 'otu258945'
+tip otu258945 not in ingroup. Will not blast, 
+Blasting 'otu258910'
+tip otu258910 not in ingroup. Will not blast, 
+Blasting 'otu258969'
+tip otu258969 not in ingroup. Will not blast, 
+Blasting 'otu258933'
+tip otu258933 not in ingroup. Will not blast, 
+Blasting 'otu258962'
+tip otu258962 not in ingroup. Will not blast, 
+Blasting 'otu258988'
+tip otu258988 not in ingroup. Will not blast, 
+Blasting 'otu258915'
+tip otu258915 not in ingroup. Will not blast, 
+Blasting 'otu258921'
+tip otu258921 not in ingroup. Will not blast, 
+Blasting 'otu258999'
+tip otu258999 not in ingroup. Will not blast, 
+Blasting 'otu258943'
+tip otu258943 not in ingroup. Will not blast, 
+Blasting 'otu258907'
+tip otu258907 not in ingroup. Will not blast, 
+Blasting 'otu259000'
+tip otu259000 not in ingroup. Will not blast, 
+Blasting 'otu258931'
+tip otu258931 not in ingroup. Will not blast, 
+Blasting 'otu258928'
+tip otu258928 not in ingroup. Will not blast, 
+Blasting 'otu258927'
+tip otu258927 not in ingroup. Will not blast, 
+Blasting 'otu258975'
+tip otu258975 not in ingroup. Will not blast, 
+Blasting 'otu258935'
+Blasting 'otu258924'
+Blasting 'otu258966'
+Blasting 'otu258922'
+Blasting 'otu258937'
+Blasting 'otu258954'
+Blasting 'otu258987'
+Blasting 'otu258934'
+Blasting 'otu258968'
+Blasting 'otu258970'
+Blasting 'otu258946'
+Blasting 'otu258925'
+Blasting 'otu258936'
+Blasting 'otu258938'
+Blasting 'otu258994'
+Blasting 'otu258906'
+Blasting 'otu258981'
+Blasting 'otu258929'
+Blasting 'otu258940'
+Blasting 'otu258956'
+Blasting 'otu258920'
+Blasting 'otu258964'
+Blasting 'otu258965'
+Blasting 'otu258991'
+Blasting 'otu258923'
+Blasting 'otu258930'
+Blasting 'otu258912'
+Blasting 'otu258926'
+Blasting 'otu258976'
+Blasting 'otu258904'
+Blasting 'otu258990'
+Blasting 'otu259002'
+Blasting 'otu258947'
+Blasting 'otu258942'
+Blasting 'otu258971'
+Blasting 'otu258998'
+Blasting 'otu258939'
+Blasting 'otu259003'
+Blasting 'otu258909'
+Blasting 'otu258967'
+Blasting 'otu258985'
+Blasting 'otu258977'
+Blasting 'otu258961'
+Blasting 'otu258958'
+Blasting 'otu258903'
+Blasting 'otu258984'
+Blasting 'otu258916'
+Blasting 'otu258950'
+Blasting 'otu258959'
+Blasting 'otu258972'
+Blasting 'otu258989'
+Blasting 'otu258982'
+Blasting 'otu259005'
+Blasting 'otu258996'
+Blasting 'otu258963'
+Blasting 'otu258918'
+Blasting 'otu258986'
+Blasting 'otu258957'
+Blasting 'otu258949'
+Blasting 'otu258951'
+Blasting 'otu258993'
+Blasting 'otu259006'
+Blasting 'otu258919'
+Blasting 'otu258905'
+Blasting 'otu258902'
+Blasting 'otu258914'
+Blasting 'otu258978'
+Blasting 'otu258979'
+Blasting 'otu258917'
+Blasting 'otu259004'
+Blasting 'otu258941'
+Blasting 'otu259001'
+Blasting 'otu258913'
+Blasting 'otu258952'
+Blasting 'otu258980'
+Blasting 'otu258948'
+Blasting 'otu258955'
+Blasting 'otu258974'
+Blasting 'otu258911'
+Blasting 'otu259007'
+Blasting 'otu258973'
+Blasting 'otu258997'
+Blasting 'otu258953'
+Blasting 'otu258983'
+Blasting 'otu258932'
+Blasting 'otu258908'
+reading blast data
+30 taxa in orginal alignment;                           30 taxa in updated alignemnt,                           keeping max 5 seq per taxon
+**** Found 0 new sequences after                           removing identical seqs****
+Tree file written to /home/rposada3/collab-paper/linked_dir/randy-mantodea-2022-04-18/outputs_pg_1562tree3124/labelled_pg_1562tree3124.tre

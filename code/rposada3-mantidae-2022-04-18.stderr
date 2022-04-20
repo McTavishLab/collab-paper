@@ -1,16 +1,16 @@
 Traceback (most recent call last):
   File "/branchinecta/shared/venv-physcraper/bin/physcraper_run.py", line 7, in <module>
     exec(compile(f.read(), __file__, 'exec'))
-  File "/branchinecta/shared/physcraper/bin/physcraper_run.py", line 118, in <module>
-    os.makedirs(workdir)
-  File "/usr/lib64/python3.6/os.py", line 210, in makedirs
-    makedirs(head, mode, exist_ok)
-  File "/usr/lib64/python3.6/os.py", line 210, in makedirs
-    makedirs(head, mode, exist_ok)
-  File "/usr/lib64/python3.6/os.py", line 220, in makedirs
-    mkdir(name, mode)
-PermissionError: [Errno 13] Permission denied: '/collab-paper'
+  File "/branchinecta/shared/physcraper/bin/physcraper_run.py", line 243, in <module>
+    search_taxon = search_ott_id)
+  File "/branchinecta/shared/physcraper/physcraper/opentree_helpers.py", line 384, in generate_ATT_from_phylesystem
+    configfile=configfile)
+  File "/branchinecta/shared/physcraper/physcraper/aligntreetax.py", line 347, in __init__
+    self.read_in_aln(alignment, aln_schema)
+  File "/branchinecta/shared/physcraper/physcraper/aligntreetax.py", line 399, in read_in_aln
+    assert os.path.exists(alignment)
+AssertionError
 
-real	0m9.359s
-user	0m1.865s
-sys	0m0.288s
+real	0m27.147s
+user	0m21.286s
+sys	0m2.330s
