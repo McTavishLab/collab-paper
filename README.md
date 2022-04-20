@@ -44,6 +44,7 @@ TODO:
 
 ### April 27, 2022
 
+– How to use new version of physcraper in our jupyter notebook
 – Code review with EJM
 
 – Integrating the conflict API
