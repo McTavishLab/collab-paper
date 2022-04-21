@@ -44,19 +44,19 @@ TODO:
 
 ### April 27, 2022
 
-– How to use new version of physcraper in our jupyter notebook
-– Code review with EJM
-
-– Integrating the conflict API
+– Q: How to use new version of physcraper in our jupyter notebook?
+– Code review with EJM: Integrating the conflict API
+– adding documentation to functions
 
 ### April 20, 2022
 
-- Add a module to the Physcraper repo "viz.py":
- 
-   – work on an independent branch
-   – create a virtualenv for this new branch, and install
-   – adding a test
-   – adding documentation to functions
+- Add a module to the Physcraper repo called `viz.py`:
+	– worked on an independent branch `viz-module`
+	– create a virtualenv for this new branch, and install with `pip install -e .`
+	– added a test to `tests/test_viz.py`
+	– Homework 
+      - Lucia: Remove box around tree
+      - Luna: Add color option to new tip labels
 
 ### April 14, 2022
 
