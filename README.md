@@ -41,7 +41,9 @@ TODO:
 - https://www.youtube.com/watch?v=euNvxWaRQMY save tables as pdf with Python
 - Demo: setting up an opentree kernel, [instructions here](https://opentreeoflife.github.io/jupyter-venv)
 
-
+### May 4
+- Check mantidae run for Randy, alignment assertion error
+- 
 ### April 27, 2022
 
 – Q: How to use new version of physcraper in our jupyter notebook?
